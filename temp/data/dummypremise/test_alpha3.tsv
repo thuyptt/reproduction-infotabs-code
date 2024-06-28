@@ -1,0 +1,1801 @@
+index	table_id	annotator_id	premise	hypothesis	label
+0	T2045	GW74	to be or not to be	Most of the survivors were crew.	0
+1	T2045	GW74	to be or not to be	The five fatalities included 1 passenger	1
+2	T2045	GW74	to be or not to be	There were more survivors than there were crew.	2
+3	T2045	GW52	to be or not to be	Most of the 1950 British Columbia B-36 crash victims survived.	0
+4	T2045	GW52	to be or not to be	The 1950 British Coluimbia B-36 crash report engine problems before the crash.	1
+5	T2045	GW52	to be or not to be	The 1950 B-36 crash was due to birds entering the engine bay.	2
+6	T2045	GW95	to be or not to be	There was one passenger for every 16 crew members.	0
+7	T2045	GW95	to be or not to be	All deaths were members of the crew.	1
+8	T2045	GW95	to be or not to be	More passengers than crew members died.	2
+9	T2046	GW86	to be or not to be	The 1999 Jiji earthquake damaged or destroyed more than 100,000 buildings.	0
+10	T2046	GW86	to be or not to be	The 1999 Jiji earthquake killed more than 2,415 people.	1
+11	T2046	GW86	to be or not to be	The 1999 Jiji earthquake destroyed more buildings than it damaged.	2
+12	T2046	GW95	to be or not to be	The Jiji earthquake took place in asia.	0
+13	T2046	GW95	to be or not to be	Most of the buildings damaged were homes.	1
+14	T2046	GW95	to be or not to be	This earthquake happened at the beginning of the millennium.	2
+15	T2046	GW74	to be or not to be	The local time has a six hour difference from UTC time	0
+16	T2046	GW74	to be or not to be	29 people have been missing for 20 years	1
+17	T2046	GW74	to be or not to be	The date of the UTC time and locate date are the same	2
+18	T2047	GW12	to be or not to be	The 2004 Indian Ocean earthquake and tsunami took place on December 26 on the Indian Ocean coastline areas.	0
+19	T2047	GW12	to be or not to be	The total damage of the 2004 Indian Ocean earthquake and tsunami was over $15 billion US dollars.	1
+20	T2047	GW12	to be or not to be	The causalities of the violent  2004 Indian Ocean earthquake and tsunami left under 200,000 dead.	2
+21	T2047	GW28	to be or not to be	2004 Indian Ocean earthquake and tsunami occurred in Asia.	0
+22	T2047	GW28	to be or not to be	2004 Indian Ocean earthquake and tsunami was felt as far away as Europe.	1
+23	T2047	GW28	to be or not to be	The exact date and time of the 2004 Indian Ocean earthquake and tsunami could not be determined.	2
+24	T2047	GW52	to be or not to be	The 2004 earthquake/tsunami killed over 200,000 people.	0
+25	T2047	GW52	to be or not to be	The 2004 earthquake/tsunami was felt in several continents.	1
+26	T2047	GW52	to be or not to be	The 2004 earthquake/tsunami was characterized as an extreme earthquake.	2
+27	T2048	GW63	to be or not to be	There was a severe Earthquake that happened in Indonesia after 2004.	0
+28	T2048	GW63	to be or not to be	Only a portion of Indonesia was affected by the Nias–Simeulue earthquake.	1
+29	T2048	GW63	to be or not to be	Only mild earthquakes have happened in Asia.	2
+30	T2048	GW12	to be or not to be	The 2005 Nias–Simeulue earthquake occurred in 2005 at the local time of 23:09.	0
+31	T2048	GW12	to be or not to be	The 2005 Nias–Simeulue earthquake affected the area of Indonesia.	1
+32	T2048	GW12	to be or not to be	There were 915 injured and 340 deaths as the result of the 2005 Nias–Simeulue earthquake.	2
+33	T2048	GW28	to be or not to be	2005 Nias–Simeulue earthquake was located in Asia and struck at night.	0
+34	T2048	GW28	to be or not to be	2005 Nias–Simeulue earthquake did not produce any tsunami.	1
+35	T2048	GW28	to be or not to be	2005 Nias–Simeulue earthquake could not be pinpointed with any accuracy.	2
+36	T2049	GW52	to be or not to be	The Sichuan Earthquake cost over $100 billion in damages.	0
+37	T2049	GW52	to be or not to be	The 2008 Sichuan earthquake has damage that still hasn't been repaired.	1
+38	T2049	GW52	to be or not to be	The earthquake never reached above a X intensity.	2
+39	T2049	GW74	to be or not to be	There is an 8 hour difference in UTC time and local time	0
+40	T2049	GW74	to be or not to be	87,587 were all killed at 14:28:01 CST	1
+41	T2049	GW74	to be or not to be	The date of UTC time and local time are different	2
+42	T2049	GW1	to be or not to be	Over a quarter million people were injured in the 2008 Sichuan earthquake.	0
+43	T2049	GW1	to be or not to be	The 2008 Sichuan earthquake is the only earthquake that has been linked to the Longmenshan Fault.	1
+44	T2049	GW1	to be or not to be	The 2008 Sichuan earthquake occurred in the Winter of 2008.	2
+45	T2050	GW63	to be or not to be	Over 6000 people were injured and a damage of over $300 billion occurred in the March 2011 Earthquake	0
+46	T2050	GW63	to be or not to be	There were aftershocks even after 6 March 2018 from the Earthquake that happened in Japan in 2011.	1
+47	T2050	GW63	to be or not to be	USGS-ANSS ComCat is only related to Japan and Pacific Rim	2
+48	T2050	GW1	to be or not to be	The 2011 Tōhoku earthquake and tsunami caused over a quarter trillion dollars in damage.	0
+49	T2050	GW1	to be or not to be	The 2011 Tōhoku earthquake and tsunami was the first tsunami to hit Miyako, Iwate, Tōhoku.	1
+50	T2050	GW1	to be or not to be	More than 30,000 casualties total were caused by the 2011 Tōhoku earthquake and tsunami.	2
+51	T2050	GW105	to be or not to be	The Tōhoku earthquake and tsunami was one of the more violent storms that occurred in the spring.	0
+52	T2050	GW105	to be or not to be	The Pacific rim took the most damage from Tōhoku earthquake and tsunami.	1
+53	T2050	GW105	to be or not to be	Millions of people went missing during the Tōhoku earthquake and tsunami.	2
+54	T2051	GW52	to be or not to be	The 2016 Ecuador earthquake caused over 500 casualties.	0
+55	T2051	GW52	to be or not to be	The 2016 Ecuador earthquake was felt in the United States.	1
+56	T2051	GW52	to be or not to be	The 2016 Ecuador earthquake was categorized as an extreme earthquake.	2
+57	T2051	GW28	to be or not to be	The 2016 Ecuador earthquake struck and killed hundreds and injured thousands.	0
+58	T2051	GW28	to be or not to be	The 2016 Ecuador earthquake was the strongest earthquake in South America in more than a century.	1
+59	T2051	GW28	to be or not to be	The 2016 Ecuador earthquake was localized in Ecuador and did not affect other neighboring countries.	2
+60	T2051	GW86	to be or not to be	The 2016 Ecuador earthquake was felt in more than one country.	0
+61	T2051	GW86	to be or not to be	2016 Ecuador earthquake killed precisely 668 people.	1
+62	T2051	GW86	to be or not to be	The 2016 Ecuador earthquake was only felt in Ecuador.	2
+63	T2052	GW4	to be or not to be	The 2019 Peru earthquake wound up killing more than 1 person.	0
+64	T2052	GW4	to be or not to be	The 2019 Peru earthquake was one that was expected.	1
+65	T2052	GW4	to be or not to be	The 2019 Peru earthquake was a weak earthquake	2
+66	T2052	GW1	to be or not to be	The 2019 Peru earthquake injured over 2 dozen people.	0
+67	T2052	GW1	to be or not to be	The 2019 Peru earthquake injured more people in Peru than Ecuador.	1
+68	T2052	GW1	to be or not to be	The 2019 Peru earthquake lasted for over 3 hours.	2
+69	T2052	GW95	to be or not to be	This earthquake happened early in the morning.	0
+70	T2052	GW95	to be or not to be	The two deaths were Ecuadorians.	1
+71	T2052	GW95	to be or not to be	The earthquake was the deadliest in history.	2
+72	T2053	GW28	to be or not to be	Acorn Microcomputer was released with a keyboard but not a joystick.	0
+73	T2053	GW28	to be or not to be	Acorn Microcomputer was sold only in Europe.	1
+74	T2053	GW28	to be or not to be	Acorn Microcomputer included state-of-the-art graphics and sound cards.	2
+75	T2053	GW12	to be or not to be	Acorn Computers developed the Acorn Microcomputer in 1979.	0
+76	T2053	GW12	to be or not to be	The Acorn Microcomputer has a 25-key keypad and an LED display.	1
+77	T2053	GW12	to be or not to be	The release date of the Acorn Atom was forty years ago.	2
+78	T2053	GW52	to be or not to be	The Acorn Microcomputer debuted over 40 years ago.	0
+79	T2053	GW52	to be or not to be	The Acorn Microcomputer was considered a cheap alternative.	1
+80	T2053	GW52	to be or not to be	The Acorn Microcomputer houses more than 1MB of RAM.	2
+81	T2054	GW1	to be or not to be	The Aerotrain is partially above ground.	0
+82	T2054	GW1	to be or not to be	Aerotrain has always had 2 stations.	1
+83	T2054	GW1	to be or not to be	The Aerotrain opened early in the 20th century.	2
+84	T2054	GW63	to be or not to be	Men and women can use the Aerotrain in the year 2000.	0
+85	T2054	GW63	to be or not to be	Malaysia Airports Holdings Berhad constructed and designed the Aerotrain.	1
+86	T2054	GW63	to be or not to be	The Aerotrain operates only above the ground for a distance of 2 km in Malaysia	2
+87	T2054	GW52	to be or not to be	Aerotrain opened over 20 years ago.	0
+88	T2054	GW52	to be or not to be	Aerotrain fluctuates in speed on the route.	1
+89	T2054	GW52	to be or not to be	Aerotrain has a railway route over a mile.	2
+90	T2055	GW28	to be or not to be	African trypanosomiasis is an infection disease spread by tsetse flies in Africa.	0
+91	T2055	GW28	to be or not to be	African trypanosomiasis originated in Europe and spread into Africa.	1
+92	T2055	GW28	to be or not to be	Contracting African trypanosomiasis was eradicated decades ago.	2
+93	T2055	GW95	to be or not to be	Most people who get it receive treatment.	0
+94	T2055	GW95	to be or not to be	The diagnostic methods are extremely painful.	1
+95	T2055	GW95	to be or not to be	90 percent of people who get it, die from it.	2
+96	T2055	GW4	to be or not to be	African trypanosomiasis has more than one stage.	0
+97	T2055	GW4	to be or not to be	The disease African trypanosomiasis only comes from Africa.	1
+98	T2055	GW4	to be or not to be	African trypanosomiasis kills more than 50% of people that contract it.	2
+99	T2056	GW106	to be or not to be	Life expectancy among patients afflicted with AIDS greatly increases with antiretroviral therapy treatment.	0
+100	T2056	GW106	to be or not to be	Most new cases of AIDS in the United States occur as a result of exposure to breast milk.	1
+101	T2056	GW106	to be or not to be	Antiretroviral therapies are capable of curing AIDS in a small percentage of patients.	2
+102	T2056	GW19	to be or not to be	Human immunodeficiency virus (HIV) is no longer considered the automatic death sentence that it was in the 1980s.	0
+103	T2056	GW19	to be or not to be	Unprotected sex is the primary method of HIV transmission.	1
+104	T2056	GW19	to be or not to be	If diagnosed early enough, HIV can be cured completely.	2
+105	T2056	GW28	to be or not to be	HIV/AIDS is an infectious disease with no known cure, only treatment.	0
+106	T2056	GW28	to be or not to be	HIV/AIDS affects hetero and homosexual couples equally.	1
+107	T2056	GW28	to be or not to be	HIV/AIDS is usually a death sentence for people without treatment.	2
+108	T2057	GW12	to be or not to be	Alfa Romeo is the manufacturer of the Alfa Romeo V6 engine but not the designer.	0
+109	T2057	GW12	to be or not to be	The aluminium Alfa Romeo V6 engine is also called the Alfa Romeo V6 Busso.	1
+110	T2057	GW12	to be or not to be	The Alfa Romeo V6 engine was in production for over 30 years.	2
+111	T2057	GW4	to be or not to be	An Alfa Romeo V6 engine started being made in the 70s.	0
+112	T2057	GW4	to be or not to be	The Alfa Romeo V6 engine needs oil changes regularly.	1
+113	T2057	GW4	to be or not to be	An Alfa Romeo V6 engine is made with a steel block.	2
+114	T2057	GW52	to be or not to be	The Alfa Romeo V6 was in production for a quarter century.	0
+115	T2057	GW52	to be or not to be	Alfa Romeo’s V6 engine was used in multiple vehicles.	1
+116	T2057	GW52	to be or not to be	The V6 had more than 225 lb ft of torque.	2
+117	T2058	GW74	to be or not to be	Altostratus undulatus cloud are wavy stratus clouds	0
+118	T2058	GW74	to be or not to be	Altostratus undulatus cloud are always found at an altitude of 2400-6100 m	1
+119	T2058	GW74	to be or not to be	Altostratus undulatus cloud are low clouds that form precipitation	2
+120	T2058	GW105	to be or not to be	The altostratus tends to look rippled.	0
+121	T2058	GW105	to be or not to be	The altostratus cloud appears at 15,000 ft high.	1
+122	T2058	GW105	to be or not to be	The altostratus cloud usually means there's going to be a hurricane.	2
+123	T2058	GW52	to be or not to be	The AS ascends an altitude of above 8000 ft.	0
+124	T2058	GW52	to be or not to be	Clouds have a classification system.	1
+125	T2058	GW52	to be or not to be	Precipitation is guaranteed with an AS cloud.	2
+126	T2059	GW19	to be or not to be	While the birthday of B.R. Ambedkar is recognized in India, it is not a religious holiday.	0
+127	T2059	GW19	to be or not to be	Dr. Babasaheb Ambedkar is considered the author of India's Constitution.	1
+128	T2059	GW19	to be or not to be	Dr. Babasaheb Ambedkar was the leader of the primary Pakistani nationalist movement.	2
+129	T2059	GW63	to be or not to be	Ambedkar Jayanti is celebrated along Ashok Vijaya Dashmi on 14 April	0
+130	T2059	GW63	to be or not to be	B. R, Ambedkar was also known as Bhim	1
+131	T2059	GW63	to be or not to be	B. R. Ambedkar was born in May	2
+132	T2059	GW86	to be or not to be	Ambedkar Jayanti occurs yearly.	0
+133	T2059	GW86	to be or not to be	Ambedkar Jayanti commemorates the birth anniversary of a medical doctor.	1
+134	T2059	GW86	to be or not to be	Ambedkar Jayanti is a religious holiday.	2
+135	T2060	GW52	to be or not to be	Angelina was established in the early 20th century.	0
+136	T2060	GW52	to be or not to be	Angelina serves multiple kinds of food.	1
+137	T2060	GW52	to be or not to be	Angelina has undergone five different owners.	2
+138	T2060	GW74	to be or not to be	226 Rue de Rivoli is in Paris	0
+139	T2060	GW74	to be or not to be	Groupe Bertrand lives in Paris	1
+140	T2060	GW74	to be or not to be	Antoine Rumpelmayer replaced Groupe Bertrand as owners	2
+141	T2060	GW4	to be or not to be	Angelina first opened over 100 years ago.	0
+142	T2060	GW4	to be or not to be	Angelina is known as one of the best places to eat in France.	1
+143	T2060	GW4	to be or not to be	Angelina only has one main location.	2
+144	T2061	GW86	to be or not to be	The Apple I was one of a series of computers.	0
+145	T2061	GW86	to be or not to be	The Apple I had a disc drive.	1
+146	T2061	GW86	to be or not to be	The Apple I cost over $2,000 when it was introduced.	2
+147	T2061	GW52	to be or not to be	The Apple I was in production for less than two years.	0
+148	T2061	GW52	to be or not to be	The Apple I was the first model Apple developed.	1
+149	T2061	GW52	to be or not to be	The Apple I was a cheap computer upon release.	2
+150	T2061	GW28	to be or not to be	The Apple I was on the market for less than two years.	0
+151	T2061	GW28	to be or not to be	The Apple I came with two joysticks for gaming.	1
+152	T2061	GW28	to be or not to be	Apple I was introduced and stopped production in the same year.	2
+153	T2062	GW28	to be or not to be	Argon has been known for over a hundred years.	0
+154	T2062	GW28	to be or not to be	Argon is fatal when inhaled.	1
+155	T2062	GW28	to be or not to be	The melting and boiling points for Argon are identical.	2
+156	T2062	GW74	to be or not to be	The melting point is more the 4 °C than the boiling point.	0
+157	T2062	GW74	to be or not to be	Atomic number is the sum of Electrons per shell	1
+158	T2062	GW74	to be or not to be	Critical point is exactly double the triple point	2
+159	T2062	GW52	to be or not to be	Argon was one of the first 20 elements discovered.	0
+160	T2062	GW52	to be or not to be	Argon is commonly used to this day.	1
+161	T2062	GW52	to be or not to be	Argon was discovered in the 20th century.	2
+162	T2063	GW28	to be or not to be	Astatine was discovered in the first-half of the 20th century by multiple people.	0
+163	T2063	GW28	to be or not to be	Astatine was discovered by accident while in the wild.	1
+164	T2063	GW28	to be or not to be	Astatine was named after one of the scientists that discovered the element.	2
+165	T2063	GW4	to be or not to be	Astatine can be found on the periodic table.	0
+166	T2063	GW4	to be or not to be	Astatine glows when it is lit.	1
+167	T2063	GW4	to be or not to be	Astatine is known for being very reactive.	2
+168	T2063	GW95	to be or not to be	Astatine is found in run down elements.	0
+169	T2063	GW95	to be or not to be	It was discovered by 3 Italians.	1
+170	T2063	GW95	to be or not to be	Astatine is found on clean surfaces.	2
+171	T2064	GW95	to be or not to be	Autism is usually diagnosed during toddler hood.	0
+172	T2064	GW95	to be or not to be	Most autism patients are bullied due to their communication problems.	1
+173	T2064	GW95	to be or not to be	Autism is treated with shots.	2
+174	T2064	GW52	to be or not to be	Autism affects nearly 25 million people a year.	0
+175	T2064	GW52	to be or not to be	Autism's onset has gone up over the years.	1
+176	T2064	GW52	to be or not to be	Autism only lasts for a few months.	2
+177	T2064	GW4	to be or not to be	Autism is a disease that shows symptoms in young children.	0
+178	T2064	GW4	to be or not to be	People with Autism usually have problems talking with others.	1
+179	T2064	GW4	to be or not to be	People with Autism are usually killed by it.	2
+180	T2065	GW19	to be or not to be	The B25 Fulton Street line, part of the MTA NYC Bus system operated by the NYC Transit Authority, has more than 2.5 million riders each year.	0
+181	T2065	GW19	to be or not to be	The B25 Bus Line is one of the most heavily used lines in the NYC bus system.	1
+182	T2065	GW19	to be or not to be	The B25 Bus Line runs run the Upper West Side to Staten Island.	2
+183	T2065	GW106	to be or not to be	The b25 Fulton Street Line travels on York Street in Brooklyn.	0
+184	T2065	GW106	to be or not to be	The b25 buses have always been housed at he East New York Depot.	1
+185	T2065	GW106	to be or not to be	The MTA limits the operation of the b5 Fulton Street Line to daytime through early evening hours.	2
+186	T2065	GW86	to be or not to be	The b25 Fulton Street Line runs 24 hours a day.	0
+187	T2065	GW86	to be or not to be	The b25 Fulton Street Line runs on Fulton Street for the majority of its route.	1
+188	T2065	GW86	to be or not to be	The b25 Fulton Street Line starts on Broadway Junction and ends on Front Street.	2
+189	T2066	GW52	to be or not to be	b48 Lorimer Street helps over a million people travel each year.	0
+190	T2066	GW52	to be or not to be	b48 Lorimer Street still offers streetcar service.	1
+191	T2066	GW52	to be or not to be	b48 Lorimer Street operates only throughout the day.	2
+192	T2066	GW84	to be or not to be	Fresh Pond Depot is located in Brooklyn.	0
+193	T2066	GW84	to be or not to be	There are over 2 million annual patrons at B48 Lorimor Street.	1
+194	T2066	GW84	to be or not to be	Only buses are parked at Fresh Pond Depot.	2
+195	T2066	GW74	to be or not to be	b48 Lorimer Street did not use Nova Bus RTS-06 in 1884	0
+196	T2066	GW74	to be or not to be	b48 Lorimer Street began using the Orion VII in 1947	1
+197	T2066	GW74	to be or not to be	b48 Lorimer Street starts and ends in the same community	2
+198	T2067	GW52	to be or not to be	The b63 Fifth Avenue Line was developed in the 19th century.	0
+199	T2067	GW52	to be or not to be	The b63 Fifth Avenue Line has had changes to its length over the years.	1
+200	T2067	GW52	to be or not to be	The b63 Fifth Avenue Line's annual usage rate exceeds five million.	2
+201	T2067	GW106	to be or not to be	The B63 Line is less than 6 miles in length.	0
+202	T2067	GW106	to be or not to be	The B63 Fifth Avenue Line is the most frequently traveled route in Brooklyn annually.	1
+203	T2067	GW106	to be or not to be	The last pick-up on the B63 Fifth Avenue line leaves at 11:59PM from Pier 6.	2
+204	T2067	GW28	to be or not to be	b63 Fifth Avenue Line is a bus route that began service over a century ago in Brooklyn, New York.	0
+205	T2067	GW28	to be or not to be	The b63 Fifth Avenue Line has reduced fare at off-peak hours.	1
+206	T2067	GW28	to be or not to be	b63 Fifth Avenue Line also serves community in Queens.	2
+207	T2068	GW52	to be or not to be	The b69 Vanderbilt Avenue Line has over a million people that travel on it every year.	0
+208	T2068	GW52	to be or not to be	The b69 Vanderbilt Avenue Line has experimented with late night operations.	1
+209	T2068	GW52	to be or not to be	The b69 Vanderbilt Avenue Line closed for good in 1950.	2
+210	T2068	GW106	to be or not to be	The last stop for the B69 Vanderbilt Avenue Line is located in Brooklyn's downtown region.	0
+211	T2068	GW106	to be or not to be	The B69 Line was the most popular mode of transportation to Ebbets Field during the 1956 World Series.	1
+212	T2068	GW106	to be or not to be	Over 1.5 million customers rode the B69 in 2017.	2
+213	T2068	GW1	to be or not to be	The b69 Vanderbilt Avenue Line started service in the 19th century.	0
+214	T2068	GW1	to be or not to be	The b69 Vanderbilt Avenue Line has always had transfers available on it.	1
+215	T2068	GW1	to be or not to be	In the middle of the 19th century, the b69 Vanderbilt Avenue Line stopped operating.	2
+216	T2069	GW52	to be or not to be	The Bandra Worli Sea Link began construction two decades ago.	0
+217	T2069	GW52	to be or not to be	The Bandra Worli Sea Link is an extremely popular toll booth.	1
+218	T2069	GW52	to be or not to be	The Sea Link has a flat toll for all vehicles.	2
+219	T2069	GW74	to be or not to be	Construction of Bandra Worli Sea Link was completed in about 10 years	0
+220	T2069	GW74	to be or not to be	MSRDC hired Seshadri Srinivasan to design the  Bandra Worli Sea Link	1
+221	T2069	GW74	to be or not to be	The Bandra Worli Sea Link opened 1 year after constructions ended.	2
+222	T2069	GW106	to be or not to be	The Bandra Worli Sea Link is owned and maintained by the same company.	0
+223	T2069	GW106	to be or not to be	Most tolls paid by drivers traveling on the Bandra Worli Sea Link pay an average of US$1.60.	1
+224	T2069	GW106	to be or not to be	Construction of the Bandra Worli Sea Link occurred in two different decades.	2
+225	T2070	GW4	to be or not to be	Bell's palsy is a disease that people can get over.	0
+226	T2070	GW4	to be or not to be	The disease Bell's palsy is one that is fairly common.	1
+227	T2070	GW4	to be or not to be	Bell's palsy is a disease that winds up killing people.	2
+228	T2070	GW52	to be or not to be	Bell’s palsy is an uncommon condition.	0
+229	T2070	GW52	to be or not to be	Bell’s palsy can be reoccurring.	1
+230	T2070	GW52	to be or not to be	Bell’s palsy is a lifelong condition.	2
+231	T2070	GW28	to be or not to be	Bell's palsy is a neurological disorder that is temporary but painful and embarrassing.	0
+232	T2070	GW28	to be or not to be	Bell's palsy affects mainly older adult males.	1
+233	T2070	GW28	to be or not to be	Bell's palsy is a lifelong affliction that can be managed.	2
+234	T2071	GW28	to be or not to be	Beltane is an annual cultural observation that celebrates the beginning of summer.	0
+235	T2071	GW28	to be or not to be	Beltane is celebrated by many other groups regardless of religion or beliefs.	1
+236	T2071	GW28	to be or not to be	Beltane is a semi-annual Christian celebration	2
+237	T2071	GW52	to be or not to be	Beltane signifies a change in the season.	0
+238	T2071	GW52	to be or not to be	Beltane is how the term May Day began.	1
+239	T2071	GW52	to be or not to be	Beltane occurs on May 1st around the world.	2
+240	T2071	GW74	to be or not to be	Beltane celebrates the beginning of summer on May 1	0
+241	T2071	GW74	to be or not to be	Wiccans usually lighting bonfires to celebrate Beltane	1
+242	T2071	GW74	to be or not to be	The beginning of summer is celebrated in June in the southern hemisphere	2
+243	T2072	GW52	to be or not to be	Bipolar disorder has different types.	0
+244	T2072	GW52	to be or not to be	Bipolar disorder has grown in frequency.	1
+245	T2072	GW52	to be or not to be	Bipolar disorder onsets in middle age.	2
+246	T2072	GW105	to be or not to be	Bipolar disorder is a rare disease affecting a small percentage of the population.	0
+247	T2072	GW105	to be or not to be	Most cases of bipolar disorder are due to genetics.	1
+248	T2072	GW105	to be or not to be	Children are most at risk for bipolar disorder.	2
+249	T2072	GW74	to be or not to be	There are more risk factors for Bipolar disorder than causes	0
+250	T2072	GW74	to be or not to be	A 25 year old who suffered childhood abuse will develop Bipolar disorder	1
+251	T2072	GW74	to be or not to be	There are more complications than symptoms	2
+252	T2073	GW1	to be or not to be	The BMW 3 Series was first made in the 2nd decade of the 21st century.	0
+253	T2073	GW1	to be or not to be	The petrol- turbocharged BMW 3 Series is considered superior by experts compared to the diesel- turbocharged BMW 3 Series.	1
+254	T2073	GW1	to be or not to be	The BMW 3 Series had 3 main designers.	2
+255	T2073	GW28	to be or not to be	BMW 3 Series is a German car assembled in multiple different countries.	0
+256	T2073	GW28	to be or not to be	BMW 3 Series is the most affordable class of cars from BMW.	1
+257	T2073	GW28	to be or not to be	BMW 3 Series is theri SUV offering powered by electric batteries.	2
+258	T2073	GW52	to be or not to be	The BMW 3 series, F edition, had nearly a decade of production.	0
+259	T2073	GW52	to be or not to be	The F model BMW 3 series is the last in the 3 series line-up.	1
+260	T2073	GW52	to be or not to be	The F model BMW 3 series had two designers for each vehicle.	2
+261	T2074	GW4	to be or not to be	A brain tumor usually winds up killing more than 200,000 people a year.	0
+262	T2074	GW4	to be or not to be	A brain tumor can be removed at points in time.	1
+263	T2074	GW4	to be or not to be	More than half of people that get a brain tumor will live.	2
+264	T2074	GW28	to be or not to be	Treatment for a brain turmor is varied and done in conjunction with medicines.	0
+265	T2074	GW28	to be or not to be	The most popular method of diagnosing a brain tumor is to have a tissue biopsy.	1
+266	T2074	GW28	to be or not to be	A brain tumor is usually fatal within a few months of diagnosis.	2
+267	T2074	GW52	to be or not to be	A brain tumor occurs in over one million patients.	0
+268	T2074	GW52	to be or not to be	The prognosis for brain tumors has gotten better over the years.	1
+269	T2074	GW52	to be or not to be	All who have a brain tumor will die from it.	2
+270	T2075	GW1	to be or not to be	As of 2015, over 2 million people have been affected by breast cancer.	0
+271	T2075	GW1	to be or not to be	Statistically, doctors prefer surgery to radiation therapy as a breast cancer treatment.	1
+272	T2075	GW1	to be or not to be	Over a million people were killed by breast cancer in 2018.	2
+273	T2075	GW74	to be or not to be	Deaths in 2018 were more than a quarter of the frequency affected in 2015.	0
+274	T2075	GW74	to be or not to be	obesity causes change in breast shape	1
+275	T2075	GW74	to be or not to be	There are more more symptoms than risk factors	2
+276	T2075	GW52	to be or not to be	Breast cancer affects over two million people a year.	0
+277	T2075	GW52	to be or not to be	Breast cancer happens in males.	1
+278	T2075	GW52	to be or not to be	Breast cancer has a low survival rate.	2
+279	T2076	GW4	to be or not to be	Bromine has a mass that is greater than 70.	0
+280	T2076	GW4	to be or not to be	The mineral Bromine is known for being halogen.	1
+281	T2076	GW4	to be or not to be	Bromine was first discovered in the 1900s.	2
+282	T2076	GW52	to be or not to be	Bromine was one of the first 50 elements discovered.	0
+283	T2076	GW52	to be or not to be	Bromine is highly volatile.	1
+284	T2076	GW52	to be or not to be	Bromine was discovered in the 18th century.	2
+285	T2076	GW86	to be or not to be	Bromine was first discovered in the nineteenth century.	0
+286	T2076	GW86	to be or not to be	Bromine most frequently occurs in liquid form.	1
+287	T2076	GW86	to be or not to be	Bromine is alkaline.	2
+288	T2077	GW60	to be or not to be	John Augustus Roebling knows how to design suspension/cable-stay hybrid bridges.	0
+289	T2077	GW60	to be or not to be	The Brooklyn Bridge is the only bridge to cross the East River.	1
+290	T2077	GW60	to be or not to be	The Brooklyn Bridge is taller than it is long.	2
+291	T2077	GW4	to be or not to be	The Brooklyn Bridge has been updated to add more capacity over the years.	0
+292	T2077	GW4	to be or not to be	The Brooklyn Bridge relieved traffic strains on Brooklyn.	1
+293	T2077	GW4	to be or not to be	To use the Brooklyn Bridge a driver has to spend money.	2
+294	T2077	GW106	to be or not to be	The Brooklyn Bridge has connected Manhattan with Brooklyn since 1883.	0
+295	T2077	GW106	to be or not to be	The Brooklyn Bridge reaches its highest point on its journey during its longest span.	1
+296	T2077	GW106	to be or not to be	The Brooklyn Bridge crosses at least one body of water from Manhattan to Staten Island.	2
+297	T2078	GW105	to be or not to be	Buddhists celebrate Buddha's birthday in the Spring.	0
+298	T2078	GW105	to be or not to be	Buddha's Birthday takes place in April more often than not.	1
+299	T2078	GW105	to be or not to be	Buddha's Birthday is a winter holiday.	2
+300	T2078	GW107	to be or not to be	Buddha's Birthday is celebrated in many cultures and countries.	0
+301	T2078	GW107	to be or not to be	Buddha's Birthday is celebrated only in Asia.	1
+302	T2078	GW107	to be or not to be	Buddha's Birthday is celebrated on the same day every year.	2
+303	T2078	GW52	to be or not to be	Buddha's Birthday is widely celebrated in parts of Asia.	0
+304	T2078	GW52	to be or not to be	Buddha's Birthday can be celebrated by those outside of Asia.	1
+305	T2078	GW52	to be or not to be	Buddha's Birthday is on the same day every year.	2
+306	T2079	GW4	to be or not to be	Burning Man has been going on for over 30 years.	0
+307	T2079	GW4	to be or not to be	Burning Man is always held in the exact same spot each year.	1
+308	T2079	GW4	to be or not to be	Burning Man happens multiple times a year.	2
+309	T2079	GW89	to be or not to be	The Burning Man festival is held yearly in Nevada.	0
+310	T2079	GW89	to be or not to be	Larry Harvey is in charge of the event.	1
+311	T2079	GW89	to be or not to be	The Burning Man Festival started in 1976.	2
+312	T2079	GW1	to be or not to be	Burning Man was inaugurated in the Summer of 1986.	0
+313	T2079	GW1	to be or not to be	Burning man always has about 50-70 thousand people attend.	1
+314	T2079	GW1	to be or not to be	In 2019, Burning Man was in the Spring.	2
+315	T2080	GW12	to be or not to be	Cardiac arrest occurs in older people when no pulse is found.	0
+316	T2080	GW12	to be or not to be	Cardiac arrest can involve a loss of consciousness and very low potassium.	1
+317	T2080	GW12	to be or not to be	The survival rate for cardiac arrest is higher with people outside of a hospital.	2
+318	T2080	GW86	to be or not to be	The death rate from cardiac arrest ranges from 75 to 90 percent.	0
+319	T2080	GW86	to be or not to be	Losing weight reduces the risk of cardiac arrest.	1
+320	T2080	GW86	to be or not to be	The death rate from cardiac arrest in hospitals is higher than the death rate outside of hospitals.	2
+321	T2080	GW28	to be or not to be	Cardiac arrest is a medical condition where the heart stops functioning and chances of survival are low.	0
+322	T2080	GW28	to be or not to be	Cardiac arrest happens to more men than women.	1
+323	T2080	GW28	to be or not to be	Cardiac arrest is fatal in all cases outside of the hospital.	2
+324	T2081	GW52	to be or not to be	Cataracts take time to develop.	0
+325	T2081	GW52	to be or not to be	Cataracts are fully preventable.	1
+326	T2081	GW52	to be or not to be	Cataracts occur in only a few hundred thousand people.	2
+327	T2081	GW28	to be or not to be	Millions of people have gotten cataracts but can be treated.	0
+328	T2081	GW28	to be or not to be	Cataracts are expensive to treat.	1
+329	T2081	GW28	to be or not to be	Cataracts are not very common or understood.	2
+330	T2081	GW86	to be or not to be	Cataracts can be treated by more than one method.	0
+331	T2081	GW86	to be or not to be	Cataracts usually cause blindness.	1
+332	T2081	GW86	to be or not to be	Cataracts occur suddenly.	2
+333	T2082	GW105	to be or not to be	Cerebral palsy is a childhood disease that lasts one's whole life.	0
+334	T2082	GW105	to be or not to be	The most effective form of treatment is orthopedic surgery.	1
+335	T2082	GW105	to be or not to be	Cerebral palsy affects nearly a quarter of the population.	2
+336	T2082	GW74	to be or not to be	Poor coordination, usually occurs  first in childhood as a result of Cerebral palsy	0
+337	T2082	GW74	to be or not to be	stiff muscles is always accompanied with Seizures	1
+338	T2082	GW74	to be or not to be	There are more complications than symptoms	2
+339	T2082	GW28	to be or not to be	Cerebral palsy is a neurological condition that appears early on in childhood.	0
+340	T2082	GW28	to be or not to be	Cerebral palsy is associated with vaccination.	1
+341	T2082	GW28	to be or not to be	Cerebral palsy can be cured before reaching adulthood.	2
+342	T2083	GW52	to be or not to be	Cerium was first discovered in the 1830s.	0
+343	T2083	GW52	to be or not to be	Cerium is widely available for use currently.	1
+344	T2083	GW52	to be or not to be	Cerium was one of the first 20 elements discovered.	2
+345	T2083	GW28	to be or not to be	It took 35 years to isolate Cerium after discovery.	0
+346	T2083	GW28	to be or not to be	Cerium was discovered by Europeans first.	1
+347	T2083	GW28	to be or not to be	Cerium was named after one of the scientists who discovered the element.	2
+348	T2083	GW4	to be or not to be	Cerium was discovered before it was able to be isolated.	0
+349	T2083	GW4	to be or not to be	The element Cerium is known for being very reactive.	1
+350	T2083	GW4	to be or not to be	The element Cerium was named after the person that found it.	2
+351	T2084	GW86	to be or not to be	Chinese New Year is always celebrated on or before February 20.	0
+352	T2084	GW86	to be or not to be	Chinese New Year is celebrated by more ethnic Chinese than by non-Chinese.	1
+353	T2084	GW86	to be or not to be	Chinese New Year is celebrated on the same day each year.	2
+354	T2084	GW105	to be or not to be	Chinese New Year takes place during the Spring.	0
+355	T2084	GW105	to be or not to be	More Buddhists celebrate Chinese New Year than Daoists.	1
+356	T2084	GW105	to be or not to be	Chinese New Year celebrates the same animal each year.	2
+357	T2084	GW52	to be or not to be	The symbol for 2019 for Chinese New Year is Pig.	0
+358	T2084	GW52	to be or not to be	The Chinese New Year is the same tradition for everyone.	1
+359	T2084	GW52	to be or not to be	The Chinese New Year has the same animal every two years.	2
+360	T2085	GW28	to be or not to be	Christmas is a Christian observance that many non-Christians also celebrate.	0
+361	T2085	GW28	to be or not to be	Christmas is the most celebrated holiday in the world.	1
+362	T2085	GW28	to be or not to be	Christmas is universally celebrated on the 25th of December.	2
+363	T2085	GW52	to be or not to be	Christmas a universally celebrated holiday.	0
+364	T2085	GW52	to be or not to be	Christmas has the same traditions throughout the world.	1
+365	T2085	GW52	to be or not to be	Christmas occurs on the same day for everyone.	2
+366	T2085	GW107	to be or not to be	Christmas is celebrated annually.	0
+367	T2085	GW107	to be or not to be	Christmas is celebrated by only white people.	1
+368	T2085	GW107	to be or not to be	Christmas is the birthday of Buddha.	2
+369	T2086	GW4	to be or not to be	The 2.2 & 2.5 engine were replaced by AMC engines.	0
+370	T2086	GW4	to be or not to be	There were millions of 2.2 & 2.5 engines produced.	1
+371	T2086	GW4	to be or not to be	The 2.2 & 2.5 engine was ran on diesel.	2
+372	T2086	GW74	to be or not to be	Piston stroke is longer than Cylinder bore	0
+373	T2086	GW74	to be or not to be	most 2.2 & 2.5 engine produced in 1995 have Multi-point fuel injection	1
+374	T2086	GW74	to be or not to be	Piston stroke is at most 20 mm longer than Cylinder bore	2
+375	T2086	GW63	to be or not to be	The block material and the head material of the Chrysler 2.2 and 2.5 engines are different.	0
+376	T2086	GW63	to be or not to be	Single-point fuel injection is only used in the Chrysler 2.2 and 2.5 engines.	1
+377	T2086	GW63	to be or not to be	Production of Chrysler inline 2.2 engine is still going on to this date	2
+378	T2087	GW28	to be or not to be	Cincinnati Bell Connector is an electric powered streetcar line in Cincinnati, Ohio	0
+379	T2087	GW28	to be or not to be	Cincinnati Bell Connector has a capacity of one hundred passenger per streetcar.	1
+380	T2087	GW28	to be or not to be	Cincinnati Bell Connector runs on diesel.	2
+381	T2087	GW106	to be or not to be	The Cincinnati Bell Connector opened in the Summer of 2016.	0
+382	T2087	GW106	to be or not to be	The Cincinnati Bell Connector operates entirely within the city of Cincinnati.	1
+383	T2087	GW106	to be or not to be	The Cincinnati Bell Connector is owned and operated by the same company or governing body.	2
+384	T2087	GW74	to be or not to be	There are more stations than there are services for the  Cincinnati Bell Connector	0
+385	T2087	GW74	to be or not to be	There were 18 stations when the Cincinnati Bell Connector opened on  September 9, 2016	1
+386	T2087	GW74	to be or not to be	The line number is equal to the number of stations	2
+387	T2088	GW28	to be or not to be	Civil Services Examination is a standardized exam for Indian graduates and citizens who want to work as a civil servant.	0
+388	T2088	GW28	to be or not to be	More men take the Civil Services Examination than women.	1
+389	T2088	GW28	to be or not to be	Civil Services Examination is open to all who apply.	2
+390	T2088	GW1	to be or not to be	The Civil Services Examination was first given in the first half of the 20th century.	0
+391	T2088	GW1	to be or not to be	English is the first section of the Civil Services Examination.	1
+392	T2088	GW1	to be or not to be	The Civil Services Examination is offered biannually.	2
+393	T2088	GW52	to be or not to be	The Civil Services Examination dates back to the 1920s.	0
+394	T2088	GW52	to be or not to be	The Civil Services Examination has a high turnout rate every year.	1
+395	T2088	GW52	to be or not to be	The qualification rate for the Civil Services Examination is high.	2
+396	T2089	GW1	to be or not to be	There are multiple related jobs to a clinical pharmaceutical scientist.	0
+397	T2089	GW1	to be or not to be	A clinical pharmaceutical scientist was originally known as an apothecary-scientist.	1
+398	T2089	GW1	to be or not to be	A clinical pharmaceutical scientist only needs an undergraduate degree.	2
+399	T2089	GW52	to be or not to be	Clinical pharmaceutical scientists require multiple competencies.	0
+400	T2089	GW52	to be or not to be	Clinical pharmaceutical scientists are on the rise in terms of available jobs.	1
+401	T2089	GW52	to be or not to be	Clinical pharmaceutical scientists encompasses only the academia sector.	2
+402	T2089	GW28	to be or not to be	A high level of education is necessary to become a Clinical pharmaceutical scientist	0
+403	T2089	GW28	to be or not to be	Clinical pharmaceutical scientist is a well-paid profession.	1
+404	T2089	GW28	to be or not to be	Clinical pharmaceutical scientist are employed in academia only.	2
+405	T2090	GW106	to be or not to be	Modern clowns are derived from medieval court jesters.	0
+406	T2090	GW106	to be or not to be	Most clowns are mimes.	1
+407	T2090	GW106	to be or not to be	Today, clowns have been delegated to solely performing in circus acts.	2
+408	T2090	GW52	to be or not to be	Clowns have been around since the first president of the United States.	0
+409	T2090	GW52	to be or not to be	Clowns have grown in popularity over the years.	1
+410	T2090	GW52	to be or not to be	Clowns are not associated with any previous acts.	2
+411	T2090	GW60	to be or not to be	Jesters are ancestors of mimes.	0
+412	T2090	GW60	to be or not to be	Comedians existed in the 19th century.	1
+413	T2090	GW60	to be or not to be	Clowning always involves speaking.	2
+414	T2091	GW4	to be or not to be	The J4 College Park–Bethesda MetroExtra line runs more than 20 times a day.	0
+415	T2091	GW4	to be or not to be	The J4 College Park–Bethesda MetroExtra line saves people a lot of travel time.	1
+416	T2091	GW4	to be or not to be	The J4 College Park–Bethesda MetroExtra line is a train line.	2
+417	T2091	GW12	to be or not to be	J4 College Park–Bethesda MetroExtra line is part of the Metrobus system and  is garages in Montgomery.	0
+418	T2091	GW12	to be or not to be	The J4 College Park–Bethesda MetroExtra line began service at the end of 2002.	1
+419	T2091	GW12	to be or not to be	The J4 College Park–Bethesda MetroExtra line runs all day long.	2
+420	T2091	GW52	to be or not to be	The J4 College Park–Bethesda MetroExtra line runs every 20 minutes.	0
+421	T2091	GW52	to be or not to be	The J4 College Park–Bethesda MetroExtra line has never undergone a renovation.	1
+422	T2091	GW52	to be or not to be	The J4 College Park–Bethesda MetroExtra line runs all day.	2
+423	T2092	GW28	to be or not to be	16G, 16H Columbia Pike–Pentagon City line was a bus route servicing the Washington D.C. metro area.	0
+424	T2092	GW28	to be or not to be	16G, 16H Columbia Pike–Pentagon City line had wifi on-board all its buses.	1
+425	T2092	GW28	to be or not to be	16G, 16H Columbia Pike–Pentagon City line is a 24 hour service still operating.	2
+426	T2092	GW4	to be or not to be	The 16G, 16H Columbia Pike–Pentagon City line ran over 20 times a day.	0
+427	T2092	GW4	to be or not to be	The 16G, 16H Columbia Pike–Pentagon City line helped save people hours on commute times.	1
+428	T2092	GW4	to be or not to be	The 16G, 16H Columbia Pike–Pentagon City line is still running today.	2
+429	T2092	GW52	to be or not to be	The 16G, 16H Columbia Pike–Pentagon City line began service in 2003.	0
+430	T2092	GW52	to be or not to be	The 16G, 16H Columbia Pike–Pentagon City line have the same length of track.	1
+431	T2092	GW52	to be or not to be	Both 16G, 16H Columbia Pike–Pentagon City line railways continue to be in service.	2
+432	T2093	GW63	to be or not to be	From 2018 to 2021 Columbus Day has been observed before October 15	0
+433	T2093	GW63	to be or not to be	Columbus Day is observed only in October	1
+434	T2093	GW63	to be or not to be	Columbus Day was observed twice in 2018	2
+435	T2093	GW1	to be or not to be	Columbus Day happens once a year.	0
+436	T2093	GW1	to be or not to be	Columbus Day started being celebrated in the United States.	1
+437	T2093	GW1	to be or not to be	The first Columbus Day was celebrated in 1492.	2
+438	T2093	GW19	to be or not to be	Christopher Columbus, the explorer honored on Columbus Day, was from Italy.	0
+439	T2093	GW19	to be or not to be	Columbus Day has always been celebrated during the month of October.	1
+440	T2093	GW19	to be or not to be	Columbus Day marks the unofficial end of summer.	2
+441	T2094	GW52	to be or not to be	The CAT has a negative range value.	0
+442	T2094	GW52	to be or not to be	The CAT takes place in all of Asia.	1
+443	T2094	GW52	to be or not to be	The CAT's scores are good for a lifetime.	2
+444	T2094	GW106	to be or not to be	The Common Admission Test is offered at over 300 locations throughout India.	0
+445	T2094	GW106	to be or not to be	The CAT exam is usually offered in December of each year.	1
+446	T2094	GW106	to be or not to be	The CAT test is required by all Indian undergraduates who wish to attend graduate school.	2
+447	T2094	GW28	to be or not to be	Common Admission Test is a standardized exam in India used for admission to Indian business schools.	0
+448	T2094	GW28	to be or not to be	The Common Admission Test is harder than the GMAT exam used in the US.	1
+449	T2094	GW28	to be or not to be	Common Admission Test is accepted by US based business schools.	2
+450	T2095	GW106	to be or not to be	At least 3 million people could prevent getting pink eye each year by simply washing their hands.	0
+451	T2095	GW106	to be or not to be	Pink eye is the most diagnosed disease by ophthalmologists each year.	1
+452	T2095	GW106	to be or not to be	The symptoms associated with pink eye can last up to a month in the United States.	2
+453	T2095	GW4	to be or not to be	Conjunctivitis leads to people's eye color changing.	0
+454	T2095	GW4	to be or not to be	Conjunctivitis can be transferred to people easily.	1
+455	T2095	GW4	to be or not to be	Conjunctivitis winds up killing most people that are infected with it	2
+456	T2095	GW28	to be or not to be	Conjunctivitis is a medical condition that affects the eyes.	0
+457	T2095	GW28	to be or not to be	Conjunctivitis can be transmitted from one person to another.	1
+458	T2095	GW28	to be or not to be	Conjunctivitis is hereditary and passed on to children from their parents.	2
+459	T2096	GW4	to be or not to be	Crohn's disease is something that causes stomach problems.	0
+460	T2096	GW4	to be or not to be	Crohn's disease leads to people dying earlier.	1
+461	T2096	GW4	to be or not to be	Crohn's disease can be cured by tobacco.	2
+462	T2096	GW28	to be or not to be	Crohn's disease can appear in young adults and involves abdominal pain and diarrhea	0
+463	T2096	GW28	to be or not to be	Crohn's disease disproportionately affects men over women.	1
+464	T2096	GW28	to be or not to be	Crohn's disease is quickly cured with drugs.	2
+465	T2096	GW52	to be or not to be	Crohn's disease has a common onset in the 20s.	0
+466	T2096	GW52	to be or not to be	Crohn's disease has shown increased frequency over the years.	1
+467	T2096	GW52	to be or not to be	Crohn's disease individuals do not have a shorter life expectancy.	2
+468	T2097	GW86	to be or not to be	Cumulonimbus clouds are commonly associated with rain.	0
+469	T2097	GW86	to be or not to be	Calvus clouds are the most common species of cumulonimbus cloud.	1
+470	T2097	GW86	to be or not to be	Cumulonimbus clouds are found in multiple varieties.	2
+471	T2097	GW4	to be or not to be	A Cumulonimbus Cloud usually is below 50,000 feet.	0
+472	T2097	GW4	to be or not to be	A Cumulonimbus Cloud can often have rain in it.	1
+473	T2097	GW4	to be or not to be	A Cumulonimbus Cloud usually is close to space.	2
+474	T2097	GW12	to be or not to be	Cumulonimbus Cloud, from the genus Cumulonimbus, is abbreviated Cb.	0
+475	T2097	GW12	to be or not to be	Family C is a high level classification of Cumulonimbus Cloud.	1
+476	T2097	GW12	to be or not to be	Cumulonimbus Cloud is associated with low levels of precipitation.	2
+477	T2098	GW12	to be or not to be	Cushing's syndrome affects at least two million people a year.	0
+478	T2098	GW12	to be or not to be	Hyperadrenocorticism takes 20-50 years to show up in a person.	1
+479	T2098	GW12	to be or not to be	Endocrinology is another name for hypercortisolism.	2
+480	T2098	GW105	to be or not to be	A patient seeking Cushing's syndrome care should go see an endocrinologist.	0
+481	T2098	GW105	to be or not to be	Most people with Cushing's syndrome have acne.	1
+482	T2098	GW105	to be or not to be	Cushing's syndrome is most common in children.	2
+483	T2098	GW28	to be or not to be	Millions of people are affected by Cushing's syndrome but can be successfully treated.	0
+484	T2098	GW28	to be or not to be	Cushing's syndrome treatment is highly affordable.	1
+485	T2098	GW28	to be or not to be	Cushing's syndrome affects mainly children and is fatal.	2
+486	T2099	GW86	to be or not to be	A new version of Debian has been released in the past year.	0
+487	T2099	GW86	to be or not to be	A new version of Debian is released in September each year.	1
+488	T2099	GW86	to be or not to be	Debian is compatible with over a dozen platforms.	2
+489	T2099	GW74	to be or not to be	The latest release of  Debian occurred in the same month as the initial release	0
+490	T2099	GW74	to be or not to be	Debian was available in 75 languages in 1993	1
+491	T2099	GW74	to be or not to be	10.1 (Buster) was released 25 years after the initial release	2
+492	T2099	GW19	to be or not to be	Version 10.1 of Deiban, an open source Linux operating system, is used throughout the world.	0
+493	T2099	GW19	to be or not to be	Version 10.1 of Deiban, an open source Linux operating system, offers Hindi language support.	1
+494	T2099	GW19	to be or not to be	The eleventh version of Deiban, released in September 2019, is the default operating system for iphone.	2
+495	T2100	GW4	to be or not to be	Disney Skyliner opened up in the third quarter of 2019.	0
+496	T2100	GW4	to be or not to be	The Disney Skyliner moves over 20 miles an hour.	1
+497	T2100	GW4	to be or not to be	The Disney Skyliner is at Disneyland.	2
+498	T2100	GW28	to be or not to be	Disney Skyliner is a transit system that operates in the United States of America	0
+499	T2100	GW28	to be or not to be	One gondola on the Disney Skyliner can accommodate ten people at once.	1
+500	T2100	GW28	to be or not to be	Disney Skyliner has been in operation for over a decade in multiple Disney World parks around the world.	2
+501	T2100	GW1	to be or not to be	Disney Skyliner opened in the Fall of 2019.	0
+502	T2100	GW1	to be or not to be	Disney Skyliner is the first to use the Doppelmayr Garaventa Group system.	1
+503	T2100	GW1	to be or not to be	The Disney Skyliner is located on the West Coast of the United States.	2
+504	T2101	GW86	to be or not to be	Diwali is sometimes known by other names.	0
+505	T2101	GW86	to be or not to be	Diwali is usually observed in October.	1
+506	T2101	GW86	to be or not to be	Diwali is observed on the same date every year.	2
+507	T2101	GW1	to be or not to be	Diwali is celebrated in the Fall.	0
+508	T2101	GW1	to be or not to be	Diwali was called Deepavali first in history.	1
+509	T2101	GW1	to be or not to be	Diwali is directly related to over a dozen other holidays.	2
+510	T2101	GW12	to be or not to be	Diwali is a religious holiday observed by some Buddhists.	0
+511	T2101	GW12	to be or not to be	Deepavali is a seasonal holiday celebrated with home decorations and gifts.	1
+512	T2101	GW12	to be or not to be	The 2019 dates for Diwali all occur in the beginning of the month of October.	2
+513	T2102	GW12	to be or not to be	The Dongzhi Festival is observed by the Chinese and is also called Tang-cheh.	0
+514	T2102	GW12	to be or not to be	Dongzhi Festival is an annual celebration occurring in December.	1
+515	T2102	GW12	to be or not to be	The Dongzhi Festival marks the winter solstice during the first week of December.	2
+516	T2102	GW52	to be or not to be	The Dongzhi is a celebration of ancestors.	0
+517	T2102	GW52	to be or not to be	The Dongzhi has been in place for several centuries.	1
+518	T2102	GW52	to be or not to be	The festival begins on the same day every year.	2
+519	T2102	GW28	to be or not to be	Dongzhi Festival is a yearly festival that celebrates the Winter solstice.	0
+520	T2102	GW28	to be or not to be	Dongzhi Festival has been celebrated for thousands of years.	1
+521	T2102	GW28	to be or not to be	Dongzhi Festival is celebrated throughout Asia and Europe.	2
+522	T2103	GW52	to be or not to be	Down syndrome causes more than 25,000 deaths a year.	0
+523	T2103	GW52	to be or not to be	Down syndrome has gone up in frequency over the years.	1
+524	T2103	GW52	to be or not to be	Down syndrome affects 10 million people a year.	2
+525	T2103	GW106	to be or not to be	Down syndrome is a chromosomal disorder.	0
+526	T2103	GW106	to be or not to be	Most cases of Down syndrome occur when the mother is over 40 at the time of birth.	1
+527	T2103	GW106	to be or not to be	Down syndrome is so rare that it only occurs in one child per family generation.	2
+528	T2103	GW4	to be or not to be	Down syndrome is on the 21st chromosome.	0
+529	T2103	GW4	to be or not to be	Down syndrome usually is transmitted through sperm	1
+530	T2103	GW4	to be or not to be	Down syndrome winds up affecting 1% of people in the world.	2
+531	T2104	GW12	to be or not to be	Located in Germany, the Duisburg–Quakenbrück railway is also known as Bahnstrecke Duisburg–Quakenbrück.	0
+532	T2104	GW12	to be or not to be	Having a line length of 173 km, the Duisburg–Quakenbrück railway has less than four line numbers associated with it.	1
+533	T2104	GW12	to be or not to be	The Route Number for the Duisburg–Quakenbrück railway is smaller than its line length.	2
+534	T2104	GW86	to be or not to be	The trains on the Duisburg–Quakenbrück railway are powered by an overhead electrical source.	0
+535	T2104	GW86	to be or not to be	The Duisburg–Quakenbrück railway runs through exactly five towns in Germany.	1
+536	T2104	GW86	to be or not to be	The Duisburg–Quakenbrück railway has a line length of 173 miles.	2
+537	T2104	GW52	to be or not to be	The Duisburg–Quakenbrück railway lasts for over 100 miles.	0
+538	T2104	GW52	to be or not to be	The Duisburg–Quakenbrück railway is an electric railway.	1
+539	T2104	GW52	to be or not to be	The Duisburg–Quakenbrück railway hits 60 mph.	2
+540	T2105	GW106	to be or not to be	Once hearing and/or vision problems have been ruled out, less than 10% of school age children who have trouble reading are afflicted with dyslexia.	0
+541	T2105	GW106	to be or not to be	Most children diagnosed with dyslexia also suffer from ADHD concurrently.	1
+542	T2105	GW106	to be or not to be	Dyslexia is treatable with the use of certain medications.	2
+543	T2105	GW74	to be or not to be	Symptoms of having trouble reading usually first occur during school age	0
+544	T2105	GW74	to be or not to be	attention deficit hyperactivity disorder will cause Trouble reading	1
+545	T2105	GW74	to be or not to be	Dyslexia occurs in 10% of school age children	2
+546	T2105	GW95	to be or not to be	People are usually diagnosed with dyslexia before they graduate high school.	0
+547	T2105	GW95	to be or not to be	Dyslexic students need one-on-one teaching methods.	1
+548	T2105	GW95	to be or not to be	Dyslexia can be transmitted person-to-person.	2
+549	T2106	GW12	to be or not to be	Easter is a religious holiday celebrating the resurrection of Jesus.	0
+550	T2106	GW12	to be or not to be	Easter Egg decorating is a part of the Easter celebration.	1
+551	T2106	GW12	to be or not to be	The dates to celebrate Easter are the same in 2018 and 2019.	2
+552	T2106	GW1	to be or not to be	Easter is related to over a dozen other holidays.	0
+553	T2106	GW1	to be or not to be	Easter's date changes every year.	1
+554	T2106	GW1	to be or not to be	Easter is typically in the Summer.	2
+555	T2106	GW28	to be or not to be	Easter falls on different dates every year.	0
+556	T2106	GW28	to be or not to be	Church attendance is required during Easter.	1
+557	T2106	GW28	to be or not to be	Easter always falls in April every year.	2
+558	T2107	GW86	to be or not to be	Eid al-Fitr occurs after Ramadan.	0
+559	T2107	GW86	to be or not to be	In 2020, Eid al-Fitr will be celebrated on 24 May.	1
+560	T2107	GW86	to be or not to be	Eid al-Fitr is celebrated in the same month each year.	2
+561	T2107	GW89	to be or not to be	Eid al-Fitr occurred on different dates in different countries in 2019.	0
+562	T2107	GW89	to be or not to be	Eid al-Fitr will occur on 24 May and 25 May in 2020.	1
+563	T2107	GW89	to be or not to be	Eid al-Fitr marks the beginning of Ramadan.	2
+564	T2107	GW28	to be or not to be	For Muslims, Eid al-Fitr signifies the end of fasting for Ramadan.	0
+565	T2107	GW28	to be or not to be	Eid al-Fitr is celebrated with sweet cakes.	1
+566	T2107	GW28	to be or not to be	Eid al-Fitr is celebrated on the same date every year.	2
+567	T2108	GW4	to be or not to be	The Emirates Air Line is under a mile in length.	0
+568	T2108	GW4	to be or not to be	The Emirates Air Line took a few years to build.	1
+569	T2108	GW4	to be or not to be	The Emirates Air Line has less than a million passengers annually.	2
+570	T2108	GW106	to be or not to be	The Emirates Air Line is operated entirely in the United Kingdom.	0
+571	T2108	GW106	to be or not to be	The Emirates Air Line is capable of speeds up to 12 m/s, though it only officially operates at 6 m/s.	1
+572	T2108	GW106	to be or not to be	The Emirates Air Line is operated by the Greenwich Transit Authority.	2
+573	T2108	GW74	to be or not to be	The Gondola lift's line length is 12 times it's highest elevation	0
+574	T2108	GW74	to be or not to be	The gondola reaches 300 ft halfway between Emirates Greenwich Peninsula and Emirates Royal Docks	1
+575	T2108	GW74	to be or not to be	Ridership was 1,314,783 as of 10 years after the opening	2
+576	T2109	GW28	to be or not to be	Epilepsy is a neurological disorder that results in uncontrollable seizures.	0
+577	T2109	GW28	to be or not to be	Epilepsy is a manageable condition with a healthy diet and meditation.	1
+578	T2109	GW28	to be or not to be	Epilepsy is treatable with oils and stimulation.	2
+579	T2109	GW4	to be or not to be	Epilepsy winds up lasting an entire person's life.	0
+580	T2109	GW4	to be or not to be	The disease Epilepsy is usually able to be managed by patients.	1
+581	T2109	GW4	to be or not to be	The disease Epilepsy always has a clear starting point.	2
+582	T2109	GW89	to be or not to be	There are at least 6 possible causes of epilepsy.	0
+583	T2109	GW89	to be or not to be	The number of epilepsy deaths is decreasing each year.	1
+584	T2109	GW89	to be or not to be	Epilepsy is controllable in 80% of patients.	2
+585	T2110	GW1	to be or not to be	Everyone on board of Ethiopian Airlines Flight 302 was killed.	0
+586	T2110	GW1	to be or not to be	The investigation of Ethiopian Airlines Flight 302 is almost complete.	1
+587	T2110	GW1	to be or not to be	Ethiopian Airlines Flight 302 crashed in the Summer of 2019.	2
+588	T2110	GW74	to be or not to be	The were more fatalities than passengers	0
+589	T2110	GW74	to be or not to be	Ethiopian Airlines always use Boeing 737 MAX 8	1
+590	T2110	GW74	to be or not to be	None of the crew were a part of the fatalities	2
+591	T2110	GW19	to be or not to be	Ethiopian Airlines Flight 302 was an international flight which crashed shortly after take off.	0
+592	T2110	GW19	to be or not to be	The crash of Ethiopian Airlines Flight 302 was the worst airline disaster in the carrier's history.	1
+593	T2110	GW19	to be or not to be	The manufacturer, Airbus, was deemed liable for the crash of Ethiopian Airlines Flight 302.	2
+594	T2111	GW28	to be or not to be	Europium is a naturally occurring element.	0
+595	T2111	GW28	to be or not to be	Europium was discovered and isolated by a European male scientist.	1
+596	T2111	GW28	to be or not to be	Europium is man-made synthetically created in a lab.	2
+597	T2111	GW52	to be or not to be	Europium was discovered at the turn of the 20th century.	0
+598	T2111	GW52	to be or not to be	Europium is a commonly seen element.	1
+599	T2111	GW52	to be or not to be	The melting and boiling point of Europium are the same.	2
+600	T2111	GW86	to be or not to be	Europium is named after a continent.	0
+601	T2111	GW86	to be or not to be	Europium was named by Eugène-Anatole Demarçay.	1
+602	T2111	GW86	to be or not to be	Europium is slightly acidic.	2
+603	T2112	GW28	to be or not to be	Evolutionarily stable strategy was first proposed by two men.	0
+604	T2112	GW28	to be or not to be	Evolutionarily stable strategy is associated with Evolutionary game theory and is a part of Nash equilibrium.	1
+605	T2112	GW28	to be or not to be	Evolutionarily stable strategy encompasses Nash equilibrium and Perfect Bayesian equilibrium.	2
+606	T2112	GW12	to be or not to be	Hawk-dove is one example of evolutionarily stable strategy.	0
+607	T2112	GW12	to be or not to be	Evolutionarily stable strategy is a subset of both Nash equilibrium and stochastically stable equilibrium.	1
+608	T2112	GW12	to be or not to be	George R. Smith proposed the idea of evolutionarily stable strategy.	2
+609	T2112	GW86	to be or not to be	Evolutionarily stable strategy was proposed by multiple individuals.	0
+610	T2112	GW86	to be or not to be	Evolutionarily stable strategy was proposed prior to the proposal of subgame perfect equilibrium.	1
+611	T2112	GW86	to be or not to be	Evolutionarily stable strategy has no relationship to trembling hand perfect equilibrium.	2
+612	T2113	GW12	to be or not to be	Ten percent of people experience exploding head syndrome, otherwise known as episodic cranial sensory shock.	0
+613	T2113	GW12	to be or not to be	Exploding head syndrome has a short duration and the causes are unknown.	1
+614	T2113	GW12	to be or not to be	PTSD is the only diagnosis for exploding head syndrome.	2
+615	T2113	GW28	to be or not to be	Exploding head syndrome is a medical condition that affects people when falling asleep or waking up.	0
+616	T2113	GW28	to be or not to be	Exploding head syndrome sufferers scream when woken up.	1
+617	T2113	GW28	to be or not to be	Exploding head syndrome is a nearly fatal disease if not treated.	2
+618	T2113	GW86	to be or not to be	Exploding head syndrome is characterized by unusual auditory experiences.	0
+619	T2113	GW86	to be or not to be	Exploding head syndrome usually requires treatment.	1
+620	T2113	GW86	to be or not to be	Exploding head syndrome occurs in approximately a quarter of the population.	2
+621	T2114	GW52	to be or not to be	Fast of Esther is an all day event.	0
+622	T2114	GW52	to be or not to be	Fast of Esther is observed by all practicing Jews.	1
+623	T2114	GW52	to be or not to be	Fast of Esther takes place on the same day every year.	2
+624	T2114	GW74	to be or not to be	Fast of Esther is in the same month in 2020 and 2019	0
+625	T2114	GW74	to be or not to be	All Jews fast during Fast of Esther	1
+626	T2114	GW74	to be or not to be	The 2018 date is one month after the 2019 date	2
+627	T2114	GW4	to be or not to be	The Fast of Esther only lasts for one day.	0
+628	T2114	GW4	to be or not to be	Every Jewish person observes the Fast of Esther.	1
+629	T2114	GW4	to be or not to be	The Fast of Esther is on the same day every year.	2
+630	T2115	GW2	to be or not to be	The prognosis for Hepatic steatosis is good if caught early.	0
+631	T2115	GW2	to be or not to be	Most cirrhosis is cause by fatty liver.	1
+632	T2115	GW2	to be or not to be	Hepatic steatosis affects under 70% of heavy drinkers.	2
+633	T2115	GW52	to be or not to be	Fatty liver has multiple types.	0
+634	T2115	GW52	to be or not to be	Fatty liver does not impact life expectancy.	1
+635	T2115	GW52	to be or not to be	Fatty liver can only be caused by alcohol.	2
+636	T2115	GW25	to be or not to be	Hepatic steatosis which is also known as fatty liver can be diagnosed through multiple methods.	0
+637	T2115	GW25	to be or not to be	Fatty liver is prominent in heavy drinkers and quitting drinking is a sure cure.	1
+638	T2115	GW25	to be or not to be	Fatty liver is often associated with heavy drinking but doesn't lead to Cirrhosis or liver cancer.	2
+639	T2116	GW52	to be or not to be	Flourine was one of the first ten elements discovered.	0
+640	T2116	GW52	to be or not to be	Flourine is in high use today.	1
+641	T2116	GW52	to be or not to be	Flourine was discovered in the 18th century.	2
+642	T2116	GW63	to be or not to be	The person who named Fluorine is different from the person who discovered it.	0
+643	T2116	GW63	to be or not to be	Fluorine can be isolated in solid state.	1
+644	T2116	GW63	to be or not to be	Fluorine is solid when it is at the STP phase.	2
+645	T2116	GW25	to be or not to be	Fluorine is a Reactive nonmetal with alpha, beta Allotropes.	0
+646	T2116	GW25	to be or not to be	Although André-Marie Ampère first discovered Flourine, Henri Moissan's first isolation of it proved to gain it's acceptance among Chemistry academics.	1
+647	T2116	GW25	to be or not to be	Humphry Davy named Flourine but Henri Moissan discovered it.	2
+648	T2117	GW1	to be or not to be	The Main Street Subway Station (Dual System IRT) opened in the Fall of 1928.	0
+649	T2117	GW1	to be or not to be	The Main Street Subway Station (Dual System IRT) always had 2 island platforms.	1
+650	T2117	GW1	to be or not to be	The Main Street Subway Station (Dual System IRT) has been running for over a century.	2
+651	T2117	GW86	to be or not to be	The Main Street Subway Station has more tracks than platforms.	0
+652	T2117	GW86	to be or not to be	The Main Street Subway Station was built 91 years ago.	1
+653	T2117	GW86	to be or not to be	The Main Street Subway Station has more platforms than tracks.	2
+654	T2117	GW52	to be or not to be	The Main Street Subway Station (Dual System IRT) opened in the 20th century.	0
+655	T2117	GW52	to be or not to be	The Main Street Subway Station (Dual System IRT) continues to run today.	1
+656	T2117	GW52	to be or not to be	The Main Street Subway Station (Dual System IRT) runs through all of New York.	2
+657	T2118	GW106	to be or not to be	The original headquarters for Fosters Freeze is located in a different city than its headquarters today.	0
+658	T2118	GW106	to be or not to be	Sanjay Patel resigned as CEO of Google in order to accept the position as head of Fosters Freeze.	1
+659	T2118	GW106	to be or not to be	Fosters Freeze tested a new Strawberry Shortcake soft serve twist flavor at certain stores in Phoenix, AZ.	2
+660	T2118	GW83	to be or not to be	Foster's Freeze was founded by George Foster	0
+661	T2118	GW83	to be or not to be	There is a Foster's freeze location in Pasadena, California	1
+662	T2118	GW83	to be or not to be	Foster's Freeze was founded in Hollywood California	2
+663	T2118	GW86	to be or not to be	The headquarters of Fosters Freeze is located in a different city than the city where the chain was founded.	0
+664	T2118	GW86	to be or not to be	The founder of Fosters Freeze is deceased.	1
+665	T2118	GW86	to be or not to be	Fosters Freeze has restaurants in multiple states.	2
+666	T2119	GW52	to be or not to be	Ganesh Chaturthi lasts almost two weeks.	0
+667	T2119	GW52	to be or not to be	Ganesh Chaturthi can end in August.	1
+668	T2119	GW52	to be or not to be	Ganesh Chaturthi is observed by all of Asia.	2
+669	T2119	GW28	to be or not to be	Ganesh Chaturthi is a multi-day religious observance that falls on different days every year.	0
+670	T2119	GW28	to be or not to be	Ganesh Chaturthi tradition dictates money be given to children as a gift during the observance.	1
+671	T2119	GW28	to be or not to be	Ganesh Chaturthi is a single day of observance starting at the end of the summer.	2
+672	T2119	GW4	to be or not to be	Ganesh Chaturthi lasts for over a week.	0
+673	T2119	GW4	to be or not to be	Ganesh Chaturthi has been part of Hindu tradition for over 1000 years.	1
+674	T2119	GW4	to be or not to be	Ganesh Chaturthi happens on the same date every year.	2
+675	T2120	GW106	to be or not to be	The Garfield Park Branch opened and closed during the same month 63 years apart.	0
+676	T2120	GW106	to be or not to be	The Garfield Park Branch is the only rapid transit line to survive in two separate centuries in Chicago.	1
+677	T2120	GW106	to be or not to be	The Garfield Park Branch operated entirely within Cook County, Illinois.	2
+678	T2120	GW74	to be or not to be	Garfield Park Branch closed in same month that it opened	0
+679	T2120	GW74	to be or not to be	Garfield Park Branch had 22 stations in 1895	1
+680	T2120	GW74	to be or not to be	Metropolitan West Side Elevated Railroad was the operator when  Garfield Park Branch closed	2
+681	T2120	GW28	to be or not to be	Garfield Park Branch has not been in operation for more than fifty years.	0
+682	T2120	GW28	to be or not to be	Garfield Park Branch is abandoned and condemned.	1
+683	T2120	GW28	to be or not to be	Garfield Park Branch serviced multiple states in the midwest.	2
+684	T2121	GW52	to be or not to be	The General Examination for Women only was in use for a decade.	0
+685	T2121	GW52	to be or not to be	The General Examination for Women was meant to be a foot in the door for work.	1
+686	T2121	GW52	to be or not to be	The General Examination for Women was taken in the 20th century.	2
+687	T2121	GW28	to be or not to be	General Examination for Women was an exam to qualify women for higher learning at university.	0
+688	T2121	GW28	to be or not to be	General Examination for Women was necessary for women who wished to pursue an academic career.	1
+689	T2121	GW28	to be or not to be	General Examination for Women was offered in multiple languages and continues to this day.	2
+690	T2121	GW74	to be or not to be	General Examination for Women ended 11 years after it started	0
+691	T2121	GW74	to be or not to be	University of London was the only university with a General Examination for Women in 1869	1
+692	T2121	GW74	to be or not to be	The General Examination for Women lasted 20 years at University of London	2
+693	T2122	GW28	to be or not to be	The George Washington Bridge connects NY and NJ.	0
+694	T2122	GW28	to be or not to be	The George Washington Bridge is the busiest bridge in the world.	1
+695	T2122	GW28	to be or not to be	The George Washington Bridge is a free, single level steel bridge.	2
+696	T2122	GW52	to be or not to be	The GW has nearly 300,000 vehicles cross it every day.	0
+697	T2122	GW52	to be or not to be	GW has never been renovated.	1
+698	T2122	GW52	to be or not to be	GW opened back in the 19th century.	2
+699	T2122	GW86	to be or not to be	The George Washington Bridge is located in more than one state.	0
+700	T2122	GW86	to be or not to be	Trucks are prohibited from using the George Washington Bridge.	1
+701	T2122	GW86	to be or not to be	Less than 30 years passed between the start of construction on the bridge, and the opening of all sections of the bridge to the public.	2
+702	T2123	GW28	to be or not to be	Giant-cell arteritis afflicts primarily older adults.	0
+703	T2123	GW28	to be or not to be	Giant-cell arteritis makes the face flush red due to inflammation.	1
+704	T2123	GW28	to be or not to be	Giant-cell arteritis affects millions of elderly and shortens lifespans.	2
+705	T2123	GW86	to be or not to be	Giant-cell arteritis is associated with both complete loss of vision and heart trouble.	0
+706	T2123	GW86	to be or not to be	Giant-cell arteritis only occurs in people over the age of 50.	1
+707	T2123	GW86	to be or not to be	Giant-cell arteritis typically influences how long one is expected to live.	2
+708	T2123	GW52	to be or not to be	Giant cell arteritis occurs in seniors typically.	0
+709	T2123	GW52	to be or not to be	Horton disease doesn’t occur in children.	1
+710	T2123	GW52	to be or not to be	Arteritis affects the life expectancy of those affected.	2
+711	T2124	GW12	to be or not to be	Good Friday is a Christian holiday which takes place annually.	0
+712	T2124	GW12	to be or not to be	Good Friday is observed only in the month of April.	1
+713	T2124	GW12	to be or not to be	Considered a religious holiday, Good Friday takes place on the Friday immediately following Easter Sunday.	2
+714	T2124	GW19	to be or not to be	Like Easter, Good Friday does not fall on a specific date each year.	0
+715	T2124	GW19	to be or not to be	Good Friday coincides with the first day of Passover.	1
+716	T2124	GW19	to be or not to be	Western and Eastern branches of Christianity both celebrate Christ's resurrection on the same day.	2
+717	T2124	GW28	to be or not to be	Good Friday is an annual religious observance that falls on different days every year.	0
+718	T2124	GW28	to be or not to be	Good Friday is the holiest time of year for Christians.	1
+719	T2124	GW28	to be or not to be	Good Friday is festive and loud observance by Christians.	2
+720	T2125	GW74	to be or not to be	The score grade is valid 3 years starting 31 after the year started	0
+721	T2125	GW74	to be or not to be	More students in India take the GATE than in the U.S.	1
+722	T2125	GW74	to be or not to be	The score grade was valid 3 years 10 years after the year started	2
+723	T2125	GW86	to be or not to be	The fee for taking the GATE varies based on gender, nationality, and disability status.	0
+724	T2125	GW86	to be or not to be	GATE was introduced prior to 2015.	1
+725	T2125	GW86	to be or not to be	GATE is a written test.	2
+726	T2125	GW4	to be or not to be	The Graduate Aptitude Test in Engineering started in the 80s.	0
+727	T2125	GW4	to be or not to be	The Graduate Aptitude Test in Engineering takes place only in India.	1
+728	T2125	GW4	to be or not to be	The Graduate Aptitude Test in Engineering is free for students to take.	2
+729	T2126	GW52	to be or not to be	The GMAT was taken by several hundred students.	0
+730	T2126	GW52	to be or not to be	The GMAT has continuously been a primary admissions tool.	1
+731	T2126	GW52	to be or not to be	The GMAT is good for life.	2
+732	T2126	GW106	to be or not to be	The GMAT exam has four sections.	0
+733	T2126	GW106	to be or not to be	English majors accounted for the highest grouping of perfect scores on the GMAT exam.	1
+734	T2126	GW106	to be or not to be	Test takers with GMAT scores above 850 have the highest likelihood of being accepted to the most prestigious business programs at American colleges and universities.	2
+735	T2126	GW28	to be or not to be	Graduate Management Admission Test is an English language based exam used in admissions to business schools.	0
+736	T2126	GW28	to be or not to be	Graduate Management Admission Test is fraud and cheat-proof.	1
+737	T2126	GW28	to be or not to be	Graduate Management Admission Test is a multi-day test that requires and overnight stay.	2
+738	T2127	GW28	to be or not to be	Record Examination: General Test is taken in multiple countries but offered in only one language.	0
+739	T2127	GW28	to be or not to be	Record Examination: General Test is the most popular test offered.	1
+740	T2127	GW28	to be or not to be	Record Examination: General Test is unnecessary when applying to schools	2
+741	T2127	GW106	to be or not to be	Students who take the GRE as a paper-based test are eligible to take the test more often than those taking the test by computer.	0
+742	T2127	GW106	to be or not to be	The GRE is mandatory for graduation for undergraduates in the United States.	1
+743	T2127	GW106	to be or not to be	The GRE is a standardized test that was first offered during the Truman administration.	2
+744	T2127	GW60	to be or not to be	GRE's taken in 1936 are valid until 1941.	0
+745	T2127	GW60	to be or not to be	GRE is the only exam offered by the Educational Testing Service.	1
+746	T2127	GW60	to be or not to be	Some GRE scores became invalid in 1939.	2
+747	T2128	GW28	to be or not to be	Graphic designer is a creative and visual focused profession.	0
+748	T2128	GW28	to be or not to be	Graphic designers are well compensated.	1
+749	T2128	GW28	to be or not to be	Graphic designers can work in many technical professions such as engineer.	2
+750	T2128	GW106	to be or not to be	A creative director at an advertising agency would be an ideal profession for a graphic designer.	0
+751	T2128	GW106	to be or not to be	Most graphic designers successful in the desktop publishing industry have taken college courses in art history.	1
+752	T2128	GW106	to be or not to be	The career outlook for graphic designers in the publishing field has dwindled in recent years as a result of the rise of digital books.	2
+753	T2128	GW60	to be or not to be	An art director must be competent in art history.	0
+754	T2128	GW60	to be or not to be	A creative director can always also be a website designer.	1
+755	T2128	GW60	to be or not to be	An art directory cannot work in typography.	2
+756	T2129	GW28	to be or not to be	Guillain–Barré syndrome is a medical condition of unknown cause and prolonged recovery time after diagnosis and treatment.	0
+757	T2129	GW28	to be or not to be	Treatment for Guillain–Barré syndrome is expensive and takes years.	1
+758	T2129	GW28	to be or not to be	Guillain–Barré syndrome starts in the brain and affects the eyes and ears.	2
+759	T2129	GW74	to be or not to be	There are more complications than symptoms	0
+760	T2129	GW74	to be or not to be	Observing muscle weakness in hands and feet is the best diagnostic method	1
+761	T2129	GW74	to be or not to be	Deaths of those affected is a lower percentage than the frequency of people affected per year	2
+762	T2129	GW52	to be or not to be	Guillain–Barré syndrome has a low mortality rate.	0
+763	T2129	GW52	to be or not to be	Guillain–Barré syndrome has grown in frequency.	1
+764	T2129	GW52	to be or not to be	Guillain–Barré syndrome has known causes.	2
+765	T2130	GW60	to be or not to be	The 2018 Guru Purnima was celebrated later in the year than the 2019 Guru Purnima	0
+766	T2130	GW60	to be or not to be	Guru Purnima is also a national holiday in India.	1
+767	T2130	GW60	to be or not to be	The 2020 Guru Purnima will be celebrated earlier in the year than the 2019 Guru Purnima.	2
+768	T2130	GW1	to be or not to be	Guru Purnima takes place in the Summer.	0
+769	T2130	GW1	to be or not to be	Nepal is the only place where Guru Purnima is celebrated.	1
+770	T2130	GW1	to be or not to be	Guru Purnima occurs twice a year.	2
+771	T2130	GW4	to be or not to be	Guru Purnima is something that happens every year.	0
+772	T2130	GW4	to be or not to be	People usually eat a lot of food at Guru Purnima.	1
+773	T2130	GW4	to be or not to be	Guru Purnima always happens on the same day.	2
+774	T2131	GW12	to be or not to be	Hanukkah is a Jewish holiday observed by Jews.	0
+775	T2131	GW12	to be or not to be	Hanukkah involves lighting candles, singing songs and eating food.	1
+776	T2131	GW12	to be or not to be	Hanukkah is a Jewish holiday that occurs only in December.	2
+777	T2131	GW52	to be or not to be	Hanukkah is celebrated annually.	0
+778	T2131	GW52	to be or not to be	Hanukkah is celebrated in every country.	1
+779	T2131	GW52	to be or not to be	Hanukkah takes place on the same dates every year.	2
+780	T2131	GW60	to be or not to be	Hannukkah started earlier in the year in 2018 than in 2019	0
+781	T2131	GW60	to be or not to be	Hannukkah will start earlier in the year in 2021 than in any other year in the 21st century.	1
+782	T2131	GW60	to be or not to be	Hannukkah will start later in the year in 2021 than in any other year in the 21st century.	2
+783	T2132	GW89	to be or not to be	Holi will be held on 9 March, 2020.	0
+784	T2132	GW89	to be or not to be	Holi is held on a different date each year.	1
+785	T2132	GW89	to be or not to be	Holi's date is based on the Roman calendar.	2
+786	T2132	GW106	to be or not to be	Holi a cultural celebration observed by many religions.	0
+787	T2132	GW106	to be or not to be	Purple, green, and blue hold special significance for wearers during the Holika Bonfire.	1
+788	T2132	GW106	to be or not to be	Holi always takes place during the Spring.	2
+789	T2132	GW19	to be or not to be	Holi is an Indian holiday celebrated by several faiths.	0
+790	T2132	GW19	to be or not to be	Holi is considered to be the holiest day of the year in India.	1
+791	T2132	GW19	to be or not to be	In India, all faiths observe Holi by fasting and spending the day in solemn prayer.	2
+792	T2133	GW52	to be or not to be	The Howrah Bridge project took several years to complete.	0
+793	T2133	GW52	to be or not to be	The Howrah Bridge hasn't been renovated since opening.	1
+794	T2133	GW52	to be or not to be	The Howrah Bridge costs a toll to cross.	2
+795	T2133	GW1	to be or not to be	Howrah Bridge took over 5 years to build.	0
+796	T2133	GW1	to be or not to be	"The Howrah Bridge is the only bridge that ""and Tritton"" designed."	1
+797	T2133	GW1	to be or not to be	Howrah Bridge opened in the Summer of 1943.	2
+798	T2133	GW12	to be or not to be	The Howrah Bridge is made of steel and is maintained by Kolkata Port Trust.	0
+799	T2133	GW12	to be or not to be	Construction of the Howrah Bridge started in 1942 and opened in 1943.	1
+800	T2133	GW12	to be or not to be	A total of 800,000 people and vehicles cross the Howrah Bridge every day.	2
+801	T2134	GW28	to be or not to be	HTC Dream is a smartphone using Android's Donut.	0
+802	T2134	GW28	to be or not to be	HTC Dream is a first generation smartphone.	1
+803	T2134	GW28	to be or not to be	HTC Dream is has both rear and front-facing cameras as standard.	2
+804	T2134	GW52	to be or not to be	HTC's Dream has a battery that is over 1000 mAh	0
+805	T2134	GW52	to be or not to be	The HTC Dream is still in production.	1
+806	T2134	GW52	to be or not to be	HTC's Dream is a flip phone.	2
+807	T2134	GW4	to be or not to be	The HTC Dream has more than 1000 mAh of battery.	0
+808	T2134	GW4	to be or not to be	A HTC Dream was designed to copy an iPhone	1
+809	T2134	GW4	to be or not to be	The HTC Dream only has a single band antenna.	2
+810	T2135	GW86	to be or not to be	The Huawei Ascend G300 can operate on more than one kind of network.	0
+811	T2135	GW86	to be or not to be	The Huawei Ascend G300 is currently manufactured.	1
+812	T2135	GW86	to be or not to be	The Huawei Ascend G300 is a tablet device.	2
+813	T2135	GW52	to be or not to be	The Ascend G300's starting operating system was Android 4.	0
+814	T2135	GW52	to be or not to be	The Ascend G300 is still in production	1
+815	T2135	GW52	to be or not to be	The Ascend G300 had the same camera in each model.	2
+816	T2135	GW38	to be or not to be	The Huawei Ascend G300 is compatible with HSPA900/2100 networks.	0
+817	T2135	GW38	to be or not to be	The Huawei Ascend G300 is the fastest smartphone made by Huawei	1
+818	T2135	GW38	to be or not to be	The Huawei Ascend G300 runs on the Android 2.0 operating system	2
+819	T2136	GW12	to be or not to be	The frequency of hyperthyroidism, an overactive thyroid, is 1.2% in the USA.	0
+820	T2136	GW12	to be or not to be	Graves' disease is the only cause of hyperthyroidism.	1
+821	T2136	GW12	to be or not to be	Hyperthyroidism usually occurs during childhood.	2
+822	T2136	GW74	to be or not to be	There are more symptoms than causes of Hyperthyroidism	0
+823	T2136	GW74	to be or not to be	Graves' disease causes muscle weakness	1
+824	T2136	GW74	to be or not to be	There are more medications than treatments	2
+825	T2136	GW52	to be or not to be	Hyperthyroidism occurs in over 1% of the population.	0
+826	T2136	GW52	to be or not to be	Hyperthyroidism has onset before 20 years old and after 50 years old.	1
+827	T2136	GW52	to be or not to be	Hyperthyroidism has no known cause.	2
+828	T2137	GW63	to be or not to be	The Corona Yard, East 180th Street Yard is incorporated into the New York Subway system.	0
+829	T2137	GW63	to be or not to be	There is an underground subway only in New York.	1
+830	T2137	GW63	to be or not to be	The Interborough Rapid Transit Company has operated for over 100 years	2
+831	T2137	GW52	to be or not to be	The Interborough Rapid Transit Authority began in the 20th century.	0
+832	T2137	GW52	to be or not to be	The subway served all of New York.	1
+833	T2137	GW52	to be or not to be	The Interborough Rapid Transit Authority continues to run today.	2
+834	T2137	GW28	to be or not to be	Interborough Rapid Transit Company existed for 37 years.	0
+835	T2137	GW28	to be or not to be	Interborough Rapid Transit Company went bankrupt and was acquired by the Manhattan Railway Company.	1
+836	T2137	GW28	to be or not to be	Interborough Rapid Transit Company is a private entity that operates to this day.	2
+837	T2138	GW28	to be or not to be	International English Language Testing System is a standardised test for English language competency.	0
+838	T2138	GW28	to be or not to be	International English Language Testing System is the most popular English language test in the world.	1
+839	T2138	GW28	to be or not to be	International English Language Testing System can be taken anytime online.	2
+840	T2138	GW74	to be or not to be	There are more colleges, agencies and other institutions that use IELTS test scores than there are test centers	0
+841	T2138	GW74	to be or not to be	Began first in the UK in 1980	1
+842	T2138	GW74	to be or not to be	There are more countries that use test scores than have test centers.	2
+843	T2138	GW105	to be or not to be	The International English Language Testing System has multiple different parts.	0
+844	T2138	GW105	to be or not to be	The test is aimed mostly at immigrants from Mexico.	1
+845	T2138	GW105	to be or not to be	Only a few colleges use this test.	2
+846	T2139	GW107	to be or not to be	iOS is developed by Apple.	0
+847	T2139	GW107	to be or not to be	iOS is the best operating system.	1
+848	T2139	GW107	to be or not to be	iOS is written in Python.	2
+849	T2139	GW52	to be or not to be	iOS first debuted in the 2000s.	0
+850	T2139	GW52	to be or not to be	iOS has received frequent updates in the past twelve years.	1
+851	T2139	GW52	to be or not to be	iOS is an open-source software.	2
+852	T2139	GW74	to be or not to be	The latest preview of iOS was 8 days after the latest release	0
+853	T2139	GW74	to be or not to be	iOS has been available in 40 languages since 2007	1
+854	T2139	GW74	to be or not to be	The latest release of iOS happened in the same month as the initial release	2
+855	T2140	GW52	to be or not to be	IBS occurs before adults reach senior age.	0
+856	T2140	GW52	to be or not to be	IBS' frequency has increased over time.	1
+857	T2140	GW52	to be or not to be	People with IBS have a shorter life expectancy.	2
+858	T2140	GW63	to be or not to be	Although IBS is not a short term condition people don't have to worry about shortening of life span.	0
+859	T2140	GW63	to be or not to be	You can never get IBS at 40 years of age.	1
+860	T2140	GW63	to be or not to be	The known causes of IBS can be treated with surgery	2
+861	T2140	GW28	to be or not to be	Irritable bowel syndrome is a medical condition that affects bowel movements.	0
+862	T2140	GW28	to be or not to be	Irritable bowel syndrome treatment is easy and not expensive.	1
+863	T2140	GW28	to be or not to be	Irritable bowel syndrome is sometimes fatal.	2
+864	T2141	GW52	to be or not to be	The q111 q113, q114 Jamaica−Far Rockaway line has been in service in one way or another since the turn of the 20th century.	0
+865	T2141	GW52	to be or not to be	The q113 Jamaica−Far Rockaway line operates on a 24 hour schedule	1
+866	T2141	GW52	to be or not to be	The q111 q113, q114 Jamaica−Far Rockaway line all have the same mileage.	2
+867	T2141	GW60	to be or not to be	The Q111 carries more passengers per mile than the Q113 and Q114.	0
+868	T2141	GW60	to be or not to be	The Baisley Park Depot is owned by MTA Bus Company.	1
+869	T2141	GW60	to be or not to be	The Q113 is never closed during the day.	2
+870	T2141	GW28	to be or not to be	q111 q113, q114 Jamaica−Far Rockaway line is a bus route between Queens and Nassau County.	0
+871	T2141	GW28	to be or not to be	q111 q113, q114 Jamaica−Far Rockaway line is equipped with public Wifi on all its buses.	1
+872	T2141	GW28	to be or not to be	q111 q113, q114 Jamaica−Far Rockaway line is a rarely used line.	2
+873	T2142	GW4	to be or not to be	Jaundice causes the skin color to change in people.	0
+874	T2142	GW4	to be or not to be	The disease Jaundice can be cured with medicine.	1
+875	T2142	GW4	to be or not to be	The disease Jaundice is one that is usually fatal to people.	2
+876	T2142	GW28	to be or not to be	Jaundice is a medical condition that discolors the skin and eyes yellow.	0
+877	T2142	GW28	to be or not to be	Jaundice is sometimes fatal.	1
+878	T2142	GW28	to be or not to be	Jaundice is caused by a bad diet and lack of exercise.	2
+879	T2142	GW12	to be or not to be	Jaundice is a hepatology specialty involving the yellowish coloration of the skin.	0
+880	T2142	GW12	to be or not to be	The skin and whites of the eyes turn yellow when an individual has jaundice.	1
+881	T2142	GW12	to be or not to be	There is only one test to diagnose jaundice.	2
+882	T2143	GW1	to be or not to be	The Joint Entrance Examination is offered biannually.	0
+883	T2143	GW1	to be or not to be	The National Testing Agency only administers the Joint Entrance Examination.	1
+884	T2143	GW1	to be or not to be	The Joint Entrance Examination started being given in the 20th century.	2
+885	T2143	GW52	to be or not to be	The JEE Main started in the 2000s.	0
+886	T2143	GW52	to be or not to be	The JEE Main has increased in number of tests taken over the years.	1
+887	T2143	GW52	to be or not to be	The JEE Main only has a positive scoring range.	2
+888	T2143	GW60	to be or not to be	It takes 6 hours to complete all the papers required for the JEE Main.	0
+889	T2143	GW60	to be or not to be	The JEE Main includes differential calculus.	1
+890	T2143	GW60	to be or not to be	You can take the exam every time it is offered for 2 years in a row.	2
+891	T2144	GW86	to be or not to be	The Kelana Jaya line extension opened more than 3 years ago.	0
+892	T2144	GW86	to be or not to be	The Kelana Jaya line extension is currently operational.	1
+893	T2144	GW86	to be or not to be	The Kelana Jaya line extension opened 4 years ago.	2
+894	T2144	GW74	to be or not to be	There are 12 more stations than services	0
+895	T2144	GW74	to be or not to be	There were 13 stations the Kelana Jaya line extension opened  30 June 2016	1
+896	T2144	GW74	to be or not to be	There are more services than Termini	2
+897	T2144	GW28	to be or not to be	Kelana Jaya line extension began operation in the 21st century in South-East Asia	0
+898	T2144	GW28	to be or not to be	Kelana Jaya line extension runs exclusively using Mag-lev.	1
+899	T2144	GW28	to be or not to be	Kelana Jaya line extension operates in multiple countries over thousands of miles of track.	2
+900	T2145	GW52	to be or not to be	The 35 / 36 Metro Lines allow for transferable service.	0
+901	T2145	GW52	to be or not to be	A 35 Metro Line passenger can use the 36 Metro Line as well.	1
+902	T2145	GW52	to be or not to be	The 35 / 36 Metro Lines are an around the clock operation.	2
+903	T2145	GW28	to be or not to be	35 / 36 Metro Lines is a public transport line that operates on a set schedule.	0
+904	T2145	GW28	to be or not to be	Passengers can pay for fares on the 35 / 36 Metro Lines with their smartphones.	1
+905	T2145	GW28	to be or not to be	35 / 36 Metro Lines operates 24 hours a day with no breaks.	2
+906	T2145	GW4	to be or not to be	The 35 / 36 Metro Lines runs 6 times a day.	0
+907	T2145	GW4	to be or not to be	The 35 / 36 Metro Lines cover a lot of area.	1
+908	T2145	GW4	to be or not to be	The 35 / 36 Metro Lines use Audi vehicles.	2
+909	T2146	GW106	to be or not to be	Less than 10% of occupants on LaMia Flight 2933 survived the crash.	0
+910	T2146	GW106	to be or not to be	All of the survivors aboard LaMia Flight 2933 were passengers.	1
+911	T2146	GW106	to be or not to be	The Avro RJ85 airplane used in LaMia Flight 2933 had a broken fuel gauge.	2
+912	T2146	GW74	to be or not to be	There were more occupants than passengers	0
+913	T2146	GW74	to be or not to be	4 of the six survivors were crew	1
+914	T2146	GW74	to be or not to be	No survivors had injuries.	2
+915	T2146	GW95	to be or not to be	There were 18 passengers to every 1 crew member.	0
+916	T2146	GW95	to be or not to be	of the 6 survivors, 3 were crew members.	1
+917	T2146	GW95	to be or not to be	The crash could not have been prevented.	2
+918	T2147	GW74	to be or not to be	The minimum radius is longer than the height of the  of the Highest elevation	0
+919	T2147	GW74	to be or not to be	Las Vegas Monorail had 7 stations in 1995	1
+920	T2147	GW74	to be or not to be	Las Vegas Monorail are owned by a different company than operates it	2
+921	T2147	GW4	to be or not to be	The Las Vegas Monorail has been around for over 15 years.	0
+922	T2147	GW4	to be or not to be	The Las Vegas Monorail stops at most hotels.	1
+923	T2147	GW4	to be or not to be	The Las Vegas Monorail goes slower than cars.	2
+924	T2147	GW86	to be or not to be	The Las Vegas Monorail was originally opened under a different name.	0
+925	T2147	GW86	to be or not to be	The Las Vegas Monorail has a maximum speed of 50 mph.	1
+926	T2147	GW86	to be or not to be	The Las Vegas Monorail has operated since 1995 with no interruptions in service.	2
+927	T2148	GW28	to be or not to be	La Tomatina is an annual cultural observance in Spain	0
+928	T2148	GW28	to be or not to be	La Tomatina wastes millions of gallons of tomatoes every year.	1
+929	T2148	GW28	to be or not to be	La Tomatina lands on the same day every year.	2
+930	T2148	GW4	to be or not to be	La Tomatina is a holiday that is celebrated in Europe.	0
+931	T2148	GW4	to be or not to be	La Tomatina is a festival full of food.	1
+932	T2148	GW4	to be or not to be	La Tomatina happens on the same date every year.	2
+933	T2148	GW52	to be or not to be	La Tomatina takes place every August.	0
+934	T2148	GW52	to be or not to be	La Tomatina is a week long event.	1
+935	T2148	GW52	to be or not to be	La Tomatina occurs on the same day every year.	2
+936	T2149	GW28	to be or not to be	Law School Admission Test is a standardized test used for admission into Law schools  in many English-speaking countries, primarily the United States.	0
+937	T2149	GW28	to be or not to be	Law School Admission Test can also be used to admission to some graduate degree programs not just law schools.	1
+938	T2149	GW28	to be or not to be	Law School Admission Test is a multi-day exam given in multiple-languages.	2
+939	T2149	GW86	to be or not to be	The Law School Admission Test has existed for over 70 years.	0
+940	T2149	GW86	to be or not to be	The writing section of the LSAT isn't considered in law school admissions.	1
+941	T2149	GW86	to be or not to be	LSAT scores from tests taken in 2006 are valid today.	2
+942	T2149	GW52	to be or not to be	The LSAT is available to take worldwide.	0
+943	T2149	GW52	to be or not to be	The LSAT's results are good for a lifetime.	1
+944	T2149	GW52	to be or not to be	The LSAT has a negative score measure.	2
+945	T2150	GW28	to be or not to be	LG Optimus G is a Korean smartphone with one camera.	0
+946	T2150	GW28	to be or not to be	LG Optimus G was a bestseller for LG.	1
+947	T2150	GW28	to be or not to be	LG Optimus G is manufactured for the domestic Korean market.	2
+948	T2150	GW74	to be or not to be	Storage is up to 30 GB more than memory	0
+949	T2150	GW74	to be or not to be	LG Optimus G than run on Android 4.0 Ice Cream Sandwich have 16 GB of storage	1
+950	T2150	GW74	to be or not to be	The  LG G2 came before LG Optimus 4X HD	2
+951	T2150	GW52	to be or not to be	The LG Optimus G has multiple storage options.	0
+952	T2150	GW52	to be or not to be	The LG Optimus G continues to be produced to this day.	1
+953	T2150	GW52	to be or not to be	The LG Optimus G was the first of the Optimus series.	2
+954	T2151	GW74	to be or not to be	OS family and Default user interface are Unix	0
+955	T2151	GW74	to be or not to be	Linux was available in multilingual in 1991	1
+956	T2151	GW74	to be or not to be	There are the same number of Marketing targets as Platforms	2
+957	T2151	GW1	to be or not to be	Linux was released in the last decade of the 20th century.	0
+958	T2151	GW1	to be or not to be	Linus Torvalds did more to develop Linux than Community did.	1
+959	T2151	GW1	to be or not to be	Linus works on more than 30 platforms based on the chart.	2
+960	T2151	GW52	to be or not to be	Linux was developed in the 1990s.	0
+961	T2151	GW52	to be or not to be	Linux is one of the top pieces of software on the market today.	1
+962	T2151	GW52	to be or not to be	Linux is written in C+.	2
+963	T2152	GW1	to be or not to be	Lion Air Flight 610 crashed in the Fall of 2018.	0
+964	T2152	GW1	to be or not to be	The only rescue diver for Lion Air Flight 610 died.	1
+965	T2152	GW1	to be or not to be	There were survivors of Lion Air Flight 610.	2
+966	T2152	GW12	to be or not to be	There were 181 passengers and 8 crew members on Lion Air Flight 610.	0
+967	T2152	GW12	to be or not to be	The IATA number and the ICAO number for Lion Air Flight 610 are the same.	1
+968	T2152	GW12	to be or not to be	Lion Air Flight 610 was operated by Lion Air and crashed in early 2018.	2
+969	T2152	GW52	to be or not to be	JT610 crashed down last year.	0
+970	T2152	GW52	to be or not to be	The fate of flight JT610 has no clear evidence.	1
+971	T2152	GW52	to be or not to be	JT610 caused more than 200 fatalities.	2
+972	T2153	GW95	to be or not to be	Loi Krathong happens near the end of the year	0
+973	T2153	GW95	to be or not to be	People travel to Thailand to celebrate Loi Krathong	1
+974	T2153	GW95	to be or not to be	Loi Krathong is observed mostly by Westerners	2
+975	T2153	GW86	to be or not to be	Loi Krathong is observed once a year.	0
+976	T2153	GW86	to be or not to be	Loi Krathong is observed on November 22 every year.	1
+977	T2153	GW86	to be or not to be	Loi Krathong is known by just four different names.	2
+978	T2153	GW52	to be or not to be	Loi Krathong occurs every year.	0
+979	T2153	GW52	to be or not to be	Loi Krathong is celebrated in all of Asia.	1
+980	T2153	GW52	to be or not to be	Loi Krathong is celebrated in North America.	2
+981	T2154	GW52	to be or not to be	Lupercalia is a an occasion aided with food.	0
+982	T2154	GW52	to be or not to be	Lupercalia sacrifices a specific animal each time.	1
+983	T2154	GW52	to be or not to be	Lupercalia takes place every year on the same date.	2
+984	T2154	GW86	to be or not to be	Lupercalia is observed on multiple dates.	0
+985	T2154	GW86	to be or not to be	Lupercalia is still observed by some individuals today.	1
+986	T2154	GW86	to be or not to be	Lupercalia is observed exclusively on one date.	2
+987	T2154	GW74	to be or not to be	Lupercalia was celebrated with feasting during February	0
+988	T2154	GW74	to be or not to be	sacrifices of goats and a dog by the Luperci was practiced by all Romans	1
+989	T2154	GW74	to be or not to be	The Roman Empire celebrated Lupercalia in the fall	2
+990	T2155	GW86	to be or not to be	Māgha Pūjā is observed in at least five countries.	0
+991	T2155	GW86	to be or not to be	Māgha Pūjā is observed in just six countries.	1
+992	T2155	GW86	to be or not to be	Māgha Pūjā was observed in the summer of 2019.	2
+993	T2155	GW52	to be or not to be	Māgha Pūjā took place in February this year.	0
+994	T2155	GW52	to be or not to be	Māgha Pūjā has been celebrated for centuries.	1
+995	T2155	GW52	to be or not to be	Māgha Pūjā is a strictly Buddhist celebration.	2
+996	T2155	GW74	to be or not to be	February 19, 2019 had a full moon.	0
+997	T2155	GW74	to be or not to be	The  Shwedagon Pagoda Festival has a procession with light,	1
+998	T2155	GW74	to be or not to be	The third lunar month was in March in 2019	2
+999	T2156	GW84	to be or not to be	The birth anniversary of Lord Mahavir is celebrated in the spring.	0
+1000	T2156	GW84	to be or not to be	The birth anniversary of Mahaveer Swami won't be celebrated in 2019.	1
+1001	T2156	GW84	to be or not to be	The birth anniversary of Mahaveer Swami requires people to bring gifts.	2
+1002	T2156	GW60	to be or not to be	Mahaveer Swami is important in the Jains religion.	0
+1003	T2156	GW60	to be or not to be	Prayers are made only in the Jain Temple.	1
+1004	T2156	GW60	to be or not to be	There are no Jain Temples in India.	2
+1005	T2156	GW4	to be or not to be	Mahaveer Janma Kalyanak is a holiday that happens annually in India.	0
+1006	T2156	GW4	to be or not to be	Mahaveer Janma Kalyanak always happens on the same day each year.	1
+1007	T2156	GW4	to be or not to be	In 2019 Mahaveer Janma Kalyanak happened in May.	2
+1008	T2157	GW28	to be or not to be	Major depressive disorder is a psychological condition that appears in young adults and that can last for months if not years.	0
+1009	T2157	GW28	to be or not to be	Major depressive disorder does not appear in young children.	1
+1010	T2157	GW28	to be or not to be	Major depressive disorder can be cured with a change in environment.	2
+1011	T2157	GW106	to be or not to be	Low self esteem is one symptom of sufferers of unipolar depression.	0
+1012	T2157	GW106	to be or not to be	Most afflicted with clinical depression also self-harm.	1
+1013	T2157	GW106	to be or not to be	Electroconvulsive therapy is the most commonly used form of treatment to combat the likelihood of suicide in patients afflicted with unipolar disorder.	2
+1014	T2157	GW52	to be or not to be	Major Depressive Disorder has more than 100 million cases attributed to it.	0
+1015	T2157	GW52	to be or not to be	Major Depressive Disorder is on the rise in terms of diagnosed cases.	1
+1016	T2157	GW52	to be or not to be	Major Depressive Disorder is an acute condition.	2
+1017	T2158	GW28	to be or not to be	Makara Sankranti can fall on different days in January.	0
+1018	T2158	GW28	to be or not to be	Makara Sankranti is the most sacred holiday for Hindus.	1
+1019	T2158	GW28	to be or not to be	Makara Sankranti  is a solemn holiday with quiet contemplation and observance.	2
+1020	T2158	GW89	to be or not to be	Makara Sankranti is the Festival of Harvest.	0
+1021	T2158	GW89	to be or not to be	Makara Sankranti falls on the same day every year.	1
+1022	T2158	GW89	to be or not to be	Makara Sankranti uses the American calendar correlation.	2
+1023	T2158	GW52	to be or not to be	Mela is a largely Hindu celebration.	0
+1024	T2158	GW52	to be or not to be	Mela varies on the day of celebration.	1
+1025	T2158	GW52	to be or not to be	Mela is purely a cultural event.	2
+1026	T2159	GW52	to be or not to be	Malaysia Airlines Flight 370 was presumed to have no survivors.	0
+1027	T2159	GW52	to be or not to be	MH370 is still being researched today.	1
+1028	T2159	GW52	to be or not to be	MAS370 was recently found in 2019.	2
+1029	T2159	GW12	to be or not to be	The cause is unknown for the crash of Malaysia Airlines Flight 370 in 2014.	0
+1030	T2159	GW12	to be or not to be	The Malaysia Airlines Flight 370 had a crew of 12 and a passenger list of 227.	1
+1031	T2159	GW12	to be or not to be	Malaysia Airlines Flight 370 started in Beijing Capital International Airport and was destined for Kuala Lumpur International Airport.	2
+1032	T2159	GW19	to be or not to be	The precise location of the Malaysian Air 370 crash has never been determined.	0
+1033	T2159	GW19	to be or not to be	Investigators have determined that Malaysian Air 370 went missing due to because of an intentional human act.	1
+1034	T2159	GW19	to be or not to be	Investigators have conclusively determined that Malaysian Air 370 crashed due to pilot error	2
+1035	T2160	GW1	to be or not to be	Construction of the Manhattan Bridge started at the beginning of the 20th century.	0
+1036	T2160	GW1	to be or not to be	The Manhattan Bridge has always been free both ways.	1
+1037	T2160	GW1	to be or not to be	It took over 15 years to construct the Manhattan Bridge.	2
+1038	T2160	GW52	to be or not to be	The Manhattan Bridge has been in use for over a century.	0
+1039	T2160	GW52	to be or not to be	The Manhattan Bridge has never been renovated.	1
+1040	T2160	GW52	to be or not to be	The Manhattan Bridge has more than 100,000 vehicles pass by it every day.	2
+1041	T2160	GW63	to be or not to be	There is no toll for the length of 6855 ft of the Manhattan Bridge.	0
+1042	T2160	GW63	to be or not to be	Manhattan bridge is the only bridge maintained by the New York City Department of Transportation	1
+1043	T2160	GW63	to be or not to be	The construction of the Manhattan bridge took under 5 years.	2
+1044	T2161	GW86	to be or not to be	Mawlid is a public holiday in more than thirty countries.	0
+1045	T2161	GW86	to be or not to be	Mawlid is celebrated on either the 10th or 15th of November every year.	1
+1046	T2161	GW86	to be or not to be	Mawlid is celebrated exclusively by adherents of Sunni and Shia Islam.	2
+1047	T2161	GW52	to be or not to be	Mawlid has different observed dates depending on Sunni or Shia background.	0
+1048	T2161	GW52	to be or not to be	Mawlid is celebrated by several continents.	1
+1049	T2161	GW52	to be or not to be	Mawlid is a Hindu-based event.	2
+1050	T2161	GW28	to be or not to be	Mawlid is an Islamic observance associated with the birth of Muhammad.	0
+1051	T2161	GW28	to be or not to be	Mawlid is the most popular Islamic holiday in the world.	1
+1052	T2161	GW28	to be or not to be	Mawlid is celebrated by Christian countries as well.	2
+1053	T2162	GW74	to be or not to be	Power output and Torque output have ranges over 150	0
+1054	T2162	GW74	to be or not to be	Mazda J engine Power output is determined by Torque output	1
+1055	T2162	GW74	to be or not to be	Block material and Head material are the same kind of material	2
+1056	T2162	GW19	to be or not to be	The Mazda J engine has several different valvetrain configurations.	0
+1057	T2162	GW19	to be or not to be	The Mazda J engine is the most powerful engine manufactured by Mazda.	1
+1058	T2162	GW19	to be or not to be	The V8 Mazda J engine is one of the most powerful engines manufactured in Japan.	2
+1059	T2162	GW52	to be or not to be	Some Mazda J engines generate more than 200 horsepower.	0
+1060	T2162	GW52	to be or not to be	The Mazda J engine is still in use today,	1
+1061	T2162	GW52	to be or not to be	The Mazda J’s torque output is always higher than its HP	2
+1062	T2163	GW74	to be or not to be	Usual onset of measles is on average longer than Duration	0
+1063	T2163	GW74	to be or not to be	Fever occurs 10 days  after exposure	1
+1064	T2163	GW74	to be or not to be	There half as many deaths in 2015 than frequency of measles	2
+1065	T2163	GW52	to be or not to be	The Measles onset and duration are about three weeks in total.	0
+1066	T2163	GW52	to be or not to be	Measles presents the same way for all affected individuals.	1
+1067	T2163	GW52	to be or not to be	Deaths from measles exceed 100,000 per year.	2
+1068	T2163	GW4	to be or not to be	There is a vaccine that can prevent people from getting Measles.	0
+1069	T2163	GW4	to be or not to be	Measles is a disease that can go away on its own.	1
+1070	T2163	GW4	to be or not to be	Measles kills more than 20% of people that get it.	2
+1071	T2164	GW74	to be or not to be	Someone taking the MCAT can take it January, June, and again in August in 2017 but not again in September.	0
+1072	T2164	GW74	to be or not to be	More people took the MCAT in the US than in Canada	1
+1073	T2164	GW74	to be or not to be	Someone can take the MCAT 4 times in 2017 between January and February	2
+1074	T2164	GW106	to be or not to be	The Association of American Medical Colleges have offered the MCAT since the late 1920s.	0
+1075	T2164	GW106	to be or not to be	Biology majors typically score higher than Physics majors on the MCAT exam.	1
+1076	T2164	GW106	to be or not to be	In Canada, the MCAT is offered in both English and French for test takers.	2
+1077	T2164	GW28	to be or not to be	Medical College Admission Test is used by multiple countries but given only in English.	0
+1078	T2164	GW28	to be or not to be	Medical College Admission Test is the most respected test used by Medical colleges.	1
+1079	T2164	GW28	to be or not to be	The Medical College Admission Test is free and open to all who apply.	2
+1080	T2165	GW89	to be or not to be	The MGM Grand Las Vegas opened almost 26 years ago.	0
+1081	T2165	GW89	to be or not to be	Based on number of rooms, the MGM Grand is one of the largest hotels in Las Vegas.	1
+1082	T2165	GW89	to be or not to be	The MGM Grand was renovated in 2001.	2
+1083	T2165	GW52	to be or not to be	The MGM Grand is over 25 years old.	0
+1084	T2165	GW52	to be or not to be	The MGM Grand is currently being renovated.	1
+1085	T2165	GW52	to be or not to be	The MGM Grand has more than 7000 rooms.	2
+1086	T2165	GW28	to be or not to be	MGM Grand Las Vegas has been in operation for more than two decades with multiple renovations.	0
+1087	T2165	GW28	to be or not to be	MGM Grand Las Vegas makes billions of dollars in profit every year.	1
+1088	T2165	GW28	to be or not to be	MGM Grand Las Vegas underwent their fist renovation ten years after opening.	2
+1089	T2166	GW25	to be or not to be	MicroBee is a home computer system that was sold in kit form for $399.	0
+1090	T2166	GW25	to be or not to be	Although the 16 kB or 32 kB memory is small, the monotonic sound generator & speaker was considered very good for the time.	1
+1091	T2166	GW25	to be or not to be	The MicroBee was first introduced in 1982 and discontinued in 1992 after a ten year run.	2
+1092	T2166	GW52	to be or not to be	The MicroBee was in production for almost a decade.	0
+1093	T2166	GW52	to be or not to be	The MicroBee was a popular home computer.	1
+1094	T2166	GW52	to be or not to be	The MicroBee had multiple CPUs.	2
+1095	T2166	GW4	to be or not to be	MicroBee was on the market for 8 years.	0
+1096	T2166	GW4	to be or not to be	MicroBee was able to sell millions of units.	1
+1097	T2166	GW4	to be or not to be	The MicroBee always ran on Unix.	2
+1098	T2167	GW106	to be or not to be	Over-the-counter medications can sometimes be effective in the treatment of migraine headaches.	0
+1099	T2167	GW106	to be or not to be	The risk of suffering from migraine headaches increases with the amount of estrogen in one's system.	1
+1100	T2167	GW106	to be or not to be	Brain tumors are a leading cause of migraine headaches.	2
+1101	T2167	GW86	to be or not to be	Migraines have multiple causes and risk factors.	0
+1102	T2167	GW86	to be or not to be	Migraines sometimes occur in males.	1
+1103	T2167	GW86	to be or not to be	Migraines are also known as tension headaches and cluster headaches.	2
+1104	T2167	GW28	to be or not to be	Migraines usually affect women and can be a lifelong condition.	0
+1105	T2167	GW28	to be or not to be	Migraines if left untreated can lead to suicide.	1
+1106	T2167	GW28	to be or not to be	Migraines can be treated with massage therapy and surgery.	2
+1107	T2168	GW106	to be or not to be	The Moto G's removable storage can be expanded with a 16 GB microSDXC.	0
+1108	T2168	GW106	to be or not to be	The Moto G was the best selling device in Motorola's 3rd Generation devices, which also included the Moto X Style and the Moto X Play.	1
+1109	T2168	GW106	to be or not to be	"The last OS available for the Moto G was Android 7.0 ""Nougat."""	2
+1110	T2168	GW19	to be or not to be	The third generation Moto G allowed users to expand the memory via a microSD card slot.	0
+1111	T2168	GW19	to be or not to be	Subsequent generations of the 3rd generation Moto G offered greater storage options.	1
+1112	T2168	GW19	to be or not to be	The 3rd generation Moto G is the latest offering from the manufacturer.	2
+1113	T2168	GW52	to be or not to be	The Moto G is a phone that has been discontinued.	0
+1114	T2168	GW52	to be or not to be	The Moto G still is supported today.	1
+1115	T2168	GW52	to be or not to be	The Moto G had websites for every continent.	2
+1116	T2169	GW1	to be or not to be	In 2015, Multiple sclerosis led to less than 20,000 deaths.	0
+1117	T2169	GW1	to be or not to be	There are multiple causes of Multiple sclerosis.	1
+1118	T2169	GW1	to be or not to be	Multiple sclerosis only has a couple of symptoms.	2
+1119	T2169	GW63	to be or not to be	Middle aged people who have multiple sclerosis are predicted to live 5-10 years lesser than normal people.	0
+1120	T2169	GW63	to be or not to be	Multiple sclerosis can only be treated by a neurologist.	1
+1121	T2169	GW63	to be or not to be	The frequency of people affected by multiple sclerosis in 2015 was twice as large as the number of deaths resulting from it.	2
+1122	T2169	GW108	to be or not to be	Multiple sclerosis is a neurological disease.	0
+1123	T2169	GW108	to be or not to be	The afflicted person will have trouble with both sensation and coordination.	1
+1124	T2169	GW108	to be or not to be	Multiple sclerosis can appear in young children.	2
+1125	T2170	GW4	to be or not to be	The Nash equilibrium is named for the person that found it.	0
+1126	T2170	GW4	to be or not to be	The Nash equilibrium has been around for over 20 years.	1
+1127	T2170	GW4	to be or not to be	The Nash equilibrium is good for cooperative games.	2
+1128	T2170	GW86	to be or not to be	Nash equilibrium always applies to games not involving cooperation.	0
+1129	T2170	GW86	to be or not to be	Nash equilibrium applies to some games involving cooperation.	1
+1130	T2170	GW86	to be or not to be	Nash equilibrium has no association with correlated equilibrium.	2
+1131	T2170	GW60	to be or not to be	Nash equilibrium contains trembling hand perfect, but not epsilon-equilibrium.	0
+1132	T2170	GW60	to be or not to be	Epsilon-equilibrium is used in all non-cooperative games.	1
+1133	T2170	GW60	to be or not to be	Nash equilibrium contains epsilon-equilibrium, but not trembling hand perfect.	2
+1134	T2171	GW4	to be or not to be	The National Eligibility cum Entrance Test matters in India to getting into college.	0
+1135	T2171	GW4	to be or not to be	The National Eligibility cum Entrance Test takes years to study for.	1
+1136	T2171	GW4	to be or not to be	The National Eligibility cum Entrance Test is taken on a laptop.	2
+1137	T2171	GW28	to be or not to be	National Eligibility cum Entrance Test is an exam for admission into Indian colleges.	0
+1138	T2171	GW28	to be or not to be	National Eligibility cum Entrance Test is free to take.	1
+1139	T2171	GW28	to be or not to be	National Eligibility cum Entrance Test is offered in multiple languages and taken over multiple days.	2
+1140	T2171	GW52	to be or not to be	The NEET (UG) has a negative score range.	0
+1141	T2171	GW52	to be or not to be	The NEET's results are good for a lifetime.	1
+1142	T2171	GW52	to be or not to be	The NEET (UG) takes place in the United States.	2
+1143	T2172	GW28	to be or not to be	Map of Old National Highway 2 in red is located in New Delhi and Kolkata.	0
+1144	T2172	GW28	to be or not to be	Map of Old National Highway 2 in red has tolls to collect fees.	1
+1145	T2172	GW28	to be or not to be	Map of Old National Highway 2 in red connects a handful of localities.	2
+1146	T2172	GW4	to be or not to be	The Map of Old National Highway 2 in red covers over 500 miles of roads.	0
+1147	T2172	GW4	to be or not to be	The Map of Old National Highway 2 in red was completed after 2000.	1
+1148	T2172	GW4	to be or not to be	The Map of Old National Highway 2 in red only covers two main highways.	2
+1149	T2172	GW74	to be or not to be	There are more Primary destinations than states	0
+1150	T2172	GW74	to be or not to be	The Old National Highway is traveled more in Haryana than any other state	1
+1151	T2172	GW74	to be or not to be	Delhi has 1/3 of the total length of the Old National Highway	2
+1152	T2173	GW28	to be or not to be	Navaratri a multi-day Hindu celebration.	0
+1153	T2173	GW28	to be or not to be	Navaratri celebrations features fireworks and bodypaint.	1
+1154	T2173	GW28	to be or not to be	Navaratri is celebrated the same week once every year.	2
+1155	T2173	GW86	to be or not to be	Navaratri lasts for more than a week.	0
+1156	T2173	GW86	to be or not to be	Hindus take time off from work during Navaratri.	1
+1157	T2173	GW86	to be or not to be	Navaratri is observed on the same dates every year.	2
+1158	T2173	GW1	to be or not to be	Navaratri lasts over a week long.	0
+1159	T2173	GW1	to be or not to be	The length of Navaratri has always been 9 days.	1
+1160	T2173	GW1	to be or not to be	Navaratri always takes place in the Summer.	2
+1161	T2174	GW28	to be or not to be	Nissan BD Engine has fuel injection and a cooling system.	0
+1162	T2174	GW28	to be or not to be	Nissan BD Engine was designed by the Japanese.	1
+1163	T2174	GW28	to be or not to be	Nissan BD Engine is powered by lithium ion batteries and cooled by wind.	2
+1164	T2174	GW19	to be or not to be	The Nissan BD engine is not a V8 engine.	0
+1165	T2174	GW19	to be or not to be	The cooling system used for the Nissan BD engine is	1
+1166	T2174	GW19	to be or not to be	The Nissan BD engine is a powerful electric car engine.	2
+1167	T2174	GW52	to be or not to be	Nissan BD Engine posts a power output of just under 100 hp.	0
+1168	T2174	GW52	to be or not to be	The Nissan BD engine is still in use.	1
+1169	T2174	GW52	to be or not to be	The Nissan BD engine is a V6.	2
+1170	T2175	GW86	to be or not to be	The Nokia 9 PureView has multiple cameras.	0
+1171	T2175	GW86	to be or not to be	The Nokia 9 PureView uses a touchscreen.	1
+1172	T2175	GW86	to be or not to be	The Nokia 9 PureView first became available over a year ago.	2
+1173	T2175	GW28	to be or not to be	Nokia 9 PureView is a smartphone with front and back cameras.	0
+1174	T2175	GW28	to be or not to be	Nokia 9 PureView sells for more than 1000 USD.	1
+1175	T2175	GW28	to be or not to be	Nokia 9 PureView is a flip-phone with an extendable antenna.	2
+1176	T2175	GW106	to be or not to be	The Nokia 9 Pureview has a display that is less than 6 inches.	0
+1177	T2175	GW106	to be or not to be	Foxconn manufactured both the Nokia 9 Pureview and its predecessor, the Nokia 8 Sirocco.	1
+1178	T2175	GW106	to be or not to be	The Nokia 9 PureView natively runs on the Android Oreo platform.	2
+1179	T2176	GW28	to be or not to be	Nowruz is New Years holiday in certain parts of the middle east and Asia.	0
+1180	T2176	GW28	to be or not to be	Nowruz is celebrated by shooting guns in the air.	1
+1181	T2176	GW28	to be or not to be	Nowruz lands on different dates every year.	2
+1182	T2176	GW74	to be or not to be	Nowruz falls on the same date in 2018 and 2019	0
+1183	T2176	GW74	to be or not to be	More people in Iraq celebrate Nowruz than in Israel	1
+1184	T2176	GW74	to be or not to be	Nowruz is on a weekend in 2019 and 2021	2
+1185	T2176	GW86	to be or not to be	Nowruz is celebrated in over 20 countries.	0
+1186	T2176	GW86	to be or not to be	Nowruz usually falls on March 20.	1
+1187	T2176	GW86	to be or not to be	Nowruz is a religious holiday.	2
+1188	T2177	GW28	to be or not to be	NWFB Route 8 is a bus route that finishes its journey in under an hour	0
+1189	T2177	GW28	to be or not to be	NWFB Route 8 travels a circuitous route around the island.	1
+1190	T2177	GW28	to be or not to be	Wait time for NWFB Route 8 is 30 mins due to its 30km route.	2
+1191	T2177	GW60	to be or not to be	NWFB Route 8 has one alternative route.	0
+1192	T2177	GW60	to be or not to be	NWFB Route 8 runs north to south.	1
+1193	T2177	GW60	to be or not to be	New World First Bus also operates the MTR Island Line	2
+1194	T2177	GW12	to be or not to be	NWFB Route 8 starts in Heng Fa Chuen and ends at Wan Chai North.	0
+1195	T2177	GW12	to be or not to be	NWFB Route 8 has two competitors, the MTR Island line and NWFB Route N8.	1
+1196	T2177	GW12	to be or not to be	NWFB Route 8 is the only route to Wan Chai North.	2
+1197	T2178	GW86	to be or not to be	Obsessive–compulsive disorder can lead to death.	0
+1198	T2178	GW86	to be or not to be	Obsessive–compulsive disorder requires treatment with medication.	1
+1199	T2178	GW86	to be or not to be	Obsessive–compulsive disorder has a definite cause.	2
+1200	T2178	GW28	to be or not to be	Obsessive–compulsive disorder is a psychiatric condition that usually appears in younger adults after years of abuse.	0
+1201	T2178	GW28	to be or not to be	Obsessive–compulsive disorder is an easily treatable condition.	1
+1202	T2178	GW28	to be or not to be	Obsessive–compulsive disorder can be treated with oils and scents.	2
+1203	T2178	GW52	to be or not to be	OCD occurs in more than 2% of the population.	0
+1204	T2178	GW52	to be or not to be	The onset of OCD can vary greatly.	1
+1205	T2178	GW52	to be or not to be	OCD has known causes.	2
+1206	T2179	GW60	to be or not to be	The 2019 festival occurs later in the year than  the 2018 festival.	0
+1207	T2179	GW60	to be or not to be	Chingham is 60 days long.	1
+1208	T2179	GW60	to be or not to be	The festival is a different number of days each year.	2
+1209	T2179	GW74	to be or not to be	Onam, Thiruvonam occurs during a different month in 2019 than 2018	0
+1210	T2179	GW74	to be or not to be	All Hindus participate in Tug of War in observing Onam, Thiruvonam	1
+1211	T2179	GW74	to be or not to be	Onam, Thiruvonam begins and ends on the same day of the week on 2018 nd 2019	2
+1212	T2179	GW28	to be or not to be	Onam, Thiruvonam is a Hindu religious festival that falls on different dates every year.	0
+1213	T2179	GW28	to be or not to be	Onam, Thiruvonam is only celebrated by Hindus in India.	1
+1214	T2179	GW28	to be or not to be	Onam, Thiruvonam is a festival celebrated by Pakistanis.	2
+1215	T2180	GW52	to be or not to be	The Oregon, California and Eastern Railway is over 60 miles long.	0
+1216	T2180	GW52	to be or not to be	The Oregon, California and Eastern Railway runs throughout the day.	1
+1217	T2180	GW52	to be or not to be	The Oregon, California and Eastern Railway takes place throughout all of Oregon.	2
+1218	T2180	GW28	to be or not to be	Oregon, California and Eastern Railway service  multiple stations.	0
+1219	T2180	GW28	to be or not to be	Oregon, California and Eastern Railway has been profitable every year of its existence.	1
+1220	T2180	GW28	to be or not to be	Oregon, California and Eastern Railway extends its services to the east coast of America.	2
+1221	T2180	GW86	to be or not to be	The Oregon, California and Eastern Railway is sometimes known by a different name.	0
+1222	T2180	GW86	to be or not to be	The Oregon, California and Eastern Railway is currently operational.	1
+1223	T2180	GW86	to be or not to be	The Oregon, California and Eastern Railway has is over 70 miles long.	2
+1224	T2181	GW28	to be or not to be	Oxygen is a colorless gas.	0
+1225	T2181	GW28	to be or not to be	Oxygen is part of the ozone layer.	1
+1226	T2181	GW28	to be or not to be	Oxygen was named after the scientist who studied its properties.	2
+1227	T2181	GW12	to be or not to be	Oxygen is a gas with an atomic number of 8.	0
+1228	T2181	GW12	to be or not to be	Antoine Lavoisier named the gas oxygen in 1777.	1
+1229	T2181	GW12	to be or not to be	The boiling point and melting point of oxygen is exactly the same.	2
+1230	T2181	GW1	to be or not to be	Oxygen was named in the 18th century.	0
+1231	T2181	GW1	to be or not to be	Oxygen was discovered at the same time it was named.	1
+1232	T2181	GW1	to be or not to be	Oxygen has a density (at STP) under 1 g/L.	2
+1233	T2182	GW74	to be or not to be	There are more employees than there are locations of Panda Express	0
+1234	T2182	GW74	to be or not to be	Andrew Cherng is originally from Glendale, California	1
+1235	T2182	GW74	to be or not to be	Panda Express is headquartered in the same city where it was founded	2
+1236	T2182	GW60	to be or not to be	Panda Express is not active in Europe.	0
+1237	T2182	GW60	to be or not to be	Panda Express is the only subsidiary of Panda Restaurant Group.	1
+1238	T2182	GW60	to be or not to be	Panda Express is headquartered in the same city in which it was founded.	2
+1239	T2182	GW28	to be or not to be	Panda Express has thousands of locations around the world.	0
+1240	T2182	GW28	to be or not to be	Panda Express has been profitable every year since its founding.	1
+1241	T2182	GW28	to be or not to be	Panda Express was founded in Europe and has locations throughout Europe.	2
+1242	T2183	GW4	to be or not to be	Parkinson's disease can be treated with medicine.	0
+1243	T2183	GW4	to be or not to be	Parkinson's disease always leads to shaking in people.	1
+1244	T2183	GW4	to be or not to be	Someone with Parkinson's disease will live a normal length life.	2
+1245	T2183	GW3	to be or not to be	symptoms of parkinsons disease such as shaking, rigidity, slowness of movement and difficulty walking are treated with dopamine agonists	0
+1246	T2183	GW3	to be or not to be	dementia is always a complication of Parkinson's disease	1
+1247	T2183	GW3	to be or not to be	Parkinson's disease is a psychiatric disease	2
+1248	T2183	GW52	to be or not to be	Parkinson's disease affects over six million people a year.	0
+1249	T2183	GW52	to be or not to be	Parkinson's can onset at any age.	1
+1250	T2183	GW52	to be or not to be	Parkinson's patients do not have a shorter life expectancy.	2
+1251	T2184	GW12	to be or not to be	Paryushana is a celebration observed by Jains.	0
+1252	T2184	GW12	to be or not to be	Observing Paryushana involves going to the Jain Temple and fasting.	1
+1253	T2184	GW12	to be or not to be	Paryushana is also called Das Lakshana and Samvatsari.	2
+1254	T2184	GW52	to be or not to be	Paryushana is a celebration that is observed via fasting.	0
+1255	T2184	GW52	to be or not to be	Paryushana is observed by Hindus.	1
+1256	T2184	GW52	to be or not to be	Paryushana has the same length of time for any celebration.	2
+1257	T2184	GW19	to be or not to be	Paryushana is a holiday observed by Jains which has religious conotations.	0
+1258	T2184	GW19	to be or not to be	Paryushana is the holiest day for members of the Jain faith.	1
+1259	T2184	GW19	to be or not to be	Paryushana is a national holiday observed by the entire Indian subcontinent.	2
+1260	T2185	GW52	to be or not to be	The Pau-Cranfranc railway opened in the 20th century	0
+1261	T2185	GW52	to be or not to be	The railway hasn't undergone renovations since opening.	1
+1262	T2185	GW52	to be or not to be	The railway has stayed open since it first opened back in 1928.	2
+1263	T2185	GW28	to be or not to be	The Pau–Canfranc railway has not run uninterrupted since opening.	0
+1264	T2185	GW28	to be or not to be	The Pau–Canfranc railway runs thru multiple European countries.	1
+1265	T2185	GW28	to be or not to be	The Pau–Canfranc railway has run continuously since its opening.	2
+1266	T2185	GW60	to be or not to be	Pau-Canfranc railway was electrified the same year it was opened.	0
+1267	T2185	GW60	to be or not to be	TER Aquitaine has been the railways operator for its entire existence.	1
+1268	T2185	GW60	to be or not to be	The railway has spent more years closed than open since 1928.	2
+1269	T2186	GW1	to be or not to be	In 2018, Pentecost was in the Spring.	0
+1270	T2186	GW1	to be or not to be	Pentecost was known as Whitsunday first.	1
+1271	T2186	GW1	to be or not to be	In 2020, Pentecost will be in the Fall.	2
+1272	T2186	GW74	to be or not to be	Pentecost date is 11 days later Western than in 2020 than in 2018.	0
+1273	T2186	GW74	to be or not to be	Eastern Orthodox observe Holy Communion on	1
+1274	T2186	GW74	to be or not to be	Pentecost falls on the same date Easter in 2019 as 2020	2
+1275	T2186	GW106	to be or not to be	Pentacost occurs annually during the Spring.	0
+1276	T2186	GW106	to be or not to be	Pentacost usually falls during the month of June.	1
+1277	T2186	GW106	to be or not to be	Certain Jewish denominations observe Whitsunday.	2
+1278	T2187	GW28	to be or not to be	Perfect Bayesian Equilibrium is related to Bayesian Nash equilibrium	0
+1279	T2187	GW28	to be or not to be	Perfect Bayesian Equilibrium is a concept used to describe game theory.	1
+1280	T2187	GW28	to be or not to be	Perfect Bayesian Equilibrium is not associated with or related to games.	2
+1281	T2187	GW19	to be or not to be	Perfect Bayesian equilibrium is not the smae as Bayesian Nash equilibirbium	0
+1282	T2187	GW19	to be or not to be	Cho and Kreps worked together for many years before proposing the concept of perfect Bayesian equilibirum	1
+1283	T2187	GW19	to be or not to be	Perfect Bayesian equilibirium is the technical name for winning the gold medal on the balance beaam.	2
+1284	T2187	GW52	to be or not to be	The Perfect Byesian equilibrium is a type of game.	0
+1285	T2187	GW52	to be or not to be	The Perfect Bayesian equilibrium is used in a great deal of coding.	1
+1286	T2187	GW52	to be or not to be	The Perfect Bayesian equilibrium is a stable system.	2
+1287	T2188	GW106	to be or not to be	The PCAT exam is limited to just under three and a half hours in length.	0
+1288	T2188	GW106	to be or not to be	A score of 400 is considered to be a passing grade on the PCAT exam.	1
+1289	T2188	GW106	to be or not to be	PCAT scores are used by many medical school admissions boards throughout the United States and Canada.	2
+1290	T2188	GW52	to be or not to be	The PCAT first was administered in the 1970s.	0
+1291	T2188	GW52	to be or not to be	The PCAT's fee has stayed the same throughout its history.	1
+1292	T2188	GW52	to be or not to be	The PCAT has a negative score measure.	2
+1293	T2188	GW89	to be or not to be	The PCAT is used for admission purposes for students going to pharmacy colleges.	0
+1294	T2188	GW89	to be or not to be	The fee for the test is cheaper for Canadian students.	1
+1295	T2188	GW89	to be or not to be	The PCAT was introduced in 1970.	2
+1296	T2189	GW52	to be or not to be	Poincaré conjecture took over a century to be proven.	0
+1297	T2189	GW52	to be or not to be	Poincaré conjecture shares common concepts with other conjectures.	1
+1298	T2189	GW52	to be or not to be	Poincaré conjecture was first conjured in the 19th century.	2
+1299	T2189	GW28	to be or not to be	Poincaré conjecture is named after Henri Poincare.	0
+1300	T2189	GW28	to be or not to be	Poincaré conjecture is an unsolved math problem	1
+1301	T2189	GW28	to be or not to be	Poincaré conjecture was solved in 2006.	2
+1302	T2189	GW25	to be or not to be	Poincaré conjecture is a field of geometric topology equivalent to spherical space form conjecture.	0
+1303	T2189	GW25	to be or not to be	Poincaré conjecture was conjectured by Henri Poincaré which established the field of geometric topology.	1
+1304	T2189	GW25	to be or not to be	Poincaré conjecture is in the field of geometric topology and is equivalent to the Zeeman conjecture.	2
+1305	T2190	GW52	to be or not to be	Polio affects less than 200 people a year.	0
+1306	T2190	GW52	to be or not to be	Polio has been largely eradicated.	1
+1307	T2190	GW52	to be or not to be	Polio takes weeks to show symptoms.	2
+1308	T2190	GW28	to be or not to be	Polio  is an infectious disease that is preventable and curable.	0
+1309	T2190	GW28	to be or not to be	The Polio vaccine is an expensive treatment.	1
+1310	T2190	GW28	to be or not to be	Polio has been eradicated since the 20th century.	2
+1311	T2190	GW74	to be or not to be	At 136 people in 2018 possibly experienced Muscle weakness resulting in an inability to move	0
+1312	T2190	GW74	to be or not to be	The polio virus was found in  in the feces of 136 people in 2016	1
+1313	T2190	GW74	to be or not to be	Muscle weakness resulting in an inability to move sets in after a few minutes	2
+1314	T2191	GW105	to be or not to be	Potassium tends to look like a silvery grey.	0
+1315	T2191	GW105	to be or not to be	Potassium has a hundred different uses.	1
+1316	T2191	GW105	to be or not to be	Potassium is created in a lab.	2
+1317	T2191	GW12	to be or not to be	Potassium has a silvery gray appearance and an atomic number of 19.	0
+1318	T2191	GW12	to be or not to be	Humphry Davy first discovered potassium in the early 1800s.	1
+1319	T2191	GW12	to be or not to be	The Mohs hardness and the Brinell hardness are the same value.	2
+1320	T2191	GW52	to be or not to be	Potassium was one of the first 20 elements discovered.	0
+1321	T2191	GW52	to be or not to be	Potassium is found in many foods today.	1
+1322	T2191	GW52	to be or not to be	Potassium was first discovered in the 18th century.	2
+1323	T2192	GW86	to be or not to be	Psychiatrists are medical specialists.	0
+1324	T2192	GW86	to be or not to be	Psychiatrists are physicians.	1
+1325	T2192	GW86	to be or not to be	Currently, psychiatrists are also referred to as alienists.	2
+1326	T2192	GW60	to be or not to be	A psychiatrist is also a medical professional.	0
+1327	T2192	GW60	to be or not to be	A psychiatrist must have all of an MD, and MBBS, and a DO.	1
+1328	T2192	GW60	to be or not to be	A psychiatrist does not require training in medicine.	2
+1329	T2192	GW28	to be or not to be	A Psychiatrist needs a high level of education and positive characteristics.	0
+1330	T2192	GW28	to be or not to be	Psychiatrists tend to open their own practice.	1
+1331	T2192	GW28	to be or not to be	Psychiatrists are not medical doctors.	2
+1332	T2193	GW52	to be or not to be	The M8s opened last year.	0
+1333	T2193	GW52	to be or not to be	The M8s was constructed in a matter of a year.	1
+1334	T2193	GW52	to be or not to be	The M8s exceeds 60 mph.	2
+1335	T2193	GW19	to be or not to be	The Pujiang line, part of Shanghai's public transit system, has less than 10 stations.	0
+1336	T2193	GW19	to be or not to be	Shanghai's public transit metro system is entirely above ground.	1
+1337	T2193	GW19	to be or not to be	Notwithstanding its economic growth over the past 20 years, China has yet to build public transit systems in its major cities.	2
+1338	T2193	GW28	to be or not to be	Pujiang line is a public transit metro located in Shanghai	0
+1339	T2193	GW28	to be or not to be	The Pujiang line is the newest line in the Shanghai Metro system.	1
+1340	T2193	GW28	to be or not to be	The Pujiang line operate with domestically built train cars.	2
+1341	T2194	GW52	to be or not to be	Rabies causes over 17,000 deaths a year.	0
+1342	T2194	GW52	to be or not to be	Rabies currently has no cure.	1
+1343	T2194	GW52	to be or not to be	A rabies diagnosis guarantees death.	2
+1344	T2194	GW4	to be or not to be	Rabies usually winds up killing animals that get it.	0
+1345	T2194	GW4	to be or not to be	Rabies can people people foam at the mouth.	1
+1346	T2194	GW4	to be or not to be	Rabies is able to be cured with a shot.	2
+1347	T2194	GW28	to be or not to be	Rabies is an infectious disease that is treatable but often times fatal.	0
+1348	T2194	GW28	to be or not to be	Rabies is transmittable between humans as well.	1
+1349	T2194	GW28	to be or not to be	Rabies causes blindness and diarrhea.	2
+1350	T2195	GW60	to be or not to be	The 2018 Raksha Bandhan occured later in the year than the 2019 Raksha Bandhan.	0
+1351	T2195	GW60	to be or not to be	Bhai Duj occurs on the same date as Raksha Bandhan.	1
+1352	T2195	GW60	to be or not to be	Rakri is not related to Bhai Tika.	2
+1353	T2195	GW52	to be or not to be	Raksha Bandhan is a holistic holiday.	0
+1354	T2195	GW52	to be or not to be	Raksha Bandhan always takes place in August.	1
+1355	T2195	GW52	to be or not to be	Raksha Bandhan is observed by the entirety of Asia.	2
+1356	T2195	GW4	to be or not to be	Raksha Bandhan always happens in the 8th moth of the year.	0
+1357	T2195	GW4	to be or not to be	Raksha Bandhan is usually celebrated in India.	1
+1358	T2195	GW4	to be or not to be	Raksha Bandhan is always held on the same date each year.	2
+1359	T2196	GW95	to be or not to be	Ramadan takes place for one month a year.	0
+1360	T2196	GW95	to be or not to be	Muslims read the Quran before they start fasting every day.	1
+1361	T2196	GW95	to be or not to be	Ramadan occurs in the winter.	2
+1362	T2196	GW28	to be or not to be	Ramadan is a muslim holiday that falls on different days every year depending on country.	0
+1363	T2196	GW28	to be or not to be	Ramadan is the holiest celebration for muslims.	1
+1364	T2196	GW28	to be or not to be	Ramadan is observed with celebration on one day a year.	2
+1365	T2196	GW52	to be or not to be	Ramadan is an annual event.	0
+1366	T2196	GW52	to be or not to be	The routine of Ramadan is the same for everyone who practices it.	1
+1367	T2196	GW52	to be or not to be	Ramadan happens at the same time for everyone involved.	2
+1368	T2197	GW1	to be or not to be	Rama Navami happens once a year.	0
+1369	T2197	GW1	to be or not to be	Rama Navami is and has always been in the Spring.	1
+1370	T2197	GW1	to be or not to be	Rama Navami occurs in the Fall.	2
+1371	T2197	GW52	to be or not to be	Rama Navami happens once a year.	0
+1372	T2197	GW52	to be or not to be	Rama Navami is practiced by all of Hindu culture.	1
+1373	T2197	GW52	to be or not to be	Rama Navami takes place on the same day every year.	2
+1374	T2197	GW19	to be or not to be	Hindus celebrate the birth of Rama at the conclusion fo Chaitra Navrati	0
+1375	T2197	GW19	to be or not to be	Chaitra Navrati is one of the holiest days for Hindus	1
+1376	T2197	GW19	to be or not to be	Chaitra Navrati is a month long celebration observed by Hindus and Bhuddists	2
+1377	T2198	GW86	to be or not to be	E Line buses are operational most of the day.	0
+1378	T2198	GW86	to be or not to be	E Line ridership on the days of the weekend is less than the ridership on weekdays.	1
+1379	T2198	GW86	to be or not to be	The E Line is operational 24 hours a day.	2
+1380	T2198	GW52	to be or not to be	The E Line was established five years ago.	0
+1381	T2198	GW52	to be or not to be	The E Line is one in a string of newly added bus lines.	1
+1382	T2198	GW52	to be or not to be	The E Line operates on a 24-hour schedule.	2
+1383	T2198	GW106	to be or not to be	The Aurora Village Transit Center is located in King County, Washington.	0
+1384	T2198	GW106	to be or not to be	The E Line has more operating times than that of Route 358X, which preceded it.	1
+1385	T2198	GW106	to be or not to be	The E Line operates entirely within a single city in King County.	2
+1386	T2199	GW12	to be or not to be	Gary Rhodes is a chef at the formal restaurant called Rhodes W1.	0
+1387	T2199	GW12	to be or not to be	Rhodes W1 only provides haute cuisine type of meals.	1
+1388	T2199	GW12	to be or not to be	Open 24 hours, Rhodes W1 is located in London, England.	2
+1389	T2199	GW52	to be or not to be	The W1 is no longer in business.	0
+1390	T2199	GW52	to be or not to be	The Rhodes W1 was considered a successful business.	1
+1391	T2199	GW52	to be or not to be	The W1 has more than 50 covers.	2
+1392	T2199	GW74	to be or not to be	Gary Rhodes prepares Haute cuisine at Rhodes W1	0
+1393	T2199	GW74	to be or not to be	Gary Rhodes is from London England	1
+1394	T2199	GW74	to be or not to be	Gary Rhodes preparies mostly French Cuisine	2
+1395	T2200	GW52	to be or not to be	REX Richmond Highway Express began service five years ago.	0
+1396	T2200	GW52	to be or not to be	REX Richmond Highway Express has yet to be renovated.	1
+1397	T2200	GW52	to be or not to be	REX Richmond Highway Express operates around the clock.	2
+1398	T2200	GW28	to be or not to be	REX Richmond Highway Express has been in service for more than a decade in Virginia.	0
+1399	T2200	GW28	to be or not to be	REX Richmond Highway Express costs only a dollar per ride.	1
+1400	T2200	GW28	to be or not to be	REX Richmond Highway Express has been serving multiple states for decades.	2
+1401	T2200	GW74	to be or not to be	The start of the REX Richmond Highway Express is also one of the landmarks served	0
+1402	T2200	GW74	to be or not to be	Eisenhower Avenue station is located in Huntington, Virginia	1
+1403	T2200	GW74	to be or not to be	REX Richmond Highway Express runs every 30 minutes starting at 4:30am on Saturdays	2
+1404	T2201	GW86	to be or not to be	Rickets can cause both physical and mental abnormalities.	0
+1405	T2201	GW86	to be or not to be	Rickets always involves a deficiency in Vitamin D.	1
+1406	T2201	GW86	to be or not to be	Rickets is rare outside North America, South America, Asia, and Australia.	2
+1407	T2201	GW12	to be or not to be	Rickets usually occurs in childhood and can be treated with vitamin D and calcium.	0
+1408	T2201	GW12	to be or not to be	Rickets can be diagnosed with blood tests and x-rays.	1
+1409	T2201	GW12	to be or not to be	Rickets is a celiac disease only found in Africa.	2
+1410	T2201	GW52	to be or not to be	Rickets typically occurs in kids.	0
+1411	T2201	GW52	to be or not to be	Surgery isn’t necessary for rickets.	1
+1412	T2201	GW52	to be or not to be	Rickets are rare East of the Atlantic.	2
+1413	T2202	GW12	to be or not to be	Located in Bavaria in Germany, the Rosenheim–Salzburg Railway also has the native name of Bahnstrecke Rosenheim-Salzburg.	0
+1414	T2202	GW12	to be or not to be	The Rosenheim–Salzburg Railway has 13 stations located throughout Bavaria and Salzburg.	1
+1415	T2202	GW12	to be or not to be	Deutsche Bahn Austrian Federal Railways are both the owner and operator of the Rosenheim–Salzburg Railway.	2
+1416	T2202	GW63	to be or not to be	More than 10 stations are still working in Rosenheim–Salzburg Railway	0
+1417	T2202	GW63	to be or not to be	Rosenheim–Salzburg Railway has never exceeded the speed of 99 mph.	1
+1418	T2202	GW63	to be or not to be	Triple track lanes are laid for a length of 90 km in the Rosenheim–Salzburg Railway	2
+1419	T2202	GW52	to be or not to be	The Rosenheim–Salzburg Railway hits speeds of nearly 100 mph.	0
+1420	T2202	GW52	to be or not to be	The Rosenheim–Salzburg Railway has always had 13 stations.	1
+1421	T2202	GW52	to be or not to be	The Rosenheim–Salzburg Railway was recently shut down.	2
+1422	T2203	GW86	to be or not to be	The Samsung Galaxy Note9 has multiple cameras.	0
+1423	T2203	GW86	to be or not to be	The Samsung Galaxy Note9 is still being manufactured.	1
+1424	T2203	GW86	to be or not to be	The Samsung Galaxy Note9 is the most recent model in a series of devices.	2
+1425	T2203	GW52	to be or not to be	The Samsung Galaxy Note9 was first released last year.	0
+1426	T2203	GW52	to be or not to be	The Samsung Galaxy Note9's is still in production.	1
+1427	T2203	GW52	to be or not to be	The Samsung Galaxy Note9 was the first in the Note series.	2
+1428	T2203	GW106	to be or not to be	Users can interact with their Galaxy Note 9 by pressing the Bixby button or using the S Pen.	0
+1429	T2203	GW106	to be or not to be	The model number for the AT&T variant of the Galaxy Note 9 in the United States is SM-N960A.	1
+1430	T2203	GW106	to be or not to be	The Galaxy Note 9 gained the ability to run on 5G networks after a software update in December of 2018.	2
+1431	T2204	GW52	to be or not to be	The San Francisco–Oakland Bay Bridge was opened in the 1930s.	0
+1432	T2204	GW52	to be or not to be	The San Francisco–Oakland Bay Bridge has undergone renovations over the years.	1
+1433	T2204	GW52	to be or not to be	The San Francisco–Oakland Bay Bridge has fewer than 100,000 cars pass over it every day.	2
+1434	T2204	GW4	to be or not to be	The San Francisco–Oakland Bay Bridge has been around for over 80 years.	0
+1435	T2204	GW4	to be or not to be	The San Francisco–Oakland Bay Bridge has always cost the same amount to cross.	1
+1436	T2204	GW4	to be or not to be	The San Francisco–Oakland Bay Bridge has only 10,000 people drive on it per day.	2
+1437	T2204	GW86	to be or not to be	The construction of the San Francisco–Oakland Bay Bridge took more than 3 years.	0
+1438	T2204	GW86	to be or not to be	The highest clearance above at any point on the San Francisco–Oakland Bay Bridge is 14.67 feet.	1
+1439	T2204	GW86	to be or not to be	The total length of the East portion of the San Francisco–Oakland Bay Bridge is greater than the total length of the West.	2
+1440	T2205	GW74	to be or not to be	The SAT is offered Worldwide in English.	0
+1441	T2205	GW74	to be or not to be	The SAT $60 in Canada	1
+1442	T2205	GW74	to be or not to be	It is  possible to get a score of 900 in mathematics	2
+1443	T2205	GW4	to be or not to be	The SAT is taken in person on paper.	0
+1444	T2205	GW4	to be or not to be	The SAT winds up bringing in millions of dollars per yera.	1
+1445	T2205	GW4	to be or not to be	The SAT was invented in the 1950s.	2
+1446	T2205	GW28	to be or not to be	The SAT is a standardized test used for admission to American undergraduate programs.	0
+1447	T2205	GW28	to be or not to be	The SAT is a secure and cheat-proof test taken by students worldwide.	1
+1448	T2205	GW28	to be or not to be	The SAT is is a multi-day test offered in multiple languages.	2
+1449	T2206	GW28	to be or not to be	Schizoaffective disorder is a treatable psychiatric condition	0
+1450	T2206	GW28	to be or not to be	Schizoaffective disorder affects mainly women.	1
+1451	T2206	GW28	to be or not to be	Schizoaffective disorder are due to environmental factors.	2
+1452	T2206	GW106	to be or not to be	Drug use is one factor known to increase schizoaffective disorder symptoms such as hallucinations and delusions.	0
+1453	T2206	GW106	to be or not to be	Suicide rates for those with depressive type schizoaffective disorder are lower than those afflicted with bipolar type.	1
+1454	T2206	GW106	to be or not to be	Discontinuing drug use can cure schizoaffective disorder.	2
+1455	T2206	GW19	to be or not to be	Despite advances in modern medicine, psychiatrists have not been able to identify the precise cause of schizophrenia	0
+1456	T2206	GW19	to be or not to be	Mood stabilizers are more effective at treating bipolar disorder than antipsychotics.	1
+1457	T2206	GW19	to be or not to be	Advances in modern medicine have allowed psychiatrists to treat schizoaphrenia with behavior modification.	2
+1458	T2207	GW86	to be or not to be	Schizophrenia can result in death.	0
+1459	T2207	GW86	to be or not to be	Schizophrenia sometimes occurs in individuals older than 30.	1
+1460	T2207	GW86	to be or not to be	Schizophrenia is an acute condition.	2
+1461	T2207	GW106	to be or not to be	Autism and Schizophrenia share many of the same symptoms.	0
+1462	T2207	GW106	to be or not to be	People with schizophrenia have a shorter than average life expectancy only if they also suffer from concurrent heart disease.	1
+1463	T2207	GW106	to be or not to be	Most sufferers of schizophrenia are not able to hold a job.	2
+1464	T2207	GW52	to be or not to be	Schizophrenia results in over 15,000 deaths per year.	0
+1465	T2207	GW52	to be or not to be	Schizophrenia can be onset at any age.	1
+1466	T2207	GW52	to be or not to be	Schizophrenia does not come with a shorter life expectancy.	2
+1467	T2208	GW60	to be or not to be	THE SQA has a budget of around 11,333 pounds per staff person.	0
+1468	T2208	GW60	to be or not to be	Dave Middleton loves in Glasgow.	1
+1469	T2208	GW60	to be or not to be	David Middleton does not speak English at work.	2
+1470	T2208	GW12	to be or not to be	Information on the SQA can be found at www.sqa.org.uk.	0
+1471	T2208	GW12	to be or not to be	The Scottish Qualifications Authority, located in Scotland, has a staff of 750.	1
+1472	T2208	GW12	to be or not to be	David Middleton is the president of the Scottish Qualifications Authority.	2
+1473	T2208	GW52	to be or not to be	The Scottish Qualifications Authority has a budget exceeding 10 million.	0
+1474	T2208	GW52	to be or not to be	The SQA can be considered a small business.	1
+1475	T2208	GW52	to be or not to be	The HQ of the SQA is in England.	2
+1476	T2209	GW52	to be or not to be	Seoul Subway Line 3 opened over 30 years ago.	0
+1477	T2209	GW52	to be or not to be	Seoul Subway Line 3 has never been renovated.	1
+1478	T2209	GW52	to be or not to be	Seoul Subway Line 3 has the same line length for all routes.	2
+1479	T2209	GW74	to be or not to be	there are 8 more Korail station  than there are number of tracks	0
+1480	T2209	GW74	to be or not to be	There were 44 station when Seoul Subway Line 3 opented in 1985	1
+1481	T2209	GW74	to be or not to be	There are more Termini than there are number of tracks	2
+1482	T2209	GW12	to be or not to be	The native name of Seoul Subway Line 3 is Sam Hoseon.	0
+1483	T2209	GW12	to be or not to be	The Seoul Subway Line 3 is a rapid transit subway system that has 3 stations.	1
+1484	T2209	GW12	to be or not to be	Seoul Subway Line 3 opened in the winter of 1985.	2
+1485	T2210	GW52	to be or not to be	The Settle–Carlisle line opened in the 1870s.	0
+1486	T2210	GW52	to be or not to be	The Settle–Carlisle line has dropped in usage over the years.	1
+1487	T2210	GW52	to be or not to be	The Settle–Carlisle line length is 100 miles.	2
+1488	T2210	GW12	to be or not to be	Settle–Carlisle line is the main line of the National Rail System.	0
+1489	T2210	GW12	to be or not to be	North West England is the only locale of the Settle–Carlisle line.	1
+1490	T2210	GW12	to be or not to be	Network Rail and Neville Hill are owners of the Settle–Carlisle line.	2
+1491	T2210	GW25	to be or not to be	The Settle–Carlisle line has 10 stations located in Northern England.	0
+1492	T2210	GW25	to be or not to be	The Settle–Carlisle line is a heavily traveled rail line.	1
+1493	T2210	GW25	to be or not to be	The Settle–Carlisle is owned by Northern Rail and offers 5 services.	2
+1494	T2211	GW105	to be or not to be	Senior citizens are more at risk for Shingles.	0
+1495	T2211	GW105	to be or not to be	Shingles will last for 3 weeks.	1
+1496	T2211	GW105	to be or not to be	Shingles can be diagnosed through a blood test.	2
+1497	T2211	GW52	to be or not to be	Shingles affects 1 out of every 3 people at some point in their life.	0
+1498	T2211	GW52	to be or not to be	Shingles has a common onset age.	1
+1499	T2211	GW52	to be or not to be	Shingles take over a month to clear.	2
+1500	T2211	GW25	to be or not to be	Shingles can be prevented with a vaccine and can be treated with medication.	0
+1501	T2211	GW25	to be or not to be	An outbreak of the Varicella zoster virus is based on symptoms where a painful rash presents itself on the legs.	1
+1502	T2211	GW25	to be or not to be	Herpes simplex, angina, and insect bites are the only maladies associated with chickenpox.	2
+1503	T2212	GW106	to be or not to be	All occupants of Singapore Airlines Flight 368 were able to evacuate the plane without injury.	0
+1504	T2212	GW106	to be or not to be	The aircraft fire that occurred during Singapore Airlines Flight 368 occurred after the plane had landed.	1
+1505	T2212	GW106	to be or not to be	The oil leak that caused the aircraft fire during Singapore Airlines Flight 368 occurred shortly after leaving the Malpensa Airport.	2
+1506	T2212	GW52	to be or not to be	SQ368's crash was non-fatal.	0
+1507	T2212	GW52	to be or not to be	The crew of the SQ368 reported seeing smoke.	1
+1508	T2212	GW52	to be or not to be	The SQ368 crash took place in the 1990s.	2
+1509	T2212	GW74	to be or not to be	There were more occupants than passengers on Singapore Airlines Flight 368	0
+1510	T2212	GW74	to be or not to be	Singapore Airlines always uses Boeing 777-312ER	1
+1511	T2212	GW74	to be or not to be	There were more injuries than fatalities	2
+1512	T2213	GW86	to be or not to be	Sleep paralysis is sometimes estimated to occur in half of people.	0
+1513	T2213	GW86	to be or not to be	Sleep paralysis always requires medical treatment.	1
+1514	T2213	GW86	to be or not to be	Sleep paralysis can last up to an hour.	2
+1515	T2213	GW52	to be or not to be	Sleep paralysis possibly affects half the population.	0
+1516	T2213	GW52	to be or not to be	Sleep paralysis has been growing in prognosis over time.	1
+1517	T2213	GW52	to be or not to be	Sleep paralysis can lasts for an hour.	2
+1518	T2213	GW28	to be or not to be	Sleep paralysis is a temporary medical condition where people lose motor function before or after sleeping.	0
+1519	T2213	GW28	to be or not to be	Sleep paralysis affects mostly women.	1
+1520	T2213	GW28	to be or not to be	Sleep paralysis can last for days	2
+1521	T2214	GW95	to be or not to be	Social workers all went to college.	0
+1522	T2214	GW95	to be or not to be	Most social workers work in chruches	1
+1523	T2214	GW95	to be or not to be	You can be a social worker if you have an Associates Degree	2
+1524	T2214	GW28	to be or not to be	Social work can lead to work in various roles and organizations after obtaining a degree.	0
+1525	T2214	GW28	to be or not to be	Social work is a well paid profession.	1
+1526	T2214	GW28	to be or not to be	Social workers can find employment with only a GED.	2
+1527	T2214	GW52	to be or not to be	Social work houses several degrees.	0
+1528	T2214	GW52	to be or not to be	Social work has increased since the turn of the 20th century.	1
+1529	T2214	GW52	to be or not to be	Social work only deals with physical health.	2
+1530	T2215	GW25	to be or not to be	Humphry Davy first discovered and isolated Sodium which has a silvery white metallic appearance.	0
+1531	T2215	GW25	to be or not to be	Most Alkali metals have a silvery white metallic appearance making them hard to distinguish.	1
+1532	T2215	GW25	to be or not to be	Sodium has a silvery gold metallic appearance and a remedial natural occurrence.	2
+1533	T2215	GW4	to be or not to be	Sodium is known for being white and silver in color.	0
+1534	T2215	GW4	to be or not to be	Sodium explodes when it interacts with water.	1
+1535	T2215	GW4	to be or not to be	Sodium was discovered in the 1500s.	2
+1536	T2215	GW52	to be or not to be	Sodium was first discovered in the 19th century.	0
+1537	T2215	GW52	to be or not to be	Sodium is currently used in many foods.	1
+1538	T2215	GW52	to be or not to be	Sodium was one of the first 10 elements discovered.	2
+1539	T2216	GW52	to be or not to be	The Xperia X8 debuted in this decade.	0
+1540	T2216	GW52	to be or not to be	The Xperia X8 is still produced currently.	1
+1541	T2216	GW52	to be or not to be	The Xperia X8 has 1GB of memory.	2
+1542	T2216	GW86	to be or not to be	The Sony Ericsson Xperia X8 has a larger memory than storage capacity.	0
+1543	T2216	GW86	to be or not to be	The Sony Ericsson Xperia X8 comes with 16 GB of removable storage.	1
+1544	T2216	GW86	to be or not to be	The Sony Ericsson Xperia X8 has been available for more than a decade.	2
+1545	T2216	GW1	to be or not to be	The Sony Ericsson Xperia X8 came out in the Summer of 2010.	0
+1546	T2216	GW1	to be or not to be	The Sony Ericsson Xperia X8 has better audio than the Sony Ericsson Xperia X10 Mini.	1
+1547	T2216	GW1	to be or not to be	The Sony Ericsson Xperia X8 weighs over 4 pounds.	2
+1548	T2217	GW74	to be or not to be	SSC CGL is designed to secure jobs in Government Organisations in India	0
+1549	T2217	GW74	to be or not to be	SSC CGL is offered in India at same time each year	1
+1550	T2217	GW74	to be or not to be	SSC CGL began in India in the 19th century	2
+1551	T2217	GW4	to be or not to be	The SSC Combined Graduate Level Examination requires someone to go to college first.	0
+1552	T2217	GW4	to be or not to be	The SSC Combined Graduate Level Examination makes a lot of money for India.	1
+1553	T2217	GW4	to be or not to be	The SSC Combined Graduate Level Examination has been practiced over 50 years.	2
+1554	T2217	GW52	to be or not to be	The SSC CGL started back in the 1970s.	0
+1555	T2217	GW52	to be or not to be	The SSC CGL has been offered outside of India.	1
+1556	T2217	GW52	to be or not to be	The SSC CGL is free for all test-takers.	2
+1557	T2218	GW52	to be or not to be	Subgame Perfect Equilibrium is used for games.	0
+1558	T2218	GW52	to be or not to be	Subgame Perfect Equilibrium is a recent piece of technology.	1
+1559	T2218	GW52	to be or not to be	The Subgame Perfect Equilibrium intersects with the evolutionarily diverse strategy.	2
+1560	T2218	GW28	to be or not to be	Subgame Perfect Equilibrium is a strategy employed in games.	0
+1561	T2218	GW28	to be or not to be	Subgame Perfect Equilibrium was created by a Harvard economist.	1
+1562	T2218	GW28	to be or not to be	Subgame Perfect Equilibrium is a standalone concept.	2
+1563	T2218	GW12	to be or not to be	Used for extensive form games, the Ultimatum game is an example of Subgame Perfect Equilibrium.	0
+1564	T2218	GW12	to be or not to be	Subgame Perfect Equilibrium intersects with Nash equilibrium.	1
+1565	T2218	GW12	to be or not to be	Subgame Perfect Equilibrium was proposed by more people than just Reinhard Selten.	2
+1566	T2219	GW106	to be or not to be	Sudan Airways Flight 139 crashed in the summer of 2003.	0
+1567	T2219	GW106	to be or not to be	Most of the passengers aboard Flight 139 were citizens of Sudan.	1
+1568	T2219	GW106	to be or not to be	More than 50% of crew and passengers aboard Flight 139 were eventually rescued within of a few miles of Khartoum International Airport.	2
+1569	T2219	GW74	to be or not to be	The crew and passengers totaled 117	0
+1570	T2219	GW74	to be or not to be	Sudan Airways only used Boeing 737-200C	1
+1571	T2219	GW74	to be or not to be	There were fewer fatalities than passengers	2
+1572	T2219	GW12	to be or not to be	Sudan Airways Flight 139 was flying to Khartoum International Airport on July 8, 2003.	0
+1573	T2219	GW12	to be or not to be	Sudan Airways Flight 139 was a Boeing with the aircraft name White Nile.	1
+1574	T2219	GW12	to be or not to be	There were 117 passengers and 106 fatalities with the crash of Sudan Airways Flight 139.	2
+1575	T2220	GW105	to be or not to be	Sushi Mizutani Restaurant has been around for eleven years.	0
+1576	T2220	GW105	to be or not to be	Hachiro Mizutani personally greets guests.	1
+1577	T2220	GW105	to be or not to be	Large groups can just show up to eat.	2
+1578	T2220	GW1	to be or not to be	Sushi Mizutani Restaurant closed in the Fall of 2016.	0
+1579	T2220	GW1	to be or not to be	Reservations are hard to get at Sushi Mizutani Restaurant.	1
+1580	T2220	GW1	to be or not to be	Sushi Mizutani Restaurant opened in the Summer of 2005.	2
+1581	T2220	GW109	to be or not to be	Owner maintained the dress code is business casual for all time.	0
+1582	T2220	GW109	to be or not to be	In this restaurant is most valuable for those time period.	1
+1583	T2220	GW109	to be or not to be	Food type is not sushi another kind of food they have to prepared well.	2
+1584	T2221	GW86	to be or not to be	Syncope usually occurs rapidly and lasts a brief time.	0
+1585	T2221	GW86	to be or not to be	Syncope usually results from a cardiac condition.	1
+1586	T2221	GW86	to be or not to be	Syncope occurs in approximately 5% of the population.	2
+1587	T2221	GW28	to be or not to be	Syncope is a medical condition of decreased blood flow to the brain that causes a person to faint.	0
+1588	T2221	GW28	to be or not to be	Syncope is easily and affordably treatable.	1
+1589	T2221	GW28	to be or not to be	Syncope causes hyper awareness when afflicted.	2
+1590	T2221	GW52	to be or not to be	Syncope occurs in less than 1% of the population.	0
+1591	T2221	GW52	to be or not to be	Syncope's symptoms are the same for all cases.	1
+1592	T2221	GW52	to be or not to be	Syncope lasts for a long time.	2
+1593	T2222	GW52	to be or not to be	Tangerine_Microtan_65 debuted in the 1970s.	0
+1594	T2222	GW52	to be or not to be	Tangerine_Microtan_65 is still in use today.	1
+1595	T2222	GW52	to be or not to be	Tangerine_Microtan_65 houses over 100KB of RAM.	2
+1596	T2222	GW74	to be or not to be	Tangerine_Microtan_65 cost £79.35 in kit form initially in 1979	0
+1597	T2222	GW74	to be or not to be	Tangerine_Microtan_65 was the top Personal Computer in 1979	1
+1598	T2222	GW74	to be or not to be	Tangerine_Microtan_65 initially cost £100 in 1979	2
+1599	T2222	GW19	to be or not to be	The Tangerine Microtan 65 personal computer was introduced approximately 40 years ago.	0
+1600	T2222	GW19	to be or not to be	The Tangerine Microtan 65 personal computer was an immediate favorite among techies upon its 1979 release.	1
+1601	T2222	GW19	to be or not to be	The Tangerine Microtan 65 personal computer debuted at the 2014 CES.	2
+1602	T2223	GW4	to be or not to be	People that are teachers usually require special education.	0
+1603	T2223	GW4	to be or not to be	People that are teachers always work at schools.	1
+1604	T2223	GW4	to be or not to be	People that are teachers usually teach subjects they have not studied before.	2
+1605	T2223	GW12	to be or not to be	A teacher is a professional occupation that takes place in a school.	0
+1606	T2223	GW12	to be or not to be	A teacher should have competency skills in planning and leadership.	1
+1607	T2223	GW12	to be or not to be	Psychology is the only competency required of a school teacher.	2
+1608	T2223	GW86	to be or not to be	A teacher is considered to be a professional.	0
+1609	T2223	GW86	to be or not to be	A teaching certificate from one country typically permits teaching in other countries.	1
+1610	T2223	GW86	to be or not to be	Teaching involves a single competency.	2
+1611	T2224	GW86	to be or not to be	The Telmac 1800 was one of a series of home computer models.	0
+1612	T2224	GW86	to be or not to be	The Telmac 1800 could display color graphics.	1
+1613	T2224	GW86	to be or not to be	The Telmac 1800 used floppy disks.	2
+1614	T2224	GW52	to be or not to be	The Telmac 1800 debuted over 40 years ago.	0
+1615	T2224	GW52	to be or not to be	The Telmac 1800 had expandable CPU.	1
+1616	T2224	GW52	to be or not to be	The Telmac 1800 was considered to be a microcomputer.	2
+1617	T2224	GW12	to be or not to be	The Telmac 1800 was a home computer released 42 years ago.	0
+1618	T2224	GW12	to be or not to be	Considered a computer kit, the Telmac 1800 had a 64 x 32 pixel display resolution.	1
+1619	T2224	GW12	to be or not to be	With 2 kB RAM, the Telmac 1800 only had the Telmac TMC-600 as a successor.	2
+1620	T2225	GW52	to be or not to be	The Tenth of Tevet is a Jewish event.	0
+1621	T2225	GW52	to be or not to be	The Tenth of Tevet typically takes place every year.	1
+1622	T2225	GW52	to be or not to be	The Tenth of Tevet, for 2019, takes place in 2019.	2
+1623	T2225	GW4	to be or not to be	The Tenth of Tevet starts before the sun is up	0
+1624	T2225	GW4	to be or not to be	The Tenth of Tevet has been practiced for over 1000 years	1
+1625	T2225	GW4	to be or not to be	The Tenth of Tevet is where people eat more food than normal	2
+1626	T2225	GW74	to be or not to be	The 2019 and 2020 date for Tenth of Tevet both happen in 2020	0
+1627	T2225	GW74	to be or not to be	All jews fast on Tenth of Tevet	1
+1628	T2225	GW74	to be or not to be	The 2018 date and the 2020 date for Tenth of Tevet  happen during different months	2
+1629	T2226	GW1	to be or not to be	Terbium was discovered and first isolated in the 19th century.	0
+1630	T2226	GW1	to be or not to be	Terbium is almost always a solid.	1
+1631	T2226	GW1	to be or not to be	Terbium is darker in color.	2
+1632	T2226	GW4	to be or not to be	Terbium has an atomic weight greater than 150.	0
+1633	T2226	GW4	to be or not to be	Terbium can be found in solid form.	1
+1634	T2226	GW4	to be or not to be	Terbium was founded in the late 1900s.	2
+1635	T2226	GW28	to be or not to be	Terbium is an element discovered and isolated by one man.	0
+1636	T2226	GW28	to be or not to be	Terbium is a rare element.	1
+1637	T2226	GW28	to be or not to be	Terbium was named after the person who discovered it.	2
+1638	T2227	GW106	to be or not to be	A college applicant can use a TOEFL score from an exam taken within the previous year.	0
+1639	T2227	GW106	to be or not to be	The TOEFL exam is required by most Ivy League colleges and universities in the United States.	1
+1640	T2227	GW106	to be or not to be	The math portion of the TOEFL exam accounts for 25% of the exam's total score.	2
+1641	T2227	GW19	to be or not to be	The standardized Test of English as a Foreign Language (TOEFL) is a globally recognized method of establishing language proficiency.	0
+1642	T2227	GW19	to be or not to be	The United Nations requires that job applicants pass the TOEFL.	1
+1643	T2227	GW19	to be or not to be	The TOEFL is only offered in Eastern European and Southeast Asian countries.	2
+1644	T2227	GW52	to be or not to be	TOEFL was started in the 1960s.	0
+1645	T2227	GW52	to be or not to be	TOEFL can be taken from every continent.	1
+1646	T2227	GW52	to be or not to be	TOEFL has a negative score measure.	2
+1647	T2228	GW12	to be or not to be	Tetanus and Lockjaw are the same disease.	0
+1648	T2228	GW12	to be or not to be	Lockjaw can be prevented with the tetanus vaccine.	1
+1649	T2228	GW12	to be or not to be	Muscle spasms, fever, and headache are risk factors of tetanus.	2
+1650	T2228	GW105	to be or not to be	Tetanus is an infectious disease that can show up anywhere from a few days to almost a month.	0
+1651	T2228	GW105	to be or not to be	Most patients experience Tetanus for 15 days.	1
+1652	T2228	GW105	to be or not to be	Most of the time tetanus is highly fatal.	2
+1653	T2228	GW19	to be or not to be	In 2015, less than 1/2 the people who contracted lockjaw died from the disease.	0
+1654	T2228	GW19	to be or not to be	Lockjaw has been eradicated in the United States.	1
+1655	T2228	GW19	to be or not to be	Lockjaw is an uncurable terminal disease.	2
+1656	T2229	GW105	to be or not to be	The Ledbury Restaurant was opened over a decade ago.	0
+1657	T2229	GW105	to be or not to be	The Ledbury Restaurant has a strong online presence.	1
+1658	T2229	GW105	to be or not to be	The Ledbury Restaurant can host hundreds of people at once.	2
+1659	T2229	GW60	to be or not to be	Brett Graham is a chef of British cuisine.	0
+1660	T2229	GW60	to be or not to be	Brett Graham lives in London.	1
+1661	T2229	GW60	to be or not to be	Brett Graham has been head chef at Ledbury Restaurant for 20 years.	2
+1662	T2229	GW1	to be or not to be	The Ledbury Restaurant opened in the 1st decade of the 21st century.	0
+1663	T2229	GW1	to be or not to be	Brett Graham was the original chef of The Ledbury Restaurant	1
+1664	T2229	GW1	to be or not to be	The Ledbury Restaurant can seat over 60 people.	2
+1665	T2230	GW19	to be or not to be	The Tukwila International Boulevard Station, a light rail station in Washington state, has been open for more than 10 years.	0
+1666	T2230	GW19	to be or not to be	Tukwila International Boulevard Station is a popular station for commuters traveling to downtown Seattle.	1
+1667	T2230	GW19	to be or not to be	Tukwila International Boulevard Station is a popular station in the Nation's capital.	2
+1668	T2230	GW86	to be or not to be	The Tukwila International Boulevard Station has as many side platforms as tracks.	0
+1669	T2230	GW86	to be or not to be	The Tukwila International Boulevard Station has wheelchair ramps.	1
+1670	T2230	GW86	to be or not to be	The Tukwila International Boulevard Station was opened less than a decade ago.	2
+1671	T2230	GW28	to be or not to be	Tukwila International Boulevard Station (Link Light Rail Station) is an American public transport station in the state of Washington	0
+1672	T2230	GW28	to be or not to be	Tukwila International Boulevard Station (Link Light Rail Station) accepts cash and digital payments.	1
+1673	T2230	GW28	to be or not to be	Tukwila International Boulevard Station (Link Light Rail Station) has an express track along with two local tracks.	2
+1674	T2231	GW1	to be or not to be	Type 1 diabetes has multiple symptoms.	0
+1675	T2231	GW1	to be or not to be	Type 1 diabetes was originally called juvenile diabetes.	1
+1676	T2231	GW1	to be or not to be	There is only 1 form of treatment for Type 1 diabetes.	2
+1677	T2231	GW28	to be or not to be	Type 1 diabetes can be treated but not prevented.	0
+1678	T2231	GW28	to be or not to be	Type 1 diabetes affects more women than men.	1
+1679	T2231	GW28	to be or not to be	The cause of Type 1 diabetes is a mystery and un-treatable	2
+1680	T2231	GW74	to be or not to be	There are more risk factors than causes	0
+1681	T2231	GW74	to be or not to be	celiac disease causes Frequent urination	1
+1682	T2231	GW74	to be or not to be	Usual onset and Duration are the same length of time	2
+1683	T2232	GW12	to be or not to be	Noninsulin-dependent diabetes mellitus (NIDDM) is another name for Type 2 diabetes.	0
+1684	T2232	GW12	to be or not to be	Type 2 diabetes is a long-term illness that occurs during childhood.	1
+1685	T2232	GW12	to be or not to be	People with Type 2 diabetes can expect to live ten years longer than the average person.	2
+1686	T2232	GW28	to be or not to be	Type 2 diabetes is a treatable disease that affects mostly older adults.	0
+1687	T2232	GW28	to be or not to be	Type 2 diabetes is caused by too much sugar intake.	1
+1688	T2232	GW28	to be or not to be	Type 2 diabetes can be cured with drugs.	2
+1689	T2232	GW52	to be or not to be	Type 2 Diabetes carries a shorter life expectancy than normal adults.	0
+1690	T2232	GW52	to be or not to be	Type 2 Diabetes is the most common type of diabetes.	1
+1691	T2232	GW52	to be or not to be	Type 2 Diabetes is diagnosed via sleep study.	2
+1692	T2233	GW60	to be or not to be	At most 0.5% of people will need a colonoscopy with tissue biopsies to diagnose Ulcerative colitis.	0
+1693	T2233	GW60	to be or not to be	More people die from Ulcerative colitis than from Crohn's  disease.	1
+1694	T2233	GW60	to be or not to be	Teenagers cannot get ulcerative colitis.	2
+1695	T2233	GW52	to be or not to be	Ulcerative colitis, when paired with Crohn's, causes over 47,000 deaths per year.	0
+1696	T2233	GW52	to be or not to be	Ulcerative colitis has no prevention methods.	1
+1697	T2233	GW52	to be or not to be	Ulcerative colitis affects more than 1% of the population.	2
+1698	T2233	GW74	to be or not to be	There are more symptoms than complications	0
+1699	T2233	GW74	to be or not to be	The duration of Ulcerative colitis is as long as the usual onset	1
+1700	T2233	GW74	to be or not to be	Diagnostic method outnumbers treatments	2
+1701	T2234	GW4	to be or not to be	The Unaza busline runs over 20 times a day.	0
+1702	T2234	GW4	to be or not to be	The Unaza busline drives over 50 miles an hour.	1
+1703	T2234	GW4	to be or not to be	The Unaza busline only come every half hour.	2
+1704	T2234	GW86	to be or not to be	The Unaza busline is non-operational for less than 6 hours a day.	0
+1705	T2234	GW86	to be or not to be	A trip on the Unaza busline sometimes takes more than 30 minutes.	1
+1706	T2234	GW86	to be or not to be	The Unaza busline runs less frequently on the weekends than during the week.	2
+1707	T2234	GW52	to be or not to be	The Unaza busline operates for over 3/4 of the day.	0
+1708	T2234	GW52	to be or not to be	The Unaza busline has yet to be modified or renovated.	1
+1709	T2234	GW52	to be or not to be	The Unaza busline is over 100 miles long.	2
+1710	T2235	GW52	to be or not to be	The University Clinical Aptitude Test has been taken by about 25000 people yearly.	0
+1711	T2235	GW52	to be or not to be	The University Clinical Aptitude Test is a significant determining factor on admission.	1
+1712	T2235	GW52	to be or not to be	The University Clinical Aptitude Test takes an entire day to complete.	2
+1713	T2235	GW1	to be or not to be	The University Clinical Aptitude Test takes about 120 minutes to take.	0
+1714	T2235	GW1	to be or not to be	The University Clinical Aptitude Test is the only test Pearson administers.	1
+1715	T2235	GW1	to be or not to be	The University Clinical Aptitude Test was first administered in the 20th century.	2
+1716	T2235	GW105	to be or not to be	Test takers can use process of elimination.	0
+1717	T2235	GW105	to be or not to be	Some test takers can complete the University Clinical Aptitude Test in as little as twenty minutes.	1
+1718	T2235	GW105	to be or not to be	Millions of people take the test each year.	2
+1719	T2236	GW86	to be or not to be	The crash of US Airways Flight 1549 was caused by animals.	0
+1720	T2236	GW86	to be or not to be	All of the crew of US Airways Flight 1549 suffered serious injuries.	1
+1721	T2236	GW86	to be or not to be	US Airways Flight 1549 crashed between its stopover point and its final destination.	2
+1722	T2236	GW4	to be or not to be	US Airways Flight 1549 took off from the east coast of the USA.	0
+1723	T2236	GW4	to be or not to be	US Airways Flight 1549 hit a goose while flying.	1
+1724	T2236	GW4	to be or not to be	US Airways Flight 1549 was able to complete their flight.	2
+1725	T2236	GW52	to be or not to be	US1549 crashed ten years ago.	0
+1726	T2236	GW52	to be or not to be	US1549 had reported no engine trouble before bird strike.	1
+1727	T2236	GW52	to be or not to be	US1549 crash resulted in 5 fatalities.	2
+1728	T2237	GW52	to be or not to be	The Utah Valley Express just opened last year.	0
+1729	T2237	GW52	to be or not to be	The Utah Valley Express operates around the clock.	1
+1730	T2237	GW52	to be or not to be	The Utah Valley Express travels at speeds above 60 mph.	2
+1731	T2237	GW4	to be or not to be	The Utah Valley Express has been around under 10 years.	0
+1732	T2237	GW4	to be or not to be	The Utah Valley Express took 5 years to build.	1
+1733	T2237	GW4	to be or not to be	The Utah Valley Express moves faster than cars on the freeway.	2
+1734	T2237	GW19	to be or not to be	The Utah Valley Express, a rapid bus service in southern Orem, Utah, has been operated by the Utah Transit Authority for over one year.	0
+1735	T2237	GW19	to be or not to be	No route changes were made to the rapid bus line in southern Orem, Utah when it was changed from the Provo Urem Max to the Utah Valley Express.	1
+1736	T2237	GW19	to be or not to be	The Utah Valley Express rapid bus line serves the metro Salt Lake City area in Utah.	2
+1737	T2238	GW28	to be or not to be	Vaisakhi, Baisakhi Punjabi: ਵਿਸਾਖੀ is a religious observance by both Sikhs and Hindus.	0
+1738	T2238	GW28	to be or not to be	Vaisakhi, Baisakhi Punjabi: ਵਿਸਾਖੀ shoot fireworks and exchange gifts as part of the celebrations.	1
+1739	T2238	GW28	to be or not to be	Vaisakhi, Baisakhi Punjabi: ਵਿਸਾਖੀ always fall on the same date every year.	2
+1740	T2238	GW86	to be or not to be	Vaisakhi is known by 4 different names.	0
+1741	T2238	GW86	to be or not to be	Vaisakhi is observed on the 13th or 14th of April every year.	1
+1742	T2238	GW86	to be or not to be	Vaisakhi is strictly a cultural observation.	2
+1743	T2238	GW52	to be or not to be	The Baisakh takes place at around the same time every year.	0
+1744	T2238	GW52	to be or not to be	The Baisakh has the same observances for all who celebrate.	1
+1745	T2238	GW52	to be or not to be	Baisakh occurs on the same day every year.	2
+1746	T2239	GW86	to be or not to be	Vesak is known by at least a half dozen official names.	0
+1747	T2239	GW86	to be or not to be	Vesak is observed by more Buddhists than Hindus worldwide.	1
+1748	T2239	GW86	to be or not to be	Vesak is celebrated on the same date each year.	2
+1749	T2239	GW52	to be or not to be	Buddha Day occurs on an annual basis.	0
+1750	T2239	GW52	to be or not to be	Buddha Day is celebrated by all of Asia.	1
+1751	T2239	GW52	to be or not to be	In 2018, Buddha Day was celebrated on the same day for every country in Asia.	2
+1752	T2239	GW12	to be or not to be	Vesak is an annual holiday and was celebrated on May 19 in 2019.	0
+1753	T2239	GW12	to be or not to be	Vesak is a religious holiday celebrating Gautama Buddha.	1
+1754	T2239	GW12	to be or not to be	Vesak is celebrated during the winter months.	2
+1755	T2240	GW28	to be or not to be	Vidyasagar Setu is a six-lane toll bridge.	0
+1756	T2240	GW28	to be or not to be	Vidyasagar Setu cost billions of US dollars.	1
+1757	T2240	GW28	to be or not to be	Vidyasagar Setu is known for its unique cantilever design.	2
+1758	T2240	GW12	to be or not to be	Vidyasagar Setu is also known as Second Hooghly Bridge and is a two-way with three lanes.	0
+1759	T2240	GW12	to be or not to be	The Braithwaite Burn and Jessop Construction Company Limited is the only company who was involved in the construction of the bridge.	1
+1760	T2240	GW12	to be or not to be	The Vidyasagar Setu opened in the spring of 1992.	2
+1761	T2240	GW86	to be or not to be	Vidyasagar Setu has six lanes in total.	0
+1762	T2240	GW86	to be or not to be	Vehicles using Vidyasagar Setu pay a toll for travelling in both directions.	1
+1763	T2240	GW86	to be or not to be	Vidyasagar Setu costs nothing for vehicles to use.	2
+1764	T2241	GW28	to be or not to be	Viva Purple is a public bus line that is over a decade old.	0
+1765	T2241	GW28	to be or not to be	Public Wifi is available on all Viva Purple buses.	1
+1766	T2241	GW28	to be or not to be	Viva Purple is arrives twice an hour.	2
+1767	T2241	GW4	to be or not to be	Viva Purple leaves four times an hour.	0
+1768	T2241	GW4	to be or not to be	Viva Purple has been running daily for over 14 years.	1
+1769	T2241	GW4	to be or not to be	The Viva Purple line only has a few hundred people ride it per year.	2
+1770	T2241	GW52	to be or not to be	Viva Purple enjoys ridership of over 5,000 people.	0
+1771	T2241	GW52	to be or not to be	Viva Purple operates on a 24 hour schedule.	1
+1772	T2241	GW52	to be or not to be	Viva Purple began operating in the 1990s.	2
+1773	T2242	GW4	to be or not to be	The Xiaomi Mi 2S has two different cameras on the back of it.	0
+1774	T2242	GW4	to be or not to be	The Xiaomi Mi 2S has a larger battery than an iPhone.	1
+1775	T2242	GW4	to be or not to be	The Xiaomi Mi 2S is smaller than 120mm wide.	2
+1776	T2242	GW74	to be or not to be	Storage is up to 30 GB more than memory	0
+1777	T2242	GW74	to be or not to be	Xiaomi Mi 2S with Android 4.1 Jelly Bean operating systems have 16 GB of storage	1
+1778	T2242	GW74	to be or not to be	Xiaomi Mi3 came before Xiaomi Mi2	2
+1779	T2242	GW105	to be or not to be	The Xiaomi Mi 2S is a smart phone.	0
+1780	T2242	GW105	to be or not to be	There is enough memory for hundreds of photos.	1
+1781	T2242	GW105	to be or not to be	The Xiaomi Mi 2S has plenty of removable storage.	2
+1782	T2243	GW28	to be or not to be	B1 is a bus route that operates daily in Zhengzhou.	0
+1783	T2243	GW28	to be or not to be	B1 is a cashless bus system and uses electronic forms of payment.	1
+1784	T2243	GW28	to be or not to be	B1 has operated continually for over a decade.	2
+1785	T2243	GW12	to be or not to be	Located in Zhengzhou, B1 is operated by the Zhengzhou Bus Communication Corporation.	0
+1786	T2243	GW12	to be or not to be	B1 starts at Zhongzhou Avenue and Nongye Road and ends on the Dianchang Road B/T.	1
+1787	T2243	GW12	to be or not to be	B1 operates daily every seven minutes.	2
+1788	T2243	GW52	to be or not to be	The B1 has been in service for a decade.	0
+1789	T2243	GW52	to be or not to be	The B1 is one of the most popular bus rides.	1
+1790	T2243	GW52	to be or not to be	The B1 operates on a 24-hour schedule.	2
+1791	T2244	GW28	to be or not to be	Indonesia AirAsia Flight 8501 destined for Singapore crashed into the sea killing all on board.	0
+1792	T2244	GW28	to be or not to be	Indonesia AirAsia Flight 8501 may have had a miscommunication between pilots that contributed to the accident.	1
+1793	T2244	GW28	to be or not to be	Indonesia AirAsia Flight 8501 was a Boeing jumbo that crashed while landing on the runway.	2
+1794	T2244	GW52	to be or not to be	QZ8501 crashed resulted in all fatalities on board.	0
+1795	T2244	GW52	to be or not to be	QZ8501 had reported engine issues prior to stalling.	1
+1796	T2244	GW52	to be or not to be	QZ8501 crash occurred in the 1990s.	2
+1797	T2244	GW1	to be or not to be	Everyone on board Indonesia AirAsia Flight 8501 perished.	0
+1798	T2244	GW1	to be or not to be	Indonesia AirAsia Flight 8501 is the only Indonesia AirAsia Flight 8501 to crash.	1
+1799	T2244	GW1	to be or not to be	Indonesia AirAsia Flight 8501 crashed in the Summer of 2014.	2

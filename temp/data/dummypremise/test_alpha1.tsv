@@ -1,0 +1,1801 @@
+index	table_id	annotator_id	premise	hypothesis	label
+0	T12	GW0	to be or not to be	Aksel V. Johannesen serves in the Faroe Islands government.	0
+1	T12	GW0	to be or not to be	More people in Faroe Islands speak Danish than Faroese.	1
+2	T12	GW0	to be or not to be	Faroe Islands only has one official language.	2
+3	T12	GW1	to be or not to be	The Faroe Islands has more than one official language.	0
+4	T12	GW1	to be or not to be	If the High Commissioner passes away in the Faroe Islands, then the Prime Minister will take over that role.	1
+5	T12	GW1	to be or not to be	The Faroe Islands has more than one official religion.	2
+6	T12	GW4	to be or not to be	The monarch of the Faroe Islands is Margethe II	0
+7	T12	GW4	to be or not to be	Many people on the Faroe Islands speak Faroese.	1
+8	T12	GW4	to be or not to be	The Faroe Islands are led by Lene Moyell Johnansen.	2
+9	T13	GW0	to be or not to be	Fearless is over 50 minutes in length.	0
+10	T13	GW0	to be or not to be	Fearless was Taylor Swift's second release.	1
+11	T13	GW0	to be or not to be	Scott Borchetta single-handily produced Fearless.	2
+12	T13	GW4	to be or not to be	The album Fearless was released in the winter of 2008.	0
+13	T13	GW4	to be or not to be	Scott Borchetta worked directly on Fearless.	1
+14	T13	GW4	to be or not to be	The album Fearless was over an hour in length.	2
+15	T13	GW1	to be or not to be	Fearless' recording spanned across two years.	0
+16	T13	GW1	to be or not to be	Taylor Swift did more on the production side of things than Nathan Chapman.	1
+17	T13	GW1	to be or not to be	Fearless was released in the Spring of 2008.	2
+18	T14	GW1	to be or not to be	Flatliners is pretty close to two hours long.	0
+19	T14	GW1	to be or not to be	Rick Bieber put more money into Flatliners than Michael Douglas did.	1
+20	T14	GW1	to be or not to be	Flatliners made 50 million over it's budget at the box office.	2
+21	T14	GW4	to be or not to be	Flatliners was a film that was able to net money at the box office.	0
+22	T14	GW4	to be or not to be	Flatliners was mostly produced by Michael Douglas.	1
+23	T14	GW4	to be or not to be	Flatliners was a movie that was over two hours long.	2
+24	T14	GW0	to be or not to be	Flatliners made over double what it cost to make at the box office.	0
+25	T14	GW0	to be or not to be	Flatliners was Peter Filardi's first writing credit.	1
+26	T14	GW0	to be or not to be	Flatliners was released in the winter of 1990.	2
+27	T17	GW1	to be or not to be	Bryce Dallas Howard has been acting for about 30 years.	0
+28	T17	GW1	to be or not to be	Bryce Dallas Howard loves Cheryl Alley more than Ron Howard.	1
+29	T17	GW1	to be or not to be	Bryce Dallas Howard was born in the Fall of 1981.	2
+30	T17	GW4	to be or not to be	Bryce Dallas Howard was born on the west coast of the USA.	0
+31	T17	GW4	to be or not to be	Bryce Dallas Howard lived with Ron Howard for a long time.	1
+32	T17	GW4	to be or not to be	Bryce Dallas Howard has been working since 1981.	2
+33	T17	GW2	to be or not to be	Bryce Dallas Howard has been acting for more than 20 years.	0
+34	T17	GW2	to be or not to be	Bryce Dallas Howard's first acting job was in a cereal commercial.	1
+35	T17	GW2	to be or not to be	Bryce Dallas Howard has 3 sons.	2
+36	T20	GW4	to be or not to be	The rappers Flatbush Zombies got their start on the east coast.	0
+37	T20	GW4	to be or not to be	The rappers Flatbush Zombies have been signed by a big label.	1
+38	T20	GW4	to be or not to be	The rappers Flatbush Zombies are known for performing with rock bands.	2
+39	T20	GW0	to be or not to be	Flatbush Zombies have made music for over five years now.	0
+40	T20	GW0	to be or not to be	Flatbush Zombies have worked with rappers outside of New York.	1
+41	T20	GW0	to be or not to be	Flatbush Zombies are signed to RCA records.	2
+42	T20	GW1	to be or not to be	Flatbush Zombies are named, in part, after the city they are from.	0
+43	T20	GW1	to be or not to be	Flatbush Zombies preferred making music with RecordsWarner over The Glorious Dead.	1
+44	T20	GW1	to be or not to be	Flatbush Zombies have been active as a band for over 10 years.	2
+45	T29	GW1	to be or not to be	Bullet for My Valentine was known as Jeff Killed John earlier in time.	0
+46	T29	GW1	to be or not to be	Jeff Killed John made the same kind of music that Bullet for My Valentine ended up making.	1
+47	T29	GW1	to be or not to be	Bullet for My Valentine has been active for more than 25 years as a band.	2
+48	T29	GW4	to be or not to be	Bullet for My Valentine is a band that has been playing since the late 1990s.	0
+49	T29	GW4	to be or not to be	The band Bullet for My Valentine has been most popular in the UK.	1
+50	T29	GW4	to be or not to be	The band Bullet for My Valentine is known for playing pop music.	2
+51	T29	GW0	to be or not to be	Bullet for My Valentine are a band from Europe.	0
+52	T29	GW0	to be or not to be	Bullet for My Valentine has released music every year since 1998.	1
+53	T29	GW0	to be or not to be	Bullet for My Valentine has only released music for RCA records.	2
+54	T64	GW0	to be or not to be	Equestrian Portrait of Charles I is located in England.	0
+55	T64	GW0	to be or not to be	Anthony van Dyck took over one year to complete Equestrian Portrait of Charles I.	1
+56	T64	GW0	to be or not to be	Equestrian Portrait of Charles I is less than 100 inches wide.	2
+57	T64	GW1	to be or not to be	Equestrian Portrait of Charles I was painted in the 17th century.	0
+58	T64	GW1	to be or not to be	Equestrian Portrait of Charles I is on loan to the National Gallery in London.	1
+59	T64	GW1	to be or not to be	The longest side of Equestrian Portrait of Charles I measures less than 11 feet long.	2
+60	T64	GW4	to be or not to be	The Equestrian Portrait of Charles I was completed by Anthony van Dyck.	0
+61	T64	GW4	to be or not to be	The Equestrian Portrait of Charles I was painted in London.	1
+62	T64	GW4	to be or not to be	The Equestrian Portrait of Charles I is kept in a museum in Paris.	2
+63	T68	GW4	to be or not to be	The band Jet was formed in Australia.	0
+64	T68	GW4	to be or not to be	The musicians in Jet did not do produce any music between 2012 and 2016.	1
+65	T68	GW4	to be or not to be	After breaking up in 2012 Jet never came back together.	2
+66	T68	GW0	to be or not to be	Jet took a four year hiatus from performing.	0
+67	T68	GW0	to be or not to be	Jet released their first album in 2001.	1
+68	T68	GW0	to be or not to be	Jet quit performing over five years ago.	2
+69	T68	GW1	to be or not to be	Jet has been a band for over 10 years.	0
+70	T68	GW1	to be or not to be	Jet consider themselves alternative rock more than indie rock.	1
+71	T68	GW1	to be or not to be	Jet has made music for 5 or more record companies.	2
+72	T74	GW1	to be or not to be	Katharine McPhee was born on the West Coast.	0
+73	T74	GW1	to be or not to be	Katharine McPhee likes writing songs more than she does performing them.	1
+74	T74	GW1	to be or not to be	Katharine McPhee has been active for over 20 years.	2
+75	T74	GW0	to be or not to be	Katharine McPhee is from the west coast of the U.S.	0
+76	T74	GW0	to be or not to be	Katharine McPhee writes every song that she performs.	1
+77	T74	GW0	to be or not to be	Katharine McPhee has been acting over twenty years.	2
+78	T74	GW4	to be or not to be	Katharine McPhee was born on the west coast of the United States.	0
+79	T74	GW4	to be or not to be	Katharine McPhee is known for being an R&B singer.	1
+80	T74	GW4	to be or not to be	Katharine McPhee has been with over 7 record labels.	2
+81	T104	GW0	to be or not to be	The E Street Band is from the west coast of U.S..	0
+82	T104	GW0	to be or not to be	The E Street Band has all of it's original members.	1
+83	T104	GW0	to be or not to be	E Street band is from the capital of New Jersey.	2
+84	T104	GW1	to be or not to be	The E Street Band was formed on the East Coast.	0
+85	T104	GW1	to be or not to be	The E Street Band will keep playing music until it's members die.	1
+86	T104	GW1	to be or not to be	The E Street Band has been active as a band for over 50 years.	2
+87	T104	GW4	to be or not to be	The E Street Band was formed on the east coast of the USA.	0
+88	T104	GW4	to be or not to be	Bruce Springsteen worked a lot with the E Street Band.	1
+89	T104	GW4	to be or not to be	The E Street Band broke up in 1999.	2
+90	T137	GW1	to be or not to be	Hawkwind has been active as a band for about 50 years.	0
+91	T137	GW1	to be or not to be	Hawkwind changed names a lot because of copyright issues.	1
+92	T137	GW1	to be or not to be	Hawkwind was always the band's name.	2
+93	T137	GW4	to be or not to be	The band Hawkwind started making songs in 1969.	0
+94	T137	GW4	to be or not to be	The band Hawkwind has toured outside London England.	1
+95	T137	GW4	to be or not to be	The band Hawkwind is known for performing with Motley Crue.	2
+96	T137	GW0	to be or not to be	Hawkwind has been performing for over 40 years.	0
+97	T137	GW0	to be or not to be	Hawkwind was known as The Elves of Silbury Hill for the majority of their career.	1
+98	T137	GW0	to be or not to be	Hawkwind are a North American band.	2
+99	T146	GW4	to be or not to be	Jeff Bridges has been a performer since they were 2 years old.	0
+100	T146	GW4	to be or not to be	Jeff Bridges has lived their entire life in California.	1
+101	T146	GW4	to be or not to be	Jeff Bridges has had five children.	2
+102	T146	GW1	to be or not to be	Jeff Bridges was born in the Winter of 1949.	0
+103	T146	GW1	to be or not to be	Jeff Bridges prefers singing to composing things.	1
+104	T146	GW1	to be or not to be	Jeff Bridges has been active in his career for less than 60 years.	2
+105	T146	GW12	to be or not to be	Jeff Bridges was born in the winter of 1949.	0
+106	T146	GW12	to be or not to be	Jeff Bridges has a brother and a sister.	1
+107	T146	GW12	to be or not to be	Beau Bridges mother is Susan Geston.	2
+108	T152	GW0	to be or not to be	Jane Austen was buried in her home country.	0
+109	T152	GW0	to be or not to be	James Austen is Jane Austen's oldest brother.	1
+110	T152	GW0	to be or not to be	Jane Austen did not live to see 40 years old.	2
+111	T152	GW4	to be or not to be	Jane Austen was born in England.	0
+112	T152	GW4	to be or not to be	Jane Austen wound up living their whole life in England.	1
+113	T152	GW4	to be or not to be	Jane Austen passed away when she was 45.	2
+114	T152	GW1	to be or not to be	Jane Austen died in the Summer of 1817.	0
+115	T152	GW1	to be or not to be	Jane Austen loved James Austen more than George Austen.	1
+116	T152	GW1	to be or not to be	Jane Austen had a college degree.	2
+117	T154	GW1	to be or not to be	Charlie Sheen was born in the Fall of 1965.	0
+118	T154	GW1	to be or not to be	Charlie Sheen doesn't like his original birth name.	1
+119	T154	GW1	to be or not to be	Charlie Sheen has been acting for over 50 years.	2
+120	T154	GW4	to be or not to be	Charlie Sheen has five children.	0
+121	T154	GW4	to be or not to be	Charlie Sheen has been working since the 70s.	1
+122	T154	GW4	to be or not to be	Charlie Sheen is still married to Brooke Mueller.	2
+123	T154	GW0	to be or not to be	Charlie Sheen does not use his original surname.	0
+124	T154	GW0	to be or not to be	Charlie Sheen is the oldest in the Estevez family.	1
+125	T154	GW0	to be or not to be	Charlie Sheen has divorced four times.	2
+126	T203	GW4	to be or not to be	The capital of Japan is located in Tokyo.	0
+127	T203	GW4	to be or not to be	The government of Japan has a constitution.	1
+128	T203	GW4	to be or not to be	The majority of people that live in Japan are ethnically Korean.	2
+129	T203	GW0	to be or not to be	Japan's House of Councillors is higher than the house of representatives.	0
+130	T203	GW0	to be or not to be	The Ainu people are the most popular type of Japan's native ethnic group.	1
+131	T203	GW0	to be or not to be	Judaism is the most popular religion in Japan.	2
+132	T203	GW1	to be or not to be	Over half of the people in Japan practice Folk Shinto as a religion or have no religion.	0
+133	T203	GW1	to be or not to be	If the Prime Minister of Japan dies, the Deputy Prime Minister immediately takes his place.	1
+134	T203	GW1	to be or not to be	Japan is made up of between 90 and 95% Japanese people.	2
+135	T207	GW1	to be or not to be	Burn Energy was introduced relatively close to the Millenium.	0
+136	T207	GW1	to be or not to be	The Burn Lemon Ice variety is more popular than the Burn Blue variety.	1
+137	T207	GW1	to be or not to be	Burn Energy comes in over ten varieties or flavors.	2
+138	T207	GW4	to be or not to be	Burn Energy was made by the same company that makes Monster.	0
+139	T207	GW4	to be or not to be	Burn Energy was successful at increasing energy for people that drank it.	1
+140	T207	GW4	to be or not to be	Burn energy came in a chocolate flavor.	2
+141	T207	GW0	to be or not to be	Burn Energy comes in many different flavors.	0
+142	T207	GW0	to be or not to be	Burn Energy is Monster's top selling energy drink.	1
+143	T207	GW0	to be or not to be	All Burn Energy drinks are sugar free.	2
+144	T261	GW28	to be or not to be	The Jin dynasty capital moved around to different cities.	0
+145	T261	GW28	to be or not to be	Jin dynasty was a monarchy with two Emperors during this period.	1
+146	T261	GW28	to be or not to be	The reunification of China preceded the establishment of Jin.	2
+147	T261	GW4	to be or not to be	Jin was a region in China for over 300 years.	0
+148	T261	GW4	to be or not to be	Jin typically had a lot of religion behind their approach to governing.	1
+149	T261	GW4	to be or not to be	The Jin never moved their capital.	2
+150	T261	GW27	to be or not to be	There were monarchs in three different capitals in Jin's history..	0
+151	T261	GW27	to be or not to be	Emperor Wu was a Buddhist.	1
+152	T261	GW27	to be or not to be	Luoyang was the capital at the time the Eastern Jin began.	2
+153	T272	GW2	to be or not to be	Gerry Mulligan is associated with Chesney Henry Baker.	0
+154	T272	GW2	to be or not to be	Chesney Henry Baker learned to play piano before the age of 10.	1
+155	T272	GW2	to be or not to be	Chesney Henry Baker was born in the Netherlands.	2
+156	T272	GW4	to be or not to be	The musician Chet Baker primarily played Jazz music.	0
+157	T272	GW4	to be or not to be	The musician Chet Baker moved from the United States to the Netherlands.	1
+158	T272	GW4	to be or not to be	The musician Chet Baker started playing music professionally at 10 years old.	2
+159	T272	GW28	to be or not to be	Chet Baker was an American musician.	0
+160	T272	GW28	to be or not to be	Chet Baker was also proficient with the guitar.	1
+161	T272	GW28	to be or not to be	Chet Baker was active since his teenage years.	2
+162	T274	GW28	to be or not to be	Fawad Khan is a Pakistani entertainer.	0
+163	T274	GW28	to be or not to be	Fawad Khan studied to become a computer programmer before becoming an entertainer.	1
+164	T274	GW28	to be or not to be	Fawad Khan married his spouse before he became active in the entertainment industry.	2
+165	T274	GW21	to be or not to be	Fawad Khan is a very famous model and actor not only just a musician.	0
+166	T274	GW21	to be or not to be	Fawad Khan has won many awards including a gramy in the USA.	1
+167	T274	GW21	to be or not to be	Fawad Khan did a record with Jay Z that was very popular.	2
+168	T274	GW0	to be or not to be	Fawad Khan was signed to Lips Music when he married Sadaf Khan.	0
+169	T274	GW0	to be or not to be	Fawad Khan's children are both in their teens.	1
+170	T274	GW0	to be or not to be	Fawad Khan has been performing music for over twenty years.	2
+171	T277	GW28	to be or not to be	Charo is a Spanish entertainer.	0
+172	T277	GW28	to be or not to be	Charo appeared on many TV shows.	1
+173	T277	GW28	to be or not to be	Charo's career has spanned eight decades.	2
+174	T277	GW27	to be or not to be	Mar’a del Rosario Mercedes Pilar Mart’nez Molina Baeza began an active career in 1963.	0
+175	T277	GW27	to be or not to be	.Mar’a del Rosario Mercedes Pilar Mart’nez Molina Baeza first gained fame in acting.	1
+176	T277	GW27	to be or not to be	Mar’a del Rosario Mercedes Pilar Mart’nez Molina Baeza was married before becoming 'active' in her careers.	2
+177	T277	GW4	to be or not to be	Charo has been married twice in her life.	0
+178	T277	GW4	to be or not to be	Charo began performing when she was a teenager.	1
+179	T277	GW4	to be or not to be	Charo has never had any children.	2
+180	T286	GW4	to be or not to be	Fan Bingbing is the head of their own Label.	0
+181	T286	GW4	to be or not to be	Fan Bingbing has been with Li Chen for years.	1
+182	T286	GW4	to be or not to be	Fan Bingbing began recording music when they were twelve years old.	2
+183	T286	GW27	to be or not to be	Fˆn B_ngb_ng was born in 1981.	0
+184	T286	GW27	to be or not to be	Fˆn B_ngb_ng is an actress and member of the Communist Party.	1
+185	T286	GW27	to be or not to be	Fˆn B_ngb_ng is married.	2
+186	T286	GW28	to be or not to be	Fan Bingbing is a Chinese entertainer.	0
+187	T286	GW28	to be or not to be	Fan Bingbing is the most successful actress in China.	1
+188	T286	GW28	to be or not to be	Fan Bingbing's career spans four decades.	2
+189	T294	GW28	to be or not to be	Fast & Furious is an American film.	0
+190	T294	GW28	to be or not to be	Fast & Furious is about street racing with modified cars.	1
+191	T294	GW28	to be or not to be	Fast & Furious was not a profitable movie.	2
+192	T294	GW27	to be or not to be	Universal Pictures released Fast & Furious in 2009.	0
+193	T294	GW27	to be or not to be	Fast & Furious' director was inspired to do the the movie after having read the book by Gary Scott Thompson.	1
+194	T294	GW27	to be or not to be	Fast & Furious was written and directed by the same person.	2
+195	T294	GW4	to be or not to be	The movie Fast & Furious made over $250 million at the box office.	0
+196	T294	GW4	to be or not to be	Vin Diesel had a lot of say in the final edit of Fast & Furious.	1
+197	T294	GW4	to be or not to be	Fast & Furious was released to the general public in the United States before it was shown at Universal CityWalk.	2
+198	T306	GW0	to be or not to be	Europe is originally from a northern European country.	0
+199	T306	GW0	to be or not to be	Europe has been touring the world for the past fifteen years.	1
+200	T306	GW0	to be or not to be	Europe has been active nonstop for the past forty years.	2
+201	T306	GW30	to be or not to be	Europe has had a long career in the Hard Rock business.	0
+202	T306	GW30	to be or not to be	Europe has several number one hits in the billboards charts.	1
+203	T306	GW30	to be or not to be	Europe is a Pop French band that recorded with Universal.	2
+204	T306	GW28	to be or not to be	Europe has been active off and on since the 70s.	0
+205	T306	GW28	to be or not to be	The labels for Europe are major Swedish companies.	1
+206	T306	GW28	to be or not to be	Europe started in 1979 and been making music uninterrupted since.	2
+207	T308	GW21	to be or not to be	Kalman Tihanyi was a really great physicist and created many theories that are still valid.	0
+208	T308	GW21	to be or not to be	He was nominated for a noble prize in physics.	1
+209	T308	GW21	to be or not to be	His family was killed by the communist government.	2
+210	T308	GW28	to be or not to be	K?lm?n Tihanyi was an educated European.	0
+211	T308	GW28	to be or not to be	K?lm?n Tihanyi studied science at university.	1
+212	T308	GW28	to be or not to be	K?lm?n Tihanyi was an ignorant person.	2
+213	T308	GW0	to be or not to be	K?lm?n Tihanyi lived in several European countries.	0
+214	T308	GW0	to be or not to be	K?lm?n Tihanyi is responsible for inventing the infrared camera.	1
+215	T308	GW0	to be or not to be	K?lm?n Tihanyi received his schooling in Italy.	2
+216	T310	GW4	to be or not to be	Christchurch is located on the southern island of New Zealand.	0
+217	T310	GW4	to be or not to be	The town of Christchurch was discovered by people from the UK.	1
+218	T310	GW4	to be or not to be	The town of Christchurch has only one main ward.	2
+219	T310	GW21	to be or not to be	Christ Church was founded by groups of English Settlers and Mission spreaders.	0
+220	T310	GW21	to be or not to be	Christ Church has a large group of native pre settlement people.	1
+221	T310	GW21	to be or not to be	Christ Church was the scene of a large World War II Naval battle.	2
+222	T310	GW28	to be or not to be	Christchurch is made up of wards and governed by a council.	0
+223	T310	GW28	to be or not to be	Christchurch is a city in New Zealand	1
+224	T310	GW28	to be or not to be	Christchurch is over 200 years old.	2
+225	T319	GW2	to be or not to be	The Czech Republic has more catholics than Moravians.	0
+226	T319	GW2	to be or not to be	The Czech Republic's president speaks Polish.	1
+227	T319	GW2	to be or not to be	The government in Prague's official language is German.	2
+228	T319	GW28	to be or not to be	The Czech Republic is a multi-ethnic and multi-lingual nation.	0
+229	T319	GW28	to be or not to be	The Czech Republic is primarily a Christian nation.	1
+230	T319	GW28	to be or not to be	The Czech Republic is comprised of mainly Slovaks and muslims.	2
+231	T319	GW14	to be or not to be	There are more Moravians than Slovaks in the Czech Republic.	0
+232	T319	GW14	to be or not to be	Before becoming Prime Minister, Andrej Babi_ was previously a member of the Lower house of the Czech Parliament.	1
+233	T319	GW14	to be or not to be	The Czech Republic has only one official language.	2
+234	T323	GW27	to be or not to be	The Czech Republic came out of Czechoslovakia.	0
+235	T323	GW27	to be or not to be	Bohemians and Czechs are the same people.	1
+236	T323	GW27	to be or not to be	The Czech Republic was part of the European Union before independence.	2
+237	T323	GW0	to be or not to be	Czech Republic separated from the Austria-Hungary Empire over 100 years ago.	0
+238	T323	GW0	to be or not to be	.Czech Republic was one of the first countries to join the European Union.	1
+239	T323	GW0	to be or not to be	Kingdom of Bohemia was esatablished before the Duchy of Bohemia.	2
+240	T323	GW28	to be or not to be	Czech Republic gained independence in late the 20th century.	0
+241	T323	GW28	to be or not to be	Czech Republic joined the European Union for protection from Russia.	1
+242	T323	GW28	to be or not to be	Czech Republic lost independence in 2004.	2
+243	T331	GW35	to be or not to be	Bryan Adams is a Canadian Pop Singer.	0
+244	T331	GW35	to be or not to be	Bryan Adams owns the record label A&M.	1
+245	T331	GW35	to be or not to be	Bryan Adams was born in Hamilton in Ontario.	2
+246	T331	GW28	to be or not to be	Bryan Adams is a Canadian musician.	0
+247	T331	GW28	to be or not to be	"Bryan Adams wrote and performed ""Everything I Do."""	1
+248	T331	GW28	to be or not to be	Bryan Adams has been active since his twenties.	2
+249	T331	GW4	to be or not to be	Bryan Adams was originally born in Canada in the winter of 1959.	0
+250	T331	GW4	to be or not to be	The singer Bryan Adams learned piano before he could sing.	1
+251	T331	GW4	to be or not to be	The musician Bryan Adams spent the majority of his life in the United States.	2
+252	T332	GW4	to be or not to be	Jay Park has been a musician since they were 21 years old.	0
+253	T332	GW4	to be or not to be	Jay Park has preformed on stage with Higher Brothers.	1
+254	T332	GW4	to be or not to be	Jay Park began their rap career in Oakland.	2
+255	T332	GW27	to be or not to be	Park Jae-beom was born in Edmonds, Washington.	0
+256	T332	GW27	to be or not to be	Park Jae-beom grew up in Seattle.	1
+257	T332	GW27	to be or not to be	Park Jae-beom practices more genres than the number of labels he has been on.	2
+258	T332	GW28	to be or not to be	Jay Park is an American entertainer.	0
+259	T332	GW28	to be or not to be	Jay Park is Korean-American rapper.	1
+260	T332	GW28	to be or not to be	Jay Park began his career in his teenage years.	2
+261	T340	GW0	to be or not to be	Jennifer Love Hewitt resides in a state different than the one she was born.	0
+262	T340	GW0	to be or not to be	Jennifer Love Hewitt has two children with Brian Hallisay.	1
+263	T340	GW0	to be or not to be	Jennifer Love Hewitt has been singing professionally since she was a toddler.	2
+264	T340	GW2	to be or not to be	Jennifer Love Hewitt is an actress who had a singing career in Pop music.	0
+265	T340	GW2	to be or not to be	Jennifer Love Hewitt was in Party of Five in 1998.	1
+266	T340	GW2	to be or not to be	Jennifer Love Hewitt began acting in Party of Five in 1989.	2
+267	T340	GW28	to be or not to be	Jennifer Love Hewitt is an American entertainer.	0
+268	T340	GW28	to be or not to be	Jennifer Love Hewitt's two children are girls.	1
+269	T340	GW28	to be or not to be	Jennifer Love Hewitt is currently a singer.	2
+270	T348	GW0	to be or not to be	Christina Aguilera has been singing for over twenty years.	0
+271	T348	GW0	to be or not to be	Christina Aguilera has two children with Matthew Rutler.	1
+272	T348	GW0	to be or not to be	Jordan Bratman divorced Christina Aguilera after two years together.	2
+273	T348	GW14	to be or not to be	Christina Aguilera has released pop music under the RCA label.	0
+274	T348	GW14	to be or not to be	Christina Aguilera met Matthew Rutler at a Hollywood party.	1
+275	T348	GW14	to be or not to be	Christina Aguilera has always lived in the city where she was born.	2
+276	T348	GW45	to be or not to be	RCA Record lable is an american record lable owned by Sony music	0
+277	T348	GW45	to be or not to be	she may be a singer and song writer only	1
+278	T348	GW45	to be or not to be	she can't contribute in pop and soul genre at a time	2
+279	T361	GW4	to be or not to be	Joaquin Phoenix got married when they were 42 years old.	0
+280	T361	GW4	to be or not to be	Joaquin Phoenix was known as Leaf Phoenix in some early films.	1
+281	T361	GW4	to be or not to be	Joaquin Phoenix was born in the United States.	2
+282	T361	GW27	to be or not to be	Joaquin Rafael Bottom has been known as Leaf Phoenix.	0
+283	T361	GW27	to be or not to be	All of Joaquin Rafael Bottom's siblings are involved in acting like him.	1
+284	T361	GW27	to be or not to be	Joaquin Rafael Bottom resides in the city he was born in.	2
+285	T361	GW28	to be or not to be	Joaquin Phoenix is an American entertainer.	0
+286	T361	GW28	to be or not to be	Joaquin Phoenix has a sibling that died.	1
+287	T361	GW28	to be or not to be	Joaquin Phoenix has been acting since he was a teen.	2
+288	T370	GW28	to be or not to be	Everclear is an American rock band.	0
+289	T370	GW28	to be or not to be	Everclear is made up of four members.	1
+290	T370	GW28	to be or not to be	Everclear disbanded and reunited multiple times.	2
+291	T370	GW14	to be or not to be	Everclear has been active for more than a quarter of a century.	0
+292	T370	GW14	to be or not to be	The Cleopatra record label is located in Portland, Oregon.	1
+293	T370	GW14	to be or not to be	Everclear's music can only be categorized into a single genre.	2
+294	T370	GW0	to be or not to be	Everclear are from the Pacific Northwest region of the United States.	0
+295	T370	GW0	to be or not to be	Everclear were signed to Capitol records throughout the 1990's.	1
+296	T370	GW0	to be or not to be	Everclear have been performing grunge music for over thirty years.	2
+297	T372	GW27	to be or not to be	Florence Annie Bridgwood committed suicide in 1938.	0
+298	T372	GW27	to be or not to be	Florence Annie Bridgwood is buried near her first husband in Hollywood Forever Cemetery.	1
+299	T372	GW27	to be or not to be	Florence Annie Bridgwood's last marriage was ended by her suicide.	2
+300	T372	GW0	to be or not to be	Florence Lawrence divorced the majority of her husbands.	0
+301	T372	GW0	to be or not to be	Florence Lawrence starred in dozens of films.	1
+302	T372	GW0	to be or not to be	Florence Lawrence married Charles Woodring after divorcing Henry Bolton.	2
+303	T372	GW28	to be or not to be	Florence Lawrence was responsible for her own death.	0
+304	T372	GW28	to be or not to be	Florence Lawrence died of a broken heart.	1
+305	T372	GW28	to be or not to be	Florence Lawrence died before her third husband.	2
+306	T382	GW28	to be or not to be	Jeff Hardy is an American entertainer.	0
+307	T382	GW28	to be or not to be	Jeff Hardy trained without the use of steroids.	1
+308	T382	GW28	to be or not to be	Jeff Hardy married before his debut.	2
+309	T382	GW4	to be or not to be	Jeff Hardy began wrestling professionally when they were only 16 years old.	0
+310	T382	GW4	to be or not to be	Jeff Hardy had both their children with Beth Britt.	1
+311	T382	GW4	to be or not to be	Jeff Hardy began their music career before their wrestling career.	2
+312	T382	GW2	to be or not to be	Jeff Hardy is a wrestler and a musician.	0
+313	T382	GW2	to be or not to be	Jeff Hardy started 3 different metal groups and was lead singer for all three.	1
+314	T382	GW2	to be or not to be	Jeff Hardy first wrestled professionally in 1990.	2
+315	T400	GW4	to be or not to be	Jordan Peele began acting professionally at 23 years old.	0
+316	T400	GW4	to be or not to be	Jordan Peele had his child with his wife Chelsea Peretti.	1
+317	T400	GW4	to be or not to be	Jordan Peele did not ever go to college.	2
+318	T400	GW27	to be or not to be	Jordan Haworth Peele was educated at Sarah Lawrence College.	0
+319	T400	GW27	to be or not to be	Jordan Haworth Peele started acting at Sarah Lawrence College.	1
+320	T400	GW27	to be or not to be	Jordan Haworth Peele was married before becoming 'active' in show business.	2
+321	T400	GW28	to be or not to be	Jordan Peele is an American entertainer.	0
+322	T400	GW28	to be or not to be	Jordan Peele is famous for Get Out and Keanu.	1
+323	T400	GW28	to be or not to be	Jordan Peele has been active since his teens.	2
+324	T403	GW28	to be or not to be	John Harrison is an award-winning English Horologist.	0
+325	T403	GW28	to be or not to be	John Harrison designed a waterproof watch.	1
+326	T403	GW28	to be or not to be	John Harrison was awarded a medal after he died.	2
+327	T403	GW27	to be or not to be	John Harrison was born and died in the same country.	0
+328	T403	GW27	to be or not to be	John Harrison received the Copley Medal for his marine chronometer.	1
+329	T403	GW27	to be or not to be	John Harrison was born and died in the same city.	2
+330	T403	GW0	to be or not to be	John Harrison died before the Declaration of Independence was signed.	0
+331	T403	GW0	to be or not to be	John Harrison is responsible for making chronometers on watches popular.	1
+332	T403	GW0	to be or not to be	John Harrison was born in England's capital.	2
+333	T405	GW4	to be or not to be	The majority of people in the Republic of Burundi are Hindus.	0
+334	T405	GW4	to be or not to be	The next president of the Republic of Burundi will be Gaston Sindimwo.	1
+335	T405	GW4	to be or not to be	The Republic of Burundi has more South Asians than Europeans.	2
+336	T405	GW28	to be or not to be	Republic of Burundi is a multi-lingual, multi-ethnic country.	0
+337	T405	GW28	to be or not to be	The Hutus are comprised of 100% Hutus with no half or intermixed children included in the statistic.	1
+338	T405	GW28	to be or not to be	Republic of Burundi lies north of the Equator.	2
+339	T405	GW0	to be or not to be	The Republic of Burundi's capital is not the largest city in the country.	0
+340	T405	GW0	to be or not to be	Pierre Nkurunziza served as vice president before becoming president.	1
+341	T405	GW0	to be or not to be	There are more Tutsis than Hutus living in Burundi.	2
+342	T408	GW0	to be or not to be	Karen Gilan went to a performing arts school.	0
+343	T408	GW0	to be or not to be	Caitlin Blackwood and Karen Gilan have the same fraternal grandparents.	1
+344	T408	GW0	to be or not to be	Karen Gilan has been performing since she was a five years old.	2
+345	T408	GW32	to be or not to be	Karen Gillan was born in 1987.	0
+346	T408	GW32	to be or not to be	Karen Gillan now lives in the United Kingdom.	1
+347	T408	GW32	to be or not to be	Karen Gillan is the aunt of Caitlin Blackwood.	2
+348	T408	GW28	to be or not to be	Karen Gillan works in front of and behind the screen in the entertainment industry.	0
+349	T408	GW28	to be or not to be	Karen Gillan is multi-lingual in English and Italian.	1
+350	T408	GW28	to be or not to be	Karen Gillan has been an actress since childhood.	2
+351	T413	GW27	to be or not to be	Justus von Liebig was born in 1803 and died aged 69.	0
+352	T413	GW27	to be or not to be	Justus von Liebig came up with the Law of the Minimum at the University of Bonn.	1
+353	T413	GW27	to be or not to be	Justus von Liebig received the Albert Medal posthumously.	2
+354	T413	GW4	to be or not to be	Justus von Liebig studied and taught chemistry in their life.	0
+355	T413	GW4	to be or not to be	Justus von Liebig helped teach students that went on to make rockets.	1
+356	T413	GW4	to be or not to be	Justus von Liebig never won any awards for their works.	2
+357	T413	GW28	to be or not to be	Justus von Liebig was a European scientist.	0
+358	T413	GW28	to be or not to be	Justus von Liebig was a married man with children.	1
+359	T413	GW28	to be or not to be	Justus von Liebig was awarded the Albert Medal posthumously.	2
+360	T416	GW34	to be or not to be	Johnny Depp has been married twice.	0
+361	T416	GW34	to be or not to be	Johnny Depp still has a childhood home in Owensboro, Kentucky.	1
+362	T416	GW34	to be or not to be	Johnny Depp is an actor, producer, musician, and auto mechanic.	2
+363	T416	GW30	to be or not to be	Johnny Depp is an American actor born in Kentucky that lives in Los Angeles.	0
+364	T416	GW30	to be or not to be	Johnny Depp have won multiple awards for its participation in Hollywood films.	1
+365	T416	GW30	to be or not to be	Johnny Depp died in car accident in early 2015.	2
+366	T416	GW4	to be or not to be	The actor Johnny Depp began acting when they were 21 years old.	0
+367	T416	GW4	to be or not to be	The actor Johnny Depp had both of his children with Amber Heard.	1
+368	T416	GW4	to be or not to be	The actor Johnny Depp has had three wives.	2
+369	T422	GW28	to be or not to be	Jerry Lee Lewis is an American entertainer.	0
+370	T422	GW28	to be or not to be	Jerry Lee Lewis has spent his entire career in Louisiana.	1
+371	T422	GW28	to be or not to be	Jerry Lee Lewis died while playing the piano.	2
+372	T422	GW27	to be or not to be	Jerry Lee Lewis is a rock and roll singer from Louisiana.	0
+373	T422	GW27	to be or not to be	Jerry Lee Lewis was on Sun Records at the same time as his first associated act Johnny Cash.	1
+374	T422	GW27	to be or not to be	Jerry Lee Lewis has done a greater number of genres than associated acts.	2
+375	T422	GW0	to be or not to be	Jerry Lee Lewis has been performing music for over fifty years.	0
+376	T422	GW0	to be or not to be	Jerry Lee Lewis played piano alongside Johnny Cash.	1
+377	T422	GW0	to be or not to be	Jerry Lee Lewis is from the Pacific Northwest region of the United States.	2
+378	T433	GW4	to be or not to be	The movie Concussion was written and directed by the same person.	0
+379	T433	GW4	to be or not to be	The movie Concussion was based on a popular book.	1
+380	T433	GW4	to be or not to be	Concussion came out in the United States before being shown at AFI fest.	2
+381	T433	GW28	to be or not to be	Concussion is an American film.	0
+382	T433	GW28	to be or not to be	Concussion is about the NFL treatment of injuries to the brains of their players.	1
+383	T433	GW28	to be or not to be	Concussion made more at the box office than its budget.	2
+384	T433	GW27	to be or not to be	'Concussion' was written and directed by Peter Landesman.	0
+385	T433	GW27	to be or not to be	Columbia Pictures distributed 'Concussion' to the AFI Fest first to gain notoriety.	1
+386	T433	GW27	to be or not to be	'Concussion's' box office was greater than its highest budget estimate.	2
+387	T435	GW0	to be or not to be	Children of Bodom went by a different name their first four years of performing.	0
+388	T435	GW0	to be or not to be	Children of Bodom perform mostly in their home country of Finland.	1
+389	T435	GW0	to be or not to be	Children of Bodom are from southern Europe.	2
+390	T435	GW27	to be or not to be	The band Inearthed comes from Finland.	0
+391	T435	GW27	to be or not to be	Members of Inearthed were born in Finland.	1
+392	T435	GW27	to be or not to be	The band formerly known as Inearthed has been on four labels.	2
+393	T435	GW28	to be or not to be	Children of Bodom has been playing since the 90s.	0
+394	T435	GW28	to be or not to be	Children of Bodom were compensated generously while working.	1
+395	T435	GW28	to be or not to be	Children of Bodom has a short history of playing music.	2
+396	T440	GW4	to be or not to be	The Republic of Chile primarily has a white population.	0
+397	T440	GW4	to be or not to be	The Republic of Chile has elections for their president.	1
+398	T440	GW4	to be or not to be	The Republic of Chile speaks English as their native language.	2
+399	T440	GW28	to be or not to be	Republic of Chile legislature is composed of two chambers.	0
+400	T440	GW28	to be or not to be	The Republic of Chile is former colony of Spain.	1
+401	T440	GW28	to be or not to be	The Republic of Chile President is a woman.	2
+402	T440	GW14	to be or not to be	Spanish is the national language in Santiago.	0
+403	T440	GW14	to be or not to be	Maya Fernandez and Carlos Montes Cisternas have eaten lunch together.	1
+404	T440	GW14	to be or not to be	Sebasti‡n Pi–era is suboordinate to Maya Fern‡ndez.	2
+405	T447	GW27	to be or not to be	China has had two republic periods.	0
+406	T447	GW27	to be or not to be	China's People's Republic came because of the failings of the the government in place since 1912.	1
+407	T447	GW27	to be or not to be	China's constitution came before the People's Republic was proclaimed.	2
+408	T447	GW4	to be or not to be	The People's Republic of China had their current constitution written in the 1980s.	0
+409	T447	GW4	to be or not to be	The People's Republic of China has had similar political policies since 1949.	1
+410	T447	GW4	to be or not to be	The People's Republic of China has had the same ruling families for over 1000 years.	2
+411	T447	GW28	to be or not to be	People's Republic of China was declared ahead of the Proclamation.	0
+412	T447	GW28	to be or not to be	The current constitution has not changed since its inception.	1
+413	T447	GW28	to be or not to be	The Proclamation of the People's Republic preceded the People's Republic declaration.	2
+414	T458	GW28	to be or not to be	Contract bridge is a multi-player card game.	0
+415	T458	GW28	to be or not to be	Contract bridge is limited to only 4 players.	1
+416	T458	GW28	to be or not to be	Contract bridge is purely luck based.	2
+417	T458	GW4	to be or not to be	The game Contract bridge is often played in a group of people.	0
+418	T458	GW4	to be or not to be	The game Contract bridge has been professionally played.	1
+419	T458	GW4	to be or not to be	The game Contract bridge uses the joker card.	2
+420	T458	GW27	to be or not to be	Bridge is a trick-taking game.	0
+421	T458	GW27	to be or not to be	4 players divide the deck of 52 amongst themselves.	1
+422	T458	GW27	to be or not to be	Each of the 4 players use a different skill.	2
+423	T491	GW28	to be or not to be	Cory Monteith was a Canadian entertainer that died less than a decade ago.	0
+424	T491	GW28	to be or not to be	Cory Monteith was on a popular TV series before his death.	1
+425	T491	GW28	to be or not to be	Cory Monteith started as a teenage actor.	2
+426	T491	GW0	to be or not to be	Cory Monteith died in western Canada.	0
+427	T491	GW0	to be or not to be	Cory Monteith overdosed on heroin.	1
+428	T491	GW0	to be or not to be	Cory Monteith died nine months after his 31st birthday.	2
+429	T491	GW33	to be or not to be	Cory Monteith is born on May 11, 1982	0
+430	T491	GW33	to be or not to be	Cory Monteith is addicted to Drug	1
+431	T491	GW33	to be or not to be	Cory Monteith started his career at 2013	2
+432	T534	GW45	to be or not to be	RED BERRY(RED) AND COCONUT(SILVER) ARE THE VARIANTS OF VODKA	0
+433	T534	GW45	to be or not to be	CIROC VODKA MAY BE A BRAND NAME OR PRODUCT TITLE OF VODKA	1
+434	T534	GW45	to be or not to be	CIRCO HAD MORE THAN TWENTY FIVE VARIANTS	2
+435	T534	GW0	to be or not to be	C?OC has been on the market for over fifteen years.	0
+436	T534	GW0	to be or not to be	C?OC is mainly consumed in its country of origin.	1
+437	T534	GW0	to be or not to be	C?OC is sold in less than a dozen flavors.	2
+438	T534	GW28	to be or not to be	C?OC is a French vodka that comes in various flavors.	0
+439	T534	GW28	to be or not to be	C?OC is a reasonably priced alcohol for price-conscious drinkers.	1
+440	T534	GW28	to be or not to be	C?OC is a two-decade old brand.	2
+441	T535	GW0	to be or not to be	The first issue of Crisis on Infinite Earths was released in spring of 1985.	0
+442	T535	GW0	to be or not to be	DC Comics ended Crisis on Infinite Earths due to bad sales.	1
+443	T535	GW0	to be or not to be	Crisis on Infinite Earths was a novel released in the winter of 1985.	2
+444	T535	GW51	to be or not to be	Crisis on Infinite Earth was a DC comic that ran monthly for about a year in the 80's.	0
+445	T535	GW51	to be or not to be	Crisis on Infinite Earths was George R.R. Martin's first foray into fantasy writing.	1
+446	T535	GW51	to be or not to be	Crisis on Infinite Earth's main character was Batman, whom gets killed by Dumbledore in the last issue.	2
+447	T535	GW28	to be or not to be	Crisis on Infinite Earths is an old American comic book series from the 80s.	0
+448	T535	GW28	to be or not to be	Crisis on Infinite Earths contained many cameo appearances by other well-known DC superheroes.	1
+449	T535	GW28	to be or not to be	Crisis on Infinite Earths celebrates its 35th year anniversary since publication.	2
+450	T536	GW51	to be or not to be	Denver is a city in Colorado in the United States named for James Denver.	0
+451	T536	GW51	to be or not to be	Denver was originally the place where the first Bronco was spotted in America, hence why the local football team is named the Broncos.	1
+452	T536	GW51	to be or not to be	Denver was founded by a local group of miners in 1848.	2
+453	T536	GW28	to be or not to be	Denver, Colorado is an American city founded in the 19th century.	0
+454	T536	GW28	to be or not to be	Denver, Colorado is located near the Rockie mountain range.	1
+455	T536	GW28	to be or not to be	Denver, Colorado was founded and incorporated within a decade of each other	2
+456	T536	GW0	to be or not to be	Denver City and County were consolidated a few years after the turn of the 20th century.	0
+457	T536	GW0	to be or not to be	Denver was founded by James W. Denver.	1
+458	T536	GW0	to be or not to be	Denver City is located in the deep south region of the United States.	2
+459	T543	GW27	to be or not to be	India's biggest single match drew 465,000 over five days.	0
+460	T543	GW27	to be or not to be	26,528 was India's biggest per match crowd ever.	1
+461	T543	GW27	to be or not to be	India v. Pakistan at Eden Gardens in 1999 drew more than India's total 2017 season.	2
+462	T543	GW51	to be or not to be	India faced Pakistan in a five day match in 1999.	0
+463	T543	GW51	to be or not to be	465,000 unique people watched the cricket match between India v. Pakistan.	1
+464	T543	GW51	to be or not to be	Almost 1 million people watched cricket in India for the 2017 season.	2
+465	T543	GW28	to be or not to be	India competes in cricket and has the Indian Premier League.	0
+466	T543	GW28	to be or not to be	India and Pakistan have a rivalry in sports matches.	1
+467	T543	GW28	to be or not to be	Cricket is an unpopular sport in India.	2
+468	T544	GW51	to be or not to be	Despicable Me 3 is an animated movie distributed by Universal Pictures in 2017.	0
+469	T544	GW51	to be or not to be	Despicable Me 3 is actually the 4th movie of the Despicable Me franchise, despite the 3 in the title.	1
+470	T544	GW51	to be or not to be	Despicable Me 3 first made its box offie run starring in the summer of 2016.	2
+471	T544	GW28	to be or not to be	Despicable Me 3 is a Hollywood movie.	0
+472	T544	GW28	to be or not to be	Despicable Me 3 is an animated movie.	1
+473	T544	GW28	to be or not to be	Despicable Me 3 was a box office disappointment.	2
+474	T544	GW0	to be or not to be	Despicable Me 3 was shown at Annecy two weeks before it's nationwide release.	0
+475	T544	GW0	to be or not to be	Despicable Me 3 has the same cast as the first two movies of the same title.	1
+476	T544	GW0	to be or not to be	Despicable Me 3 was not a box office success compared to it's original budget.	2
+477	T554	GW28	to be or not to be	Danehill was an American racehorse.	0
+478	T554	GW28	to be or not to be	Danehill was put out to stud after his racing days were over.	1
+479	T554	GW28	to be or not to be	Danehill was born in the wild with unknown parentage.	2
+480	T554	GW27	to be or not to be	Danehill's sire was Danzig and its grandsire was Northern Dancer.	0
+481	T554	GW27	to be or not to be	Danehill was bred by Juddmonte Farms for Prince Khalid Abdullah.	1
+482	T554	GW27	to be or not to be	Danehill's owner and trainer were the same man.	2
+483	T554	GW51	to be or not to be	Danehill is a famous racehorse from the United States.	0
+484	T554	GW51	to be or not to be	Juddmonte Farms is one of the most successful breeders in the United States.	1
+485	T554	GW51	to be or not to be	Danehill never lost a horserace in its entire career.	2
+486	T557	GW51	to be or not to be	Club is an Irish soft drink.	0
+487	T557	GW51	to be or not to be	Club comes in many different flavors, like Orange and Grape.	1
+488	T557	GW51	to be or not to be	Club is the most popular soft drink in the world.	2
+489	T557	GW33	to be or not to be	Club is a Carbonated soft drink Manufactured by Britvic Ireland	0
+490	T557	GW33	to be or not to be	Club is Manufactured only in Ireland	1
+491	T557	GW33	to be or not to be	Club is an orange juice	2
+492	T557	GW28	to be or not to be	Club is an Irish beverage.	0
+493	T557	GW28	to be or not to be	Club is a sweet sugary beverage.	1
+494	T557	GW28	to be or not to be	Club has never changed their recipe for the drink.	2
+495	T578	GW28	to be or not to be	Close Encounters of the Third Kind was a Hollywood film, written and directed by a famous director.	0
+496	T578	GW28	to be or not to be	Close Encounters of the Third Kind was a science-fiction movie.	1
+497	T578	GW28	to be or not to be	Close Encounters of the Third Kind was a failure at the box office.	2
+498	T578	GW51	to be or not to be	Close Encounters of the Third Kind is science fiction film directed by Stephen Spielberg.	0
+499	T578	GW51	to be or not to be	Close Encounters of the Third Kind has inspired many future films and TV shows, namely the show Stranger Things.	1
+500	T578	GW51	to be or not to be	Close Encounters of the Third Kind was inspired by another Spielberg Film, E.T., which was released before Close Encounters of the Third Kind in 1982.	2
+501	T578	GW0	to be or not to be	Close Encounters of the Third Kind grossed over a quarter billion dollars at the box office over it's budget.	0
+502	T578	GW0	to be or not to be	A husband and wife duo produced Close Encounters of the Third Kind.	1
+503	T578	GW0	to be or not to be	Close Encounters of the Third Kind was produced and distributed by the same company.	2
+504	T581	GW54	to be or not to be	Polmos Krak—w is the manufacturer Cracovia	0
+505	T581	GW54	to be or not to be	Cracovia was introduced in the 1995	1
+506	T581	GW54	to be or not to be	Cracovia is available only in poland	2
+507	T581	GW28	to be or not to be	Cracovia is polish alcohol.	0
+508	T581	GW28	to be or not to be	Cracovia is the best-selling vodka in Poland.	1
+509	T581	GW28	to be or not to be	Cracovia is a weak alcoholic drink	2
+510	T581	GW51	to be or not to be	Cracovia is a type of Polish vodka.	0
+511	T581	GW51	to be or not to be	Cracovia is named after a region in the country of Poland.	1
+512	T581	GW51	to be or not to be	Cracovia was originally a beer and transformed into 40 Proof Vodka.	2
+513	T596	GW51	to be or not to be	Ciara is an American R&B singer and dancer.	0
+514	T596	GW51	to be or not to be	"Ciara's first hit single was ""Goodies"" featuring Petey Pablo."	1
+515	T596	GW51	to be or not to be	Ciara has been a professional R&B since 1971.	2
+516	T596	GW28	to be or not to be	Ciara is an American entertainer married to an athlete.	0
+517	T596	GW28	to be or not to be	Ciara is an only child.	1
+518	T596	GW28	to be or not to be	Ciara has been active since her twenties.	2
+519	T596	GW33	to be or not to be	Ciara Princess Harris born on  October 25, 1985 at  Austin, Texas, U.S.	0
+520	T596	GW33	to be or not to be	run his music career with Nayvadious Wilburn	1
+521	T596	GW33	to be or not to be	Ciara Princess Harris married  Nayvadious Wilburn	2
+522	T662	GW28	to be or not to be	Detroit, Michigan is well above sea-level.	0
+523	T662	GW28	to be or not to be	Detroit, Michigan metro area is larger than most other American metropolitan areas.	1
+524	T662	GW28	to be or not to be	The city of Detroit, Michigan comprises less than a tenth of the urban area.	2
+525	T662	GW0	to be or not to be	The city of Detroit is larger than the pure land space it occupies.	0
+526	T662	GW0	to be or not to be	Detroit's tallest part is located in the downtown area.	1
+527	T662	GW0	to be or not to be	Detroit's urban area is bigger than the metro area.	2
+528	T662	GW51	to be or not to be	Detriot is a very large city located in Michigan.	0
+529	T662	GW51	to be or not to be	Detriot is the biggest city by landmass in the United States.	1
+530	T662	GW51	to be or not to be	Detriot is located below sealevel.	2
+531	T667	GW51	to be or not to be	Crimson Peak made $19.7 million in profit after it's box office run completed.	0
+532	T667	GW51	to be or not to be	Guilllermo Del Toro and Universal Pictures have long been partners.	1
+533	T667	GW51	to be or not to be	Crimson Peak was released to Blu-Ray in 2014.	2
+534	T667	GW0	to be or not to be	Crimson Peak is just slightly under two hours long.	0
+535	T667	GW0	to be or not to be	Crimson Peak is the first time Guillermo del Toro did not write his movie's script alone.	1
+536	T667	GW0	to be or not to be	Crimson Peak premiered in the winter of 2015.	2
+537	T667	GW28	to be or not to be	Crimson Peak is 21st century American independent film.	0
+538	T667	GW28	to be or not to be	Crimson Peak won much praise from critics and movie reviewers.	1
+539	T667	GW28	to be or not to be	Crimson Peak made a significant profit at the box office.	2
+540	T680	GW51	to be or not to be	Camp Kill Yourself is grunge rock band that's been active for over 30 years in the music industry.	0
+541	T680	GW51	to be or not to be	Camp Kill Yourself is sometimes known as CKY so as to not offend some critics and listeners of their music.	1
+542	T680	GW51	to be or not to be	Camp Kill Yourself has been signed to Universal and Paramount.	2
+543	T680	GW28	to be or not to be	CKY is an American rock band that still performs to this day.	0
+544	T680	GW28	to be or not to be	CKY has won many awards for its music.	1
+545	T680	GW28	to be or not to be	CKY has worked with only a few labels throughout its career.	2
+546	T680	GW27	to be or not to be	Camp Kill Yourself is from West Chester, Pennsylvania.	0
+547	T680	GW27	to be or not to be	Camp Kill Yourself has been on the Entertainment One label since 1998.	1
+548	T680	GW27	to be or not to be	Camp Kill Yourself has been on more labels than they have associated acts.	2
+549	T688	GW0	to be or not to be	Dennis Gabor's wife outlived him by two years.	0
+550	T688	GW0	to be or not to be	Dennis Gabor received the nobel prize for his work in holography.	1
+551	T688	GW0	to be or not to be	Dennis Gabor received his education outside of his home country.	2
+552	T688	GW28	to be or not to be	Dennis Gabor was a 20th century Nobel Price winning Physicist..	0
+553	T688	GW28	to be or not to be	Dennis Gabor taught at Imperial College in London.	1
+554	T688	GW28	to be or not to be	Dennis Gabor won his awards in successive years starting from 1967.	2
+555	T688	GW51	to be or not to be	Dennis Gabor is a famous Hungarian/British scientist.	0
+556	T688	GW51	to be or not to be	Dennis Gabor became most famous while studying at the Imperial College of London when he received the Nobel Prize in Physics.	1
+557	T688	GW51	to be or not to be	Dennis Gabor received the Nobel Peace Prize while working for Oxford in 1982.	2
+558	T702	GW51	to be or not to be	The City of London is a major city in the United Kingdom that has existed for almost 2000 years.	0
+559	T702	GW51	to be or not to be	The city went through the Wessex reformation after the Roman empire fell.	1
+560	T702	GW51	to be or not to be	The City of London has 27 different wards after the Wessex resettlement.	2
+561	T702	GW0	to be or not to be	There are over two dozen wards in the city of London.	0
+562	T702	GW0	to be or not to be	London is the most populated city in the United Kingdom.	1
+563	T702	GW0	to be or not to be	The Romans settled London several years after the Wessex's.	2
+564	T702	GW28	to be or not to be	City of London is a unique area of England.	0
+565	T702	GW28	to be or not to be	City of London has its own police force separate from other jurisdictions.	1
+566	T702	GW28	to be or not to be	City of London is Roman land.	2
+567	T709	GW28	to be or not to be	Crack-Up is a music album recorded and released over a two-year period.	0
+568	T709	GW28	to be or not to be	Crack-Up is studio album by the band Fleet Foxes.	1
+569	T709	GW28	to be or not to be	Crack-Up was primarily recorded in Washington state.	2
+570	T709	GW51	to be or not to be	Crack-Up is an indie rock album released in 2017.	0
+571	T709	GW51	to be or not to be	Crack-Up was originally inspired by Cracked magazine.	1
+572	T709	GW51	to be or not to be	Crack-Up was produced by Barry Gordy and recorded in 2003.	2
+573	T709	GW0	to be or not to be	Crack-Up took roughly half a year to finish recording.	0
+574	T709	GW0	to be or not to be	Robin Pecknold produces music only at Electric Lady studios.	1
+575	T709	GW0	to be or not to be	Crack-Up has recorded at several studios only on the east coast.	2
+576	T719	GW51	to be or not to be	Cristiano Ronaldo is a famous forward in his 30's.	0
+577	T719	GW51	to be or not to be	Cristiano Ronaldo is a famous footballer for Juventus.	1
+578	T719	GW51	to be or not to be	Ronaldo stands over 6 and a half feet tall.	2
+579	T719	GW4	to be or not to be	Cristiano Ronaldo plays an offensive position rather than defensive.	0
+580	T719	GW4	to be or not to be	Cristiano Ronaldo has always lived in Portugal.	1
+581	T719	GW4	to be or not to be	Cristiano Ronaldo is shorter than 6 feet tall.	2
+582	T719	GW28	to be or not to be	Cristiano Ronaldo is a European athlete..	0
+583	T719	GW28	to be or not to be	Cristiano Ronaldo plays in the Spanish La Liga.	1
+584	T719	GW28	to be or not to be	Cristiano Ronaldo is a British Millenial.	2
+585	T720	GW14	to be or not to be	David Bowie's self-titled album was recorded during two different years.	0
+586	T720	GW14	to be or not to be	Mike Vernon is a citizen of the United Kingdom.	1
+587	T720	GW14	to be or not to be	David Bowie's self-titled album was released more than a half a year after it was finished recording.	2
+588	T720	GW51	to be or not to be	David Bowie is an album that was recorded in London.	0
+589	T720	GW51	to be or not to be	David Bowie was one of several self-titled albums by David Bowie.	1
+590	T720	GW51	to be or not to be	David Bowie was recorded in just a week in January of 1967.	2
+591	T720	GW4	to be or not to be	The album David Bowie was recorded in the UK.	0
+592	T720	GW4	to be or not to be	The album David Bowie was written all by David Bowie.	1
+593	T720	GW4	to be or not to be	The album David Bowie was over an hour in length.	2
+594	T727	GW14	to be or not to be	Dick Van Dyke's middle initial is found near the end of the English alphabet.	0
+595	T727	GW14	to be or not to be	Dick Van Dyke was deployed overseas during World War II.	1
+596	T727	GW14	to be or not to be	Dick Van Dyke is not yet a grandfather.	2
+597	T727	GW6	to be or not to be	Arlene Silver's husband was born in the twenties.	0
+598	T727	GW6	to be or not to be	Dick Van Dyke was a father during the second World War.	1
+599	T727	GW6	to be or not to be	Shane Van Dyke has no great-uncles.	2
+600	T727	GW51	to be or not to be	Dick Van Dyke is an actor and comedian from Malibu.	0
+601	T727	GW51	to be or not to be	Dick Van Dyke had his own show called The Dick Van Dyke Show.	1
+602	T727	GW51	to be or not to be	Van Dyke served in the military for WWII for over 4 years.	2
+603	T729	GW4	to be or not to be	David Byrne moved to the United States.	0
+604	T729	GW4	to be or not to be	David Byrne has performed live with the Talking Heads.	1
+605	T729	GW4	to be or not to be	David Byrne lived in the United Kingdom when they first became a musician.	2
+606	T729	GW28	to be or not to be	David Byrne is a Scottish-American musician.	0
+607	T729	GW28	to be or not to be	David Byrne was singer, songwriter and guitarist for the Talking Heads.	1
+608	T729	GW28	to be or not to be	David Byrne started his music career in his mid-twenties.	2
+609	T729	GW51	to be or not to be	David Byrne is a Scottish musician from Dunbartonshire.	0
+610	T729	GW51	to be or not to be	Byrne originally got his start as the lead singer for the Talking Heads.	1
+611	T729	GW51	to be or not to be	Byrne retired from music in 1989 to work on his farm.	2
+612	T733	GW51	to be or not to be	Coca-Cola with Lime is a soda produced by Coca-Cola that was both produced in the UK/US.	0
+613	T733	GW51	to be or not to be	Coca-Cola Lime was accidentally created when a manager mixed Lime, Tequila, and Coca-Cola together.	1
+614	T733	GW51	to be or not to be	Coca-Cola with Lime was introduced in Northern Ireland before being made in the U.K.	2
+615	T733	GW28	to be or not to be	Coca-Cola with Lime/Diet Coke with Citrus Zest is a British-American beverage.	0
+616	T733	GW28	to be or not to be	Coca-Cola with Lime/Diet Coke with Citrus Zest was a best-seller in the United Kingdom.	1
+617	T733	GW28	to be or not to be	Coca-Cola with Lime/Diet Coke with Citrus Zest contained an actual wedge of lime.	2
+618	T733	GW4	to be or not to be	Coca-Cola with Lime/Diet Coke with Citrus Zest has been introduced more than once.	0
+619	T733	GW4	to be or not to be	Coca-Cola with Lime/Diet Coke with Citrus Zest came after Coca-Cola with Lemon.	1
+620	T733	GW4	to be or not to be	Coca-Cola with Lime/Diet Coke with Citrus Zest is only made in the United States.	2
+621	T734	GW6	to be or not to be	David Cook has at least two immediate family members.	0
+622	T734	GW6	to be or not to be	David Cook designs games in Michigan.	1
+623	T734	GW6	to be or not to be	David Cook is a lifelong bachelor.	2
+624	T734	GW4	to be or not to be	David Cook is known for making video games.	0
+625	T734	GW4	to be or not to be	David Cook has always lived in Michigan.	1
+626	T734	GW4	to be or not to be	David Cook has more than one child.	2
+627	T734	GW51	to be or not to be	David Cook is an American game designer.	0
+628	T734	GW51	to be or not to be	David Cook is famous for creating the Mass Effect series.	1
+629	T734	GW51	to be or not to be	David Cook has never had a child with his spouse, Helen.	2
+630	T738	GW14	to be or not to be	The Cockerel FabergŽ egg is made up of several different precious gems.	0
+631	T738	GW14	to be or not to be	The bird within the Cockerel FabergŽ egg flaps its wings.	1
+632	T738	GW14	to be or not to be	The person who made the Cockerel FabergŽ egg is capable of giving birth.	2
+633	T738	GW4	to be or not to be	The Cockerel FabergŽ egg has a bird inside of it.	0
+634	T738	GW4	to be or not to be	The Cockerel FabergŽ egg is very valuable.	1
+635	T738	GW4	to be or not to be	The Cockerel FabergŽ egg is over a foot tall.	2
+636	T738	GW51	to be or not to be	The Cockerel FabergŽ egg is a gold and diamond infused object about half a foot tall.	0
+637	T738	GW51	to be or not to be	The Cockerel FabergŽ egg was Perkhin's first Faberge egg creation.	1
+638	T738	GW51	to be or not to be	The Cockerel FabergŽ egg displays over 10 different materials used.	2
+639	T741	GW51	to be or not to be	David Duchovny was once married to Tea Leona for about over 15 years.	0
+640	T741	GW51	to be or not to be	Duchovny is well-known for his role on The X-Files as Fox Mulder.	1
+641	T741	GW51	to be or not to be	Duchovny has been acting for about 10 years.	2
+642	T741	GW4	to be or not to be	David Duchovny went to college in the USA.	0
+643	T741	GW4	to be or not to be	David Duchovny had both his children with TŽa Leoni.	1
+644	T741	GW4	to be or not to be	David Duchovny has been acting since the 1960s.	2
+645	T741	GW2	to be or not to be	David Duchovny lives in the western U.S.	0
+646	T741	GW2	to be or not to be	David Duchovny studied English at Princeton.	1
+647	T741	GW2	to be or not to be	David Duchovny made his big screen debut at the age of 24.	2
+648	T745	GW28	to be or not to be	Men's 50 kilometre freestyle at the XXII Olympic Winter Games was an athletic event.	0
+649	T745	GW28	to be or not to be	Men's 50 kilometre freestyle at the XXII Olympic Winter Games was a cross-country skiing event dominated by Russians.	1
+650	T745	GW28	to be or not to be	Men's 50 kilometre freestyle at the XXII Olympic Winter Games was held in America.	2
+651	T745	GW4	to be or not to be	The men's 50 kilometre freestyle at the XXII Olympic Winter Games had more than 50 competitors.	0
+652	T745	GW4	to be or not to be	The men's 50 kilometre freestyle at the XXII Olympic Winter Games was very cold.	1
+653	T745	GW4	to be or not to be	The men's 50 kilometre freestyle at the XXII Olympic Winter Games was completed in under an hour.	2
+654	T745	GW51	to be or not to be	The Men's 50 kilometre freestyle at the XXII Olympic Winter Games ran for one day in February.	0
+655	T745	GW51	to be or not to be	The Men's 50 kilometre freestyle was the first event Michael Phelps won a gold medal in.	1
+656	T745	GW51	to be or not to be	The winner of the Men's 50 kilometre freestyle at the XXII Olympic Winter Games finished with a time just over 2 minutes.	2
+657	T746	GW0	to be or not to be	Some nations send multiple athletes to compete in Cross-country skiing at the Olympics.	0
+658	T746	GW0	to be or not to be	2018 was the first year cross-country skiing was held at the Alpensia Cross-Country Centre.	1
+659	T746	GW0	to be or not to be	There are more male cross-country skiing events held than women's at the Olympic games.	2
+660	T746	GW4	to be or not to be	Cross-country skiing at the XXIII Olympic Winter Games had mens and women's races.	0
+661	T746	GW4	to be or not to be	The Cross-country skiing at the XXIII Olympic Winter Games had events every day for two weeks.	1
+662	T746	GW4	to be or not to be	More than 500 people competed in Cross-country skiing at the XXIII Olympic Winter Games.	2
+663	T746	GW51	to be or not to be	The Cross-country skiing event at the XXIII Olympics ran at the Alpensia Cross-Country Centre	0
+664	T746	GW51	to be or not to be	The Cross-country skiing event at the XXIII Olympics occurred in 2018.	1
+665	T746	GW51	to be or not to be	The Cross-country skiing event at the XXIII Olympics ran for over 3 weeks and featured hundreds of competitors from over 70 countries.	2
+666	T749	GW51	to be or not to be	Crossed was a limited series published for about 2 and a half years by Avatar Press.	0
+667	T749	GW51	to be or not to be	Crossed was the best selling series in Avatar Press' catalog.	1
+668	T749	GW51	to be or not to be	Crossed is published in consistent intervals and is still an ongoing series.	2
+669	T749	GW14	to be or not to be	Crossed is a post-apocalyptic series published after the turn of the century.	0
+670	T749	GW14	to be or not to be	Issue 100 (Badlands) is the most popular issue of the Crossed series.	1
+671	T749	GW14	to be or not to be	The next issue of the Crossed series will be released in June 2019.	2
+672	T749	GW4	to be or not to be	The comic Crossed was published for under two years.	0
+673	T749	GW4	to be or not to be	The comic Crossed was released under different names.	1
+674	T749	GW4	to be or not to be	The comic Crossed was a super hero comic.	2
+675	T758	GW28	to be or not to be	Code Blue is an American Bull.	0
+676	T758	GW28	to be or not to be	Code Blue is a Bucking bull used in American rodeos.	1
+677	T758	GW28	to be or not to be	Code Blue weighs a ton.	2
+678	T758	GW4	to be or not to be	The bull Code Blue weighed under a ton.	0
+679	T758	GW4	to be or not to be	The bull Code Blue is still alive today.	1
+680	T758	GW4	to be or not to be	The bull Code Blue was originally from the United Kingdom.	2
+681	T758	GW6	to be or not to be	Kish's #624 Wolfman has at least two generations of descendents.	0
+682	T758	GW6	to be or not to be	Code Blue has only been ridden by one person.	1
+683	T758	GW6	to be or not to be	The American Bucking Bull branded 644 has mostly dark fur.	2
+684	T761	GW51	to be or not to be	Code Orange is an American punk and metalcore band.	0
+685	T761	GW51	to be or not to be	The band met each other at a mosh pit in Philadelphia before starting their band.	1
+686	T761	GW51	to be or not to be	Code Orange has been performing for over 15 years under Death Row records.	2
+687	T761	GW2	to be or not to be	Code Orange got their start in the 21st century.	0
+688	T761	GW2	to be or not to be	David Cross had 2 world tours in 2009 and in 2010.	1
+689	T761	GW2	to be or not to be	David Cross is a pop group from Pennsylvania.	2
+690	T761	GW28	to be or not to be	Code Orange is an American punk band.	0
+691	T761	GW28	to be or not to be	Code Orange has won numerous awards for its music.	1
+692	T761	GW28	to be or not to be	Code Orange has been performing for a decade.	2
+693	T777	GW28	to be or not to be	David Packouz is an American convicted felon.	0
+694	T777	GW28	to be or not to be	David Packouz was the inspiration for a Hollywood movie.	1
+695	T777	GW28	to be or not to be	David Packouz never owned a business.	2
+696	T777	GW4	to be or not to be	David Packouz has gotten in legal trouble.	0
+697	T777	GW4	to be or not to be	David Packouz was selling illegal guns.	1
+698	T777	GW4	to be or not to be	David Packouz had to go to prison.	2
+699	T777	GW51	to be or not to be	David Packouz is a former arms dealer who was sentenced to house arrest in the United States.	0
+700	T777	GW51	to be or not to be	Packouz is famous for arming Iranians in the Iranian Contral Scandal in the 80's.	1
+701	T777	GW51	to be or not to be	Packous was subject to house arrest the day after his 40th birthday.	2
+702	T778	GW2	to be or not to be	Crystal Head Vodka originated north of the U.S.	0
+703	T778	GW2	to be or not to be	Crystal Head Vodka has a blue and gold label.	1
+704	T778	GW2	to be or not to be	Crystal Head Vodka is more than half alcohol by volume.	2
+705	T778	GW6	to be or not to be	Crystal Head Vodka was introduced in a different country from where it originated.	0
+706	T778	GW6	to be or not to be	Crystal Head Vodka was developed in Canada for years before 2008.	1
+707	T778	GW6	to be or not to be	Crystal Head Vodka cannot be seen through.	2
+708	T778	GW4	to be or not to be	Crystal Head Vodka was released in the USA.	0
+709	T778	GW4	to be or not to be	Crystal Head Vodka is sold in Canada.	1
+710	T778	GW4	to be or not to be	Crystal Head Vodka is known for having a pink color.	2
+711	T785	GW4	to be or not to be	The album Ctrl took three years to record.	0
+712	T785	GW4	to be or not to be	The album Ctrl had many people singing on it.	1
+713	T785	GW4	to be or not to be	The album Ctrl is over an hour long.	2
+714	T785	GW6	to be or not to be	Ctrl began recording three years before it was released.	0
+715	T785	GW6	to be or not to be	Ctrl is half alternative R&B and half neo soul.	1
+716	T785	GW6	to be or not to be	Ctrl was not produced by anyone who has their own studio.	2
+717	T785	GW51	to be or not to be	Ctrl is an R&B album distributed by Top Dawg Entermtainment in 2017.	0
+718	T785	GW51	to be or not to be	Ctrl was SZA's debut studio album.	1
+719	T785	GW51	to be or not to be	Ctrl took just weeks to record in 2016.	2
+720	T787	GW28	to be or not to be	Republic of Cuba is a multi-ethnic, mono-lingual nation.	0
+721	T787	GW28	to be or not to be	Republic of Cuba is led by Raul Castro, the brother of the Founder, Fidel Castro.	1
+722	T787	GW28	to be or not to be	Republic of Cuba is located in the Gulf of Mexico.	2
+723	T787	GW4	to be or not to be	The Republic of Cuba has only a single official language.	0
+724	T787	GW4	to be or not to be	The Republic of Cuba holds elections for president.	1
+725	T787	GW4	to be or not to be	The Republic of Cuba practices a capitalist system.	2
+726	T787	GW51	to be or not to be	The Republic of Cuba is a country located in the Northern Hemisphere.	0
+727	T787	GW51	to be or not to be	Cuba's capital city was moved to Havana after WWII.	1
+728	T787	GW51	to be or not to be	Cuba is mostly Black with White people making up the 2nd largest ethnic group.	2
+729	T790	GW14	to be or not to be	Cuba's War of Independence was waged nearly three decades after its Declaration of Independence.	0
+730	T790	GW14	to be or not to be	About 30% of the Cuban population is multilingual.	1
+731	T790	GW14	to be or not to be	The Cuban Revolution lasted for less than five years.	2
+732	T790	GW51	to be or not to be	The Republic of Cuba was a former Spanish and American colony before 1900.	0
+733	T790	GW51	to be or not to be	Cuba has been ruled by the Castro family for over 50 years.	1
+734	T790	GW51	to be or not to be	The Cuban Revolution lasted about  years before finally ending peacefully.	2
+735	T790	GW4	to be or not to be	The Republic of Cuba took 30 years to be recognized as independent.	0
+736	T790	GW4	to be or not to be	The Republic of Cuba fought a war to become independent.	1
+737	T790	GW4	to be or not to be	The Republic of Cuba has had its current constitution for 20 years.	2
+738	T791	GW28	to be or not to be	Colectiv nightclub fire was a negligent fire in Europe that resulted in many deaths.	0
+739	T791	GW28	to be or not to be	Colectiv nightclub fire happened in a hip-hop club.	1
+740	T791	GW28	to be or not to be	Colectiv nightclub fire raged for hours and destroyed other businesses.	2
+741	T791	GW4	to be or not to be	More than 50 people passed away at the Colectiv nightclub fire.	0
+742	T791	GW4	to be or not to be	The Colectiv nightclub fire was caused by foam that caught fire.	1
+743	T791	GW4	to be or not to be	The Colectiv nightclub fire had no criminal trials.	2
+744	T791	GW61	to be or not to be	The fire in Club Colectiv suspects list contain at least one politician.	0
+745	T791	GW61	to be or not to be	The suspects of Club Colectiv fire have family ties.	1
+746	T791	GW61	to be or not to be	The suspects of Club Colectiv all work in private sector.	2
+747	T792	GW12	to be or not to be	David Ronald de Mey Warren was born in the spring of 1925.	0
+748	T792	GW12	to be or not to be	The University of Sydney was one of many colleges that David Ronald de Mey Warren attended.	1
+749	T792	GW12	to be or not to be	David Ronald de Mey Warren was a flight recorder since the early 1920's.	2
+750	T792	GW4	to be or not to be	David Ronald de Mey Warren built a machine that goes in planes.	0
+751	T792	GW4	to be or not to be	David Ronald de Mey Warren lived their entire life in Australia.	1
+752	T792	GW4	to be or not to be	David Ronald de Mey Warren never went on a plane in their life.	2
+753	T792	GW51	to be or not to be	David Ronald de Mey Warren is an Australian scientist from Melbourne.	0
+754	T792	GW51	to be or not to be	"David Ronald de Mey Warren was famous for inventing ""the black box"" that is now located in every major commerical airplane."	1
+755	T792	GW51	to be or not to be	David Ronald de Mey Warren lived in Austraila for over 90 years before finally passing away.	2
+756	T793	GW4	to be or not to be	Colin Farrell began singing when they were 21 years old.	0
+757	T793	GW4	to be or not to be	Colin Farrell moved to the USA as a child.	1
+758	T793	GW4	to be or not to be	Colin Farrell has an uncle with the same last name as him.	2
+759	T793	GW6	to be or not to be	Colin James Farrell moved to a different country.	0
+760	T793	GW6	to be or not to be	Colin Farrell's children were born in the U.S.	1
+761	T793	GW6	to be or not to be	Tommy Farrell has no nephews.	2
+762	T793	GW51	to be or not to be	Colin Farrell is an Irish actor and singer with multiple children.	0
+763	T793	GW51	to be or not to be	Farrell stars opposite of Brendan Gleeson in the movie In Brudges.	1
+764	T793	GW51	to be or not to be	Farrell has a brother named Tommy.	2
+765	T794	GW51	to be or not to be	David with the Head of Goliath is an oil painting by the artist Caravaggio.	0
+766	T794	GW51	to be or not to be	The Galleria Borghese also contains the Mons Venus and The Mona Lisa.	1
+767	T794	GW51	to be or not to be	David with the Head of Goliath is a small painting, measuring just a foot tall and 2 feet wide.	2
+768	T794	GW4	to be or not to be	David with the Head of Goliath was painted in the 17th century.	0
+769	T794	GW4	to be or not to be	David with the Head of Goliath took several years to make.	1
+770	T794	GW4	to be or not to be	David with the Head of Goliath is located in Spain.	2
+771	T794	GW14	to be or not to be	David with the Head of Goliath was completed in the 17th Century.	0
+772	T794	GW14	to be or not to be	David with the Head of Goliath was painted in Italy.	1
+773	T794	GW14	to be or not to be	David with the Head of Goliath is the size of a postage stamp.	2
+774	T797	GW28	to be or not to be	Cue Card is a castrated British racehorse.	0
+775	T797	GW28	to be or not to be	Cue Card is a competitive racehorse that raced in competitions around the world.	1
+776	T797	GW28	to be or not to be	Cue Card was retired to stud his remaining years.	2
+777	T797	GW4	to be or not to be	The horse Cue Card made over a million pounds at races.	0
+778	T797	GW4	to be or not to be	The horse Cue Card won a majority of their races.	1
+779	T797	GW4	to be or not to be	The horse Cue Card was from the United States.	2
+780	T797	GW51	to be or not to be	Cue Card is a race horse foaled in Great Britain.	0
+781	T797	GW51	to be or not to be	The name Cue Card was inspired by the cards his trainer used to use in his improv class.	1
+782	T797	GW51	to be or not to be	Cue Card made just under £1,000,000 in earnings in the horse's racing career.	2
+783	T799	GW4	to be or not to be	Colin Kaepernick has rushed over 2000 yards.	0
+784	T799	GW4	to be or not to be	Colin Kaepernick has won many games he played in.	1
+785	T799	GW4	to be or not to be	Colin Kaepernick is currently playing for a team.	2
+786	T799	GW6	to be or not to be	Colin Kaepernick has more rushing yards than rushing touchdowns.	0
+787	T799	GW6	to be or not to be	Colin Kaepernick has always had a TD-Int ratio above 2.	1
+788	T799	GW6	to be or not to be	Anyone with over 12,000 passing yards is contracted to a particular team.	2
+789	T799	GW51	to be or not to be	Colin Kaepernick is an NFL football player with over 10,000 passing yards.	0
+790	T799	GW51	to be or not to be	Kaepernick has not been signed by an NFL team due to his outspokenness about social and criminal justice.	1
+791	T799	GW51	to be or not to be	Kaepernick has scored 74 total touchdowns in his NFL career.	2
+792	T805	GW6	to be or not to be	Culture was released more than three weeks after it was recorded.	0
+793	T805	GW6	to be or not to be	Twenty producers all worked together on Culture.	1
+794	T805	GW6	to be or not to be	It would take over an hour to listen to the entirety of any album released in January 2017.	2
+795	T805	GW51	to be or not to be	Culture is a hip-hop album that was released in 2017.	0
+796	T805	GW51	to be or not to be	Culture is arguably the Migos' most successful album release in terms of commercial success.	1
+797	T805	GW51	to be or not to be	Culture was the culmination of a production collaboration between the Migos and 808God, whom produced all the songs on the album.	2
+798	T805	GW0	to be or not to be	The album, Culture is just shy of an hour long.	0
+799	T805	GW0	to be or not to be	808Godz did the majority of the production on Culture.	1
+800	T805	GW0	to be or not to be	Culture was released in the same year that recording began on the album.	2
+801	T811	GW27	to be or not to be	'Collision Course' was recorded and released in the same year.	0
+802	T811	GW27	to be or not to be	The DVD of 'Collision Course' is longer due to special features.	1
+803	T811	GW27	to be or not to be	'Collision Course' is available on more labels than the number of genres it sampled.	2
+804	T811	GW51	to be or not to be	Collision Course is a multi-disc rap/rock mash up released in 2004.	0
+805	T811	GW51	to be or not to be	Collision Course was the result of a collaboration between the rapper Jay-Z and the rock group Linkin Park.	1
+806	T811	GW51	to be or not to be	Collision Course took 3 months to record before being released in early 2004.	2
+807	T811	GW28	to be or not to be	Collision Course was recorded and released all within the same year.	0
+808	T811	GW28	to be or not to be	Collision Course is a multi-genre album, with multiple guest performers.	1
+809	T811	GW28	to be or not to be	Collision Course is a 20th century music album.	2
+810	T816	GW6	to be or not to be	The XXIII Olympic Winter Games took place in 2018.	0
+811	T816	GW6	to be or not to be	Some nations only contributed women to Curling at the XXIII Olympic Winter Games.	1
+812	T816	GW6	to be or not to be	Curling at the Gangneug Gymnasium during the Olympics had no women's events.	2
+813	T816	GW4	to be or not to be	The Curling at the XXIII Olympic Winter Games happened in february.	0
+814	T816	GW4	to be or not to be	Both men and women competed together in the Curling at the XXIII Olympic Winter Games.	1
+815	T816	GW4	to be or not to be	There were over 150 countries involved.	2
+816	T816	GW51	to be or not to be	Curling in the XXIII Olympic Winter Games took place over 2 weeks with 3 main events.	0
+817	T816	GW51	to be or not to be	Curling originally originated as a sport in Sweden.	1
+818	T816	GW51	to be or not to be	Curling in the 2018 Winter Olympics saw under 100 men and women compete over 4 weeks.	2
+819	T822	GW0	to be or not to be	Columbus, Georgia was named after an explorer.	0
+820	T822	GW0	to be or not to be	Columbus is the capital of Georgia.	1
+821	T822	GW0	to be or not to be	Columbus, Georgia was founded in the second half of the nineteenth century.	2
+822	T822	GW51	to be or not to be	Columbus is a city in Georgia named after Christopher Columbus.	0
+823	T822	GW51	to be or not to be	The city of Columbus is one of 72 different cities in the United States named after Christopher Columbus.	1
+824	T822	GW51	to be or not to be	The city of Columbus in Georgia was founded shortly after the Civil War began.	2
+825	T822	GW4	to be or not to be	Columbus, Georgia was founded in the 19th century.	0
+826	T822	GW4	to be or not to be	Columbus, Georgia is smaller than Muscogee county.	1
+827	T822	GW4	to be or not to be	Columbus, Georgia was not named for Christopher.	2
+828	T828	GW4	to be or not to be	The musician Common was born named Lonnie.	0
+829	T828	GW4	to be or not to be	The musician Common knows how to play instruments.	1
+830	T828	GW4	to be or not to be	The musician Common has been performing for 30 years.	2
+831	T828	GW61	to be or not to be	Lonnie Corant Jaman Shuka collaborated with at least one known rapper.	0
+832	T828	GW61	to be or not to be	Lonnie Corant Jaman Shuka performs well with musical.instruments.	1
+833	T828	GW61	to be or not to be	Lonnie Corant Jaman Shuka never worked wirh R'n'B artists.	2
+834	T828	GW51	to be or not to be	Common is a hip hop musician from Chicago.	0
+835	T828	GW51	to be or not to be	Common's biggest commercial hit is the song Go.	1
+836	T828	GW51	to be or not to be	Common has been making hip hop music since the late 90's.	2
+837	T829	GW51	to be or not to be	The Commonwealth of the Phiippines is a territory of the United States with a capital city of Manila.	0
+838	T829	GW51	to be or not to be	The Commonwealth of the Philippines was established as a U.S. territory after World War II.	1
+839	T829	GW51	to be or not to be	The Philippines have had a nation assembly government for their entire history.	2
+840	T829	GW28	to be or not to be	Commonwealth of the Philippines was controlled by the United States.	0
+841	T829	GW28	to be or not to be	Commonwealth of the Philippines was a colony of the United States.	1
+842	T829	GW28	to be or not to be	Commonwealth of the Philippines was a independent Sovereign nation.	2
+843	T829	GW14	to be or not to be	The Tydings?cDuffie Act was enacted more than a decade before the Treaty of Manila.	0
+844	T829	GW14	to be or not to be	Paul V. McNutt ran for re-election for the 1939?2 High Commissioner seat.	1
+845	T829	GW14	to be or not to be	Sergio Osme?a never served in more than one elected office.	2
+846	T831	GW51	to be or not to be	Union of the Comoros is a territory discovered by the Portuguese in the 1500's.	0
+847	T831	GW51	to be or not to be	Union of the Comoros is where the current French president was raised as a child.	1
+848	T831	GW51	to be or not to be	Union of the Comoros went under French rule in the early 1800's.	2
+849	T831	GW4	to be or not to be	The Union of the Comoros adopted a constitution in 2009.	0
+850	T831	GW4	to be or not to be	The Union of the Comoros spent a lot of time under French rule.	1
+851	T831	GW4	to be or not to be	The Union of the Comoros was dissolved in 2009.	2
+852	T831	GW28	to be or not to be	Union of the Comoros was once the State of Comoros, and before that the Protectorate of the Comoros.	0
+853	T831	GW28	to be or not to be	Union of the Comoros were influenced by the Portuguese and French equally.	1
+854	T831	GW28	to be or not to be	Union of the Comoros has been independent for 50 years.	2
+855	T839	GW51	to be or not to be	DC Comics presents was ongoing comic series that ran over 100 issues while active.	0
+856	T839	GW51	to be or not to be	DC Comics introduced the Joker and the Riddler as Batman's archrivals.	1
+857	T839	GW51	to be or not to be	DC Comics presents was active for over 20 years before publishing its last issue.	2
+858	T839	GW4	to be or not to be	DC Comics Presents lasted over 8 years.	0
+859	T839	GW4	to be or not to be	There there were many super heros in DC Comics Presents.	1
+860	T839	GW4	to be or not to be	The DC Comics Presents only came out annually.	2
+861	T839	GW28	to be or not to be	DC Comics Presents was an American comic book series.	0
+862	T839	GW28	to be or not to be	DC Comics Presents presented many DC superheros such as Green Lantern and Wonder Woman, The Flash etc.	1
+863	T839	GW28	to be or not to be	DC Comics Presents is an ongoing series that has been publishing continuously since 1978.	2
+864	T840	GW28	to be or not to be	Dead Can Dance is an Australian musical group.	0
+865	T840	GW28	to be or not to be	Dead Can Dance is a multi-member band that has performed internationally.	1
+866	T840	GW28	to be or not to be	Dead Can Dance is a defunct band from the 19th century.	2
+867	T840	GW4	to be or not to be	Dead Can Dance has broken up in in the past.	0
+868	T840	GW4	to be or not to be	Dead Can Dance has preformed live with The Scavengers.	1
+869	T840	GW4	to be or not to be	The band Dead Can Dance has been on only Australian record labels.	2
+870	T840	GW6	to be or not to be	deadcandance.com is the website of an Antipodean band.	0
+871	T840	GW6	to be or not to be	Dead Can Dance is signed to five labels at once.	1
+872	T840	GW6	to be or not to be	A band from the southern hemisphere has never worked in the gothic rock genre.	2
+873	T845	GW51	to be or not to be	Dean Kamen is an American inventor from New Hampshire.	0
+874	T845	GW51	to be or not to be	Kamen is most famous for inventing the Dyson vacuum.	1
+875	T845	GW51	to be or not to be	Dean won the Hoover medal for his work on the Segway in the mid 2000's.	2
+876	T845	GW4	to be or not to be	Dean Kamen has won over five major awards.	0
+877	T845	GW4	to be or not to be	Dean Kamen has a degree in engineering.	1
+878	T845	GW4	to be or not to be	Dean Kamen wound up working for a large company.	2
+879	T845	GW6	to be or not to be	Dean Kamen has lived in at least two east coast cities.	0
+880	T845	GW6	to be or not to be	Dean Kamen won an award for inventing the iBot Wheelchair.	1
+881	T845	GW6	to be or not to be	The Segway was not invented by someone born in America.	2
+882	T846	GW51	to be or not to be	Dean Martin is a musician from Ohio known for his singing and acting.	0
+883	T846	GW51	to be or not to be	Dean Martin was part of the famous Rat Pack with Frank Sinatra.	1
+884	T846	GW51	to be or not to be	Dean Martin has been active in the music industry for over 60 years.	2
+885	T846	GW6	to be or not to be	Leonard Barr's nephew was active for over half a century.	0
+886	T846	GW6	to be or not to be	Catherine Hawn has no children.	1
+887	T846	GW6	to be or not to be	Dean Martin was a lifelong mute.	2
+888	T846	GW4	to be or not to be	Dean Martin was a stage name that was used by Dean Paul Crocetti.	0
+889	T846	GW4	to be or not to be	Dean Martin recorded music for over fifty years.	1
+890	T846	GW4	to be or not to be	Dean Martin had 8 children all with one woman.	2
+891	T848	GW4	to be or not to be	Dear White People was written and directed by the same person.	0
+892	T848	GW4	to be or not to be	Dear White People took several years to film.	1
+893	T848	GW4	to be or not to be	Dear White People wound up losing money at the box office.	2
+894	T848	GW6	to be or not to be	The writer of Dear White People was also one of its producers.	0
+895	T848	GW6	to be or not to be	Dear White People earned $5.4 million in 2014.	1
+896	T848	GW6	to be or not to be	Dear White People premiered at Sundance after its U.S. premier.	2
+897	T848	GW51	to be or not to be	Dear White People is a TV show directed and written by Justin Simien.	0
+898	T848	GW51	to be or not to be	Dear White People is a very popular show to stream on Netflix since being originally shown at the Sundance Film Festival.	1
+899	T848	GW51	to be or not to be	Dear White People originally became famous after Dreamworks released the show to be shown at the Cannes Festival.	2
+900	T885	GW51	to be or not to be	Caracas is a a capital city a few thousand feet above sea level.	0
+901	T885	GW51	to be or not to be	Caracas is the capital city of Venezuela.	1
+902	T885	GW51	to be or not to be	Caracas lowest point is below sea level.	2
+903	T885	GW27	to be or not to be	Caracas' metro area is more than ten times its city size.	0
+904	T885	GW27	to be or not to be	Caracas has many high hills in its limits.	1
+905	T885	GW27	to be or not to be	Caracas' city is at sea level.	2
+906	T885	GW28	to be or not to be	Caracas is a city well above sea level.	0
+907	T885	GW28	to be or not to be	Caracas is the capital city of Venezuela.	1
+908	T885	GW28	to be or not to be	Caracas at its highest point is a mile above sea-level.	2
+909	T899	GW51	to be or not to be	Chengdu is a provincial city that sits around 1,600 feet in the air.	0
+910	T899	GW51	to be or not to be	Chengdu is the capital city of the Sichuan province.	1
+911	T899	GW51	to be or not to be	Chengdu is the only city in China that lays below sea level.	2
+912	T899	GW28	to be or not to be	Chengdu is a large area with many different classifications.	0
+913	T899	GW28	to be or not to be	Chengdu's biggest area is nearly 10x bigger than its smallest area.	1
+914	T899	GW28	to be or not to be	Chengdu's downtown and Urban areas is larger than the Metro area.	2
+915	T899	GW0	to be or not to be	Chengdu's highest elevation is over 5,000 meters.	0
+916	T899	GW0	to be or not to be	Chengdu's downtown area contains the lowest elevation.	1
+917	T899	GW0	to be or not to be	Chengdu's lowest elevation is sea level.	2
+918	T910	GW1	to be or not to be	The patron saint of Catania is a woman.	0
+919	T910	GW1	to be or not to be	Catania has more than one official website.	1
+920	T910	GW1	to be or not to be	Catania has over 325,000 people in it.	2
+921	T910	GW51	to be or not to be	Catania is a city of several hundred thousand people.	0
+922	T910	GW51	to be or not to be	Catania is also its own country.	1
+923	T910	GW51	to be or not to be	Catania lies west of the prime meridian and does not recognize daily savings time.	2
+924	T910	GW28	to be or not to be	Catania is a small sized Christian city.	0
+925	T910	GW28	to be or not to be	Catania is an Italian coastal city.	1
+926	T910	GW28	to be or not to be	Catania is does no marketing to potential visitors.	2
+927	T928	GW11	to be or not to be	Charlie and the Chocolate Factory is a film adaptation of a novel.	0
+928	T928	GW11	to be or not to be	Charlie and the Chocolate Factory earned the majority of its money in the United States.	1
+929	T928	GW11	to be or not to be	Charlie and the Chocolate Factory was released in four countries.	2
+930	T928	GW14	to be or not to be	Charlie and the Chocolate Factory earned more than triple its budget at the box office.	0
+931	T928	GW14	to be or not to be	Several of the actors in Charlie and the Chocolate Factory were from Australia.	1
+932	T928	GW14	to be or not to be	The narrator and editor of Charlie and the Chocolate Factory have the same first name.	2
+933	T928	GW19	to be or not to be	Tim Burton's film adaptation of Charlie and the Chocolate Factory was a commercial success.	0
+934	T928	GW19	to be or not to be	Charlie and the Chocolate Factory was Roald Dahl's most popular novel.	1
+935	T928	GW19	to be or not to be	Tim Burton's film adaptation of Charlie and the Chocolate Factory was not released in the United States until it had already achieved commercial success in the United Kingdom.	2
+936	T940	GW27	to be or not to be	Bruges has four postal codes.	0
+937	T940	GW27	to be or not to be	Bruges is one of Belgium's most dense cities.	1
+938	T940	GW27	to be or not to be	Bruges has more area codes than postal codes.	2
+939	T940	GW51	to be or not to be	Bruges is a city with over 100,000 in population.	0
+940	T940	GW51	to be or not to be	Bruges is a major city in Belgium.	1
+941	T940	GW51	to be or not to be	Bruges has a single post code representing the entire city.	2
+942	T940	GW28	to be or not to be	Bruges is a small geographic region of Belgium but big enough for four postal codes.	0
+943	T940	GW28	to be or not to be	Bruges is a sparsely populated area with little source of water.	1
+944	T940	GW28	to be or not to be	Bruges is a xenophobic area with no wish for outside visitors.	2
+945	T947	GW12	to be or not to be	Republic of Botswana, run under a unitary parliament, has a president and a vice-president.	0
+946	T947	GW12	to be or not to be	English is the only language in Gaborone, the capital of the Republic of Botswana.	1
+947	T947	GW12	to be or not to be	There are more who practice the African traditional religion than the Christian religion in the Republic of Botswana.	2
+948	T947	GW0	to be or not to be	Tswana people are the largest ethnic group in Botswana.	0
+949	T947	GW0	to be or not to be	Mokgweetsi Masisi has been Botswana's president for over a decade.	1
+950	T947	GW0	to be or not to be	Christians make up the smallest religious group in Botswana.	2
+951	T947	GW51	to be or not to be	The Republic of Botswana is a majority Christian country.	0
+952	T947	GW51	to be or not to be	The Republic of Botswana's capital city is Gaborone.	1
+953	T947	GW51	to be or not to be	The Republic of Botswana is located north of the equator.	2
+954	T974	GW28	to be or not to be	Chicago, Illinois is a city with tiny water resources.relative to its land mass.	0
+955	T974	GW28	to be or not to be	Chicago, Illinois is near the Great Lakes.	1
+956	T974	GW28	to be or not to be	Chicago, Illinois comprises 10% of the metro area.	2
+957	T974	GW14	to be or not to be	There's at least 1 lake in Chicago named after a US state.	0
+958	T974	GW14	to be or not to be	There are very few lakes in Chicago.	1
+959	T974	GW14	to be or not to be	Chicago's lowest elevation and average elevation differ by more than 16 feet.	2
+960	T974	GW12	to be or not to be	The square mileage of the city of Chicago is larger than the square mileage of land.	0
+961	T974	GW12	to be or not to be	The highest elevation of Chicago is 672 ft, which is near Lake Michigan.	1
+962	T974	GW12	to be or not to be	The urban square mileage of Chicago is larger than the metro square mileage.	2
+963	T982	GW28	to be or not to be	Republic of Chile is on the west coast of South America.	0
+964	T982	GW28	to be or not to be	Republic of Chile is a multi-ethnic society with  White Europeans as the biggest group.	1
+965	T982	GW28	to be or not to be	Republic of Chile is a military dictatorship with representative parliament.	2
+966	T982	GW51	to be or not to be	The Republic of Chile is a Spanish speaking country with a capital city of Santiago.	0
+967	T982	GW51	to be or not to be	The Republic of Chile was the location of the most recent Summer olympics.	1
+968	T982	GW51	to be or not to be	The Republic of Chile lies north of the equator.	2
+969	T982	GW27	to be or not to be	The Rep?blica de Chile's capital and largest city are the same.	0
+970	T982	GW27	to be or not to be	President Sebasti?n Pi?era is white.	1
+971	T982	GW27	to be or not to be	The Rep?blica de Chile has three houses in its legislature.	2
+972	T983	GW12	to be or not to be	Camilla Rosemary Shand married Prince Charles after her divorce from Andrew Parker Bowles.	0
+973	T983	GW12	to be or not to be	Tom Parker Bowles is a brother to Laura Lopes.	1
+974	T983	GW12	to be or not to be	Rosalind Cubitt is the mother to Charles, Prince of Wales.	2
+975	T983	GW28	to be or not to be	Camilla is part of the British Royal family.	0
+976	T983	GW28	to be or not to be	Camilla was childless and a divorcee when she married Charles, Prince of Wales.	1
+977	T983	GW28	to be or not to be	Camilla committed polygamy when marrying Charles, Prince of Wales.	2
+978	T983	GW27	to be or not to be	Camilla Rosemary Shand has been married twice.	0
+979	T983	GW27	to be or not to be	Both of Camilla Rosemary Shand's children were with Andrew Parker Bowles.	1
+980	T983	GW27	to be or not to be	Camilla Rosemary Shand has had more marriages than children.	2
+981	T1002	GW51	to be or not to be	Catalonia is a constitutional monarchy with congressional deputies and senators.	0
+982	T1002	GW51	to be or not to be	Catalonia is a region is Spain that is trying to secede from Spain.	1
+983	T1002	GW51	to be or not to be	Catalonia is mostly communist in nature and does not have republic representation.	2
+984	T1002	GW6	to be or not to be	Catalonia has 16.5% of senators.	0
+985	T1002	GW6	to be or not to be	Quim Torra was elected by the general public.	1
+986	T1002	GW6	to be or not to be	Catalonia has 50% of the deputies in the Congress of Deputies.	2
+987	T1002	GW28	to be or not to be	Catalonia is governed by elected officials and overseen by a monarchy.	0
+988	T1002	GW28	to be or not to be	Catalonia is a region of Spain known for separatist leanings.	1
+989	T1002	GW28	to be or not to be	Catalonia have no voice or representational governance in place.	2
+990	T1010	GW66	to be or not to be	Caravaggio created at least one piece with oil on canvass.	0
+991	T1010	GW66	to be or not to be	"The Caravaggio piece ""Boy Peeling Fruit"" sold for a million dollars."	1
+992	T1010	GW66	to be or not to be	"Caravaggio painted ""Boy Peeling Fruit"" to celebrate the discovery of electricity."	2
+993	T1010	GW28	to be or not to be	Boy Peeling Fruit is a 16th century European work of art.	0
+994	T1010	GW28	to be or not to be	Boy Peeling Fruit was Caravaggio's final art piece.	1
+995	T1010	GW28	to be or not to be	Boy Peeling Fruit  is a mural painted on the ceiling of a church.	2
+996	T1010	GW0	to be or not to be	Caravaggio painted Boy Peeling Fruit towards the end of the 16th Century.	0
+997	T1010	GW0	to be or not to be	Caravaggio sold Boy Peeling Fruit to the Italian government.	1
+998	T1010	GW0	to be or not to be	Caravaggio's Boy Peeling Fruit is over three feet wide.	2
+999	T1017	GW28	to be or not to be	Casablanca is a classic American Hollywood film.	0
+1000	T1017	GW28	to be or not to be	Casablanca won an Oscar for Best Picture.	1
+1001	T1017	GW28	to be or not to be	Casablanca is an original story and screenplay.	2
+1002	T1017	GW0	to be or not to be	Casablanca was released in the U.S. two months after deputing at the Hollywood Theatre.	0
+1003	T1017	GW0	to be or not to be	Casablanca was Peter Lorre's first film role.	1
+1004	T1017	GW0	to be or not to be	Casablanca was produced and directed by the same person.	2
+1005	T1017	GW51	to be or not to be	Casablanca was directed by Michael Curtiz and produced by several individuals.	0
+1006	T1017	GW51	to be or not to be	Casablanca was the highest grossing film during the 1942-1943 years.	1
+1007	T1017	GW51	to be or not to be	Casablanca was edited and written by Humphrey Bogart.	2
+1008	T1031	GW51	to be or not to be	Case Closed is a manga developed by Weekly Shonen Sunday.	0
+1009	T1031	GW51	to be or not to be	Case Closed was made into an anime called Detective Conan.	1
+1010	T1031	GW51	to be or not to be	Case Closed ran for 6 months before the publication ceased.	2
+1011	T1031	GW27	to be or not to be	'Case Closed' was written by Takahiro Arai and published by Shogakukan.	0
+1012	T1031	GW27	to be or not to be	'Weekly Sh_nen Sunday' was geared to the Sh_nen demographic.	1
+1013	T1031	GW27	to be or not to be	The same publisher of 'Case Closed' also provided the English translation.	2
+1014	T1031	GW28	to be or not to be	Case Closed is a Japanese comic serial.	0
+1015	T1031	GW28	to be or not to be	Case Closed is a popular Japanese manga that was exported internationally.	1
+1016	T1031	GW28	to be or not to be	Case Closed was a long-running Japanese comic serial.	2
+1017	T1047	GW28	to be or not to be	Changsha is a city in China.	0
+1018	T1047	GW28	to be or not to be	Changsha is the birthplace of Mao Zedong.	1
+1019	T1047	GW28	to be or not to be	Changsha is both a city and a prefecture.	2
+1020	T1047	GW27	to be or not to be	Changsha's prefecture density is lower than its urban density.	0
+1021	T1047	GW27	to be or not to be	Changsha's population rank in China has increased much.	1
+1022	T1047	GW27	to be or not to be	Changsha has more people in its urban area than in its metro area.	2
+1023	T1047	GW0	to be or not to be	Changsha is in the top twenty largest cities in China.	0
+1024	T1047	GW0	to be or not to be	More people live in Changsha today than ten years ago.	1
+1025	T1047	GW0	to be or not to be	Changsha's metro area includes an extra million people more than the urban population.	2
+1026	T1131	GW27	to be or not to be	George Mason University is a public university established in 1949.	0
+1027	T1131	GW27	to be or not to be	George Mason University is headquartered in Arlington, VA.	1
+1028	T1131	GW27	to be or not to be	George Mason University has more postgraduates than undergraduates.	2
+1029	T1131	GW35	to be or not to be	George Mason University has been operating for the past 68 years.	0
+1030	T1131	GW35	to be or not to be	APLU is affiliated only to George Mason University.	1
+1031	T1131	GW35	to be or not to be	The dominant colors of George Mason University are red and violet.	2
+1032	T1131	GW17	to be or not to be	George Mason University has more than 35,000 students.	0
+1033	T1131	GW17	to be or not to be	George Mason University has more male students than female students.	1
+1034	T1131	GW17	to be or not to be	George Mason University's mascot is the whale.	2
+1035	T1134	GW27	to be or not to be	Caravan Palace is an electro swing band from France.	0
+1036	T1134	GW27	to be or not to be	Caravan Palace is the biggest electro swing band from France.	1
+1037	T1134	GW27	to be or not to be	Caravan Palace has been on a different label for each year they have been active.	2
+1038	T1134	GW28	to be or not to be	Caravan Palace is a French musical group.	0
+1039	T1134	GW28	to be or not to be	Caravan Palace is a band composed of four members.	1
+1040	T1134	GW28	to be or not to be	Caravan Palace does no marketing and has gained fame mainly thru word-of-mouth.	2
+1041	T1134	GW22	to be or not to be	Caravan Palace is located in Paris, France and is active from 2008.	0
+1042	T1134	GW22	to be or not to be	Caravan Palace is associated with Wagram, MVKA and Le Plan Recordings only.	1
+1043	T1134	GW22	to be or not to be	www.caravanpalace.com is not the official website of Caravan Palace.	2
+1044	T1148	GW12	to be or not to be	Britney Spears married Kevin Federline the same year she divorced Jason Alexander.	0
+1045	T1148	GW12	to be or not to be	Britney Spears is associated with music labels Jive and RCA.	1
+1046	T1148	GW12	to be or not to be	Jamie Lynn Spears is the daughter of Britney Spears.	2
+1047	T1148	GW1	to be or not to be	Britney Spears was born in the South of the United States.	0
+1048	T1148	GW1	to be or not to be	Britney Spears' two children were with Jason Allen Alexander.	1
+1049	T1148	GW1	to be or not to be	Britney Spears has been active for more than 30 years.	2
+1050	T1148	GW28	to be or not to be	Britney Spears is an American singer songwriter.	0
+1051	T1148	GW28	to be or not to be	Britney Spears is divorced with one daughter and one son.	1
+1052	T1148	GW28	to be or not to be	Britney Spears was born and raised in the midwest.	2
+1053	T1164	GW17	to be or not to be	The first Romanian Footballer of the Year award was handed out in 1966.	0
+1054	T1164	GW17	to be or not to be	There has been 5 repeat winners of the Romanian Footballer of the Year award.	1
+1055	T1164	GW17	to be or not to be	The Romanian Footballer of the Year has never had a repeat winner.	2
+1056	T1164	GW0	to be or not to be	The Romanian Footballer of the Year award has been given out over fifty times.	0
+1057	T1164	GW0	to be or not to be	Gheorghe Hagi won the Romanian Footballer of the Year award in his rookie year.	1
+1058	T1164	GW0	to be or not to be	The Romanian Football of the Year award is only twenty years old.	2
+1059	T1164	GW28	to be or not to be	Romanian Footballer of the Year has been awarded every year since 1966.	0
+1060	T1164	GW28	to be or not to be	Romanian Footballer of the Year is awarded a monetary prize.	1
+1061	T1164	GW28	to be or not to be	Romanian Footballer of the Year award is given to a new footballer every year.	2
+1062	T1177	GW68	to be or not to be	JFK Airport has runways of concrete and asphalt, as well as some helipads.	0
+1063	T1177	GW68	to be or not to be	The first helicopter landed at JFK Airport in 1951.	1
+1064	T1177	GW68	to be or not to be	The difference between the longest and shortest runway is 1,252 meters.	2
+1065	T1177	GW28	to be or not to be	John F. Kennedy International Airport services tens of millions of passengers every year.	0
+1066	T1177	GW28	to be or not to be	John F. Kennedy International Airport is the busiest airport in America.	1
+1067	T1177	GW28	to be or not to be	John F. Kennedy International Airport is used solely for airplanes.	2
+1068	T1177	GW0	to be or not to be	Norwegian Air Shuttle is focused out of Queens, New York.	0
+1069	T1177	GW0	to be or not to be	JFK is the biggest airport in New York City.	1
+1070	T1177	GW0	to be or not to be	JFK's runways are made out of only one surface.	2
+1071	T1179	GW22	to be or not to be	Brigadier Gerard was a British Thoroughbred racehorse and sire, foaled in 1968.	0
+1072	T1179	GW22	to be or not to be	John L. Hislop has bred Brigadier Gerard only.	1
+1073	T1179	GW22	to be or not to be	Trainer of Brigadier Gerard is Mr & Mrs. John L. Hislop.	2
+1074	T1179	GW28	to be or not to be	Brigadier Gerard is a British male racehorse.	0
+1075	T1179	GW28	to be or not to be	Brigadier Gerard was bred to race on the international horse racing circuit.	1
+1076	T1179	GW28	to be or not to be	Brigadier Gerard has a perfect career win-loss record	2
+1077	T1179	GW1	to be or not to be	There was only one race that Brigadier Gerard ran that wasn't won by the horse.	0
+1078	T1179	GW1	to be or not to be	Great Britain is the only country that Brigadier Gerard raced in.	1
+1079	T1179	GW1	to be or not to be	Brigadier Gerard was foaled in the early part of the 20th century.	2
+1080	T1182	GW4	to be or not to be	Bradley Cooper was married for a year.	0
+1081	T1182	GW4	to be or not to be	Bradley Cooper lives with Irina Shayk.	1
+1082	T1182	GW4	to be or not to be	Bradley Cooper has lived in the United Kingdom.	2
+1083	T1182	GW28	to be or not to be	Bradley Cooper is an award-winning American actor.	0
+1084	T1182	GW28	to be or not to be	Bradley Cooper has one daughter.	1
+1085	T1182	GW28	to be or not to be	Bradley Cooper has been active since his teens.	2
+1086	T1182	GW12	to be or not to be	The winter of 1975 was when Bradley Cooper, the actor, was born.	0
+1087	T1182	GW12	to be or not to be	Bradley Cooper has lived in Philadelphia since 1975.	1
+1088	T1182	GW12	to be or not to be	Jennifer Esposito and Irina Shayk have both been married to Bradley Cooper.	2
+1089	T1212	GW28	to be or not to be	Glacier National Park is over a million acres and more than a century old.	0
+1090	T1212	GW28	to be or not to be	Glacier National Park is an American park that contains many wild animals.	1
+1091	T1212	GW28	to be or not to be	Glacier National Park was designated a park less than a century ago.	2
+1092	T1212	GW27	to be or not to be	Glacier National Park is in two counties near Columbia Falls.	0
+1093	T1212	GW27	to be or not to be	Glacier National Park is part of the world's first international peace park.	1
+1094	T1212	GW27	to be or not to be	Glacier National Park has more acres than 2018 visitors.	2
+1095	T1212	GW12	to be or not to be	Glacier National Park had more that 2 million visitors in the year 2018.	0
+1096	T1212	GW12	to be or not to be	Glacier National Park, which is part of the Waterton-Glacier International Peace Park, was established in the spring of 1910.	1
+1097	T1212	GW12	to be or not to be	Glacier National Park is comprised of one county, Flathead County, in Montana.	2
+1098	T1241	GW28	to be or not to be	Atari 2600 is an American video game console.	0
+1099	T1241	GW28	to be or not to be	Atari 2600 came with multiple controller inputs included.	1
+1100	T1241	GW28	to be or not to be	Atari 2600 was sold only domestically.	2
+1101	T1241	GW22	to be or not to be	Atari 2600 also known as Atari VCS is manufactured Atari, Inc. is a second generation home video game console.	0
+1102	T1241	GW22	to be or not to be	Atari 2600's introductory price was US$199 in 1977 and it was the most expensive home video game console at that time.	1
+1103	T1241	GW22	to be or not to be	Atary 2600 had 64 bytes RAM and 16-bit MOS Technology 6507 @ 1.19 MHz.	2
+1104	T1241	GW6	to be or not to be	The Atari 2600 was discontinued 14 years after being released in Europe.	0
+1105	T1241	GW6	to be or not to be	Atari 2600 cost $199 when it was discontinued.	1
+1106	T1241	GW6	to be or not to be	Consoles with 128 bytes of RAM are not compatible with joysticks.	2
+1107	T1265	GW28	to be or not to be	Brian May is an award-winning British rock musician	0
+1108	T1265	GW28	to be or not to be	Brian May has three children, one boy and two girls.	1
+1109	T1265	GW28	to be or not to be	Brian May's scientific achievements made him famous.	2
+1110	T1265	GW35	to be or not to be	Brian May married Anita Dobson at the age of 53.	0
+1111	T1265	GW35	to be or not to be	Anita Dobson has 3 children.	1
+1112	T1265	GW35	to be or not to be	Brian May did not win any award in 2005.	2
+1113	T1265	GW1	to be or not to be	Brian May has been active for over 50 years.	0
+1114	T1265	GW1	to be or not to be	All three of Brian May's children were with Christine Mullen.	1
+1115	T1265	GW1	to be or not to be	Brian May was born in the Winter of 1947.	2
+1116	T1267	GW28	to be or not to be	Brandon Richard Flowers is an American musician.	0
+1117	T1267	GW28	to be or not to be	Brandon Richard Flowers is an award-winning musician.	1
+1118	T1267	GW28	to be or not to be	Brandon Richard Flowers has been active since his teens.	2
+1119	T1267	GW27	to be or not to be	Brandon Richard Flowers was born in Nevada.	0
+1120	T1267	GW27	to be or not to be	Brandon Richard Flowers is most know for his alternative rock.	1
+1121	T1267	GW27	to be or not to be	Brandon Richard Flowers has more associated acts than labels he has been on.	2
+1122	T1267	GW22	to be or not to be	Birth name of Brandon Flowers is Brandon Richard Flowers and he was born on June 21, 1981.	0
+1123	T1267	GW22	to be or not to be	Brandon Flowers Occupations include Singer-songwriter and musician only.	1
+1124	T1267	GW22	to be or not to be	Brandon Flowers can not play any instruments and is associated with Vertigo label only.	2
+1125	T1287	GW2	to be or not to be	The American Automobile Association provides roadside assistance and sells maps.	0
+1126	T1287	GW2	to be or not to be	The American Automobile Association provides maps for over 1000 destinations world-wide.	1
+1127	T1287	GW2	to be or not to be	The American Automobile Association is headquartered in Chicago.	2
+1128	T1287	GW28	to be or not to be	American Automobile Association is a century old Not-for-profit organization committed to automobile safety.	0
+1129	T1287	GW28	to be or not to be	American Automobile Association is the oldest organization in America committed to assisting automobile drivers.	1
+1130	T1287	GW28	to be or not to be	American Automobile Association is a publicly funded government entity.	2
+1131	T1287	GW12	to be or not to be	American Automobile Association is a not-for-profit organization specializing in roadside assistance.	0
+1132	T1287	GW12	to be or not to be	Heathrow, Florida is the headquarters for the American Automobile Association.	1
+1133	T1287	GW12	to be or not to be	The American Automobile Association only services include maps, travel guides and car batteries.	2
+1134	T1311	GW22	to be or not to be	Royal Society of Edinburgh has over 1600 fellow members.	0
+1135	T1311	GW22	to be or not to be	Professor Dame Anne Glover is the only president of Royal Society of Edinburgh.	1
+1136	T1311	GW22	to be or not to be	Royal Society of Edinburgh has focus only on Science and technology.	2
+1137	T1311	GW28	to be or not to be	Royal Society of Edinburgh is a British charity.	0
+1138	T1311	GW28	to be or not to be	Royal Society of Edinburgh relies on hundreds of volunteers.	1
+1139	T1311	GW28	to be or not to be	Royal Society of Edinburgh was formed to promote British royalty.	2
+1140	T1311	GW27	to be or not to be	The Royal Society of Edinburgh has its origings in 1737 and is found in Scotland.	0
+1141	T1311	GW27	to be or not to be	The Royal Society of Edinburgh's motto is in Latin.	1
+1142	T1311	GW27	to be or not to be	The Royal Society of Edinburgh has more founders than focuses.	2
+1143	T1369	GW17	to be or not to be	The FSU Mascot is the Seminole.	0
+1144	T1369	GW17	to be or not to be	FSU has the largest budget of all colleges in America.	1
+1145	T1369	GW17	to be or not to be	FSU is located in Georgia.	2
+1146	T1369	GW22	to be or not to be	Florida State University was established in 1851 and its president is John E. Thrasher.	0
+1147	T1369	GW22	to be or not to be	State university is the type of Florida State University.	1
+1148	T1369	GW22	to be or not to be	Florida State University has more postgraduates than undergraduates in fall 2017.	2
+1149	T1369	GW28	to be or not to be	Florida State University is an American educational institution.	0
+1150	T1369	GW28	to be or not to be	Florida State University nickname is derived from a local native American tribe.	1
+1151	T1369	GW28	to be or not to be	Florida State University was founded in the 20th century.	2
+1152	T1390	GW12	to be or not to be	Cape Cross is a stallion sharing a history with Ahonoora and Green Desert.	0
+1153	T1390	GW12	to be or not to be	Ireland is the country where Cape Cross was fouled in 1994.	1
+1154	T1390	GW12	to be or not to be	Godolphin Racing has been the owner of Cape Cross since 1994.	2
+1155	T1390	GW4	to be or not to be	The horse Cape Cross was a male horse.	0
+1156	T1390	GW4	to be or not to be	The horse Cape Cross won most of their races.	1
+1157	T1390	GW4	to be or not to be	The horse Cape Cross made over a million dollars.	2
+1158	T1390	GW27	to be or not to be	Cape Cross' sire was Green Desert and his grandsire was Danzig.	0
+1159	T1390	GW27	to be or not to be	Cape Cross was bred for Godolphin Racing.	1
+1160	T1390	GW27	to be or not to be	Cape Cross' color is the same as its sire's name.	2
+1161	T1395	GW4	to be or not to be	National Rail began in Liverpool England.	0
+1162	T1395	GW4	to be or not to be	The National Rail has been running daily for over 170 years.	1
+1163	T1395	GW4	to be or not to be	The National Rail has never been grouped with other railways.	2
+1164	T1395	GW0	to be or not to be	The Broadgreen station opened in the Fall of 1830.	0
+1165	T1395	GW0	to be or not to be	Broadgreen is the busiest station in Liverpool.	1
+1166	T1395	GW0	to be or not to be	The pre-grouping and post-grouping of Broadgreen remained the same.	2
+1167	T1395	GW72	to be or not to be	Station code BGE is managed by Northern	0
+1168	T1395	GW72	to be or not to be	The station has always operated 2 stations	1
+1169	T1395	GW72	to be or not to be	Broadgreen was founded after 1830	2
+1170	T1404	GW1	to be or not to be	The last decade of the 20th century is when Kaya Scodelario was born.	0
+1171	T1404	GW1	to be or not to be	Kaya Scodelario has always been living in England.	1
+1172	T1404	GW1	to be or not to be	Kaya Scodelario's career has spanned more a decade and a half.	2
+1173	T1404	GW84	to be or not to be	Kaya Scodelario was born with a different last name.	0
+1174	T1404	GW84	to be or not to be	Kaya Scodelario started acting while living in London.	1
+1175	T1404	GW84	to be or not to be	Kaya Scodelario has been acting for over ten years.	2
+1176	T1404	GW4	to be or not to be	Kaya Scodelario began acting when they were 15.	0
+1177	T1404	GW4	to be or not to be	Kaya Scodelario has always lived in England.	1
+1178	T1404	GW4	to be or not to be	Kaya Scodelario has no children.	2
+1179	T1406	GW4	to be or not to be	Kazakh Khanate had the capital moved several times.	0
+1180	T1406	GW4	to be or not to be	Kazakh Khanate only practiced Islam.	1
+1181	T1406	GW4	to be or not to be	Kazakh Khanate lasted for over 500 years.	2
+1182	T1406	GW28	to be or not to be	Kazakh Khanate was a territory ruled by a monarch.	0
+1183	T1406	GW28	to be or not to be	Kazakh Khanate was a multi-ethnic islamic territory.	1
+1184	T1406	GW28	to be or not to be	Kazakh Khanate was established in the 14th century.	2
+1185	T1406	GW1	to be or not to be	Kazakh Khanate was disestablished at the turn of the 19th century.	0
+1186	T1406	GW1	to be or not to be	Kazakh Khanate always had a monarchy as it's government.	1
+1187	T1406	GW1	to be or not to be	Kazakh Khanate has had more than six different Capitals.	2
+1188	T1412	GW14	to be or not to be	Slave Labor Graphics published at least one monthly series.	0
+1189	T1412	GW14	to be or not to be	Each issue of Johnny the Homicidal Maniac sold more than the previous one.	1
+1190	T1412	GW14	to be or not to be	You can get a new issue of Johnny the Homicidal Maniac next month.	2
+1191	T1412	GW84	to be or not to be	Johnny the Homicidal Maniac came out once a month.	0
+1192	T1412	GW84	to be or not to be	Johnny the Homicidal Maniac ended when Johnny C. died.	1
+1193	T1412	GW84	to be or not to be	Johnny the Homicidal Maniac is a action comic.	2
+1194	T1412	GW4	to be or not to be	Johnny the Homicidal Maniac was produced in the 90s.	0
+1195	T1412	GW4	to be or not to be	Johnny the Homicidal Maniac was based on another comic.	1
+1196	T1412	GW4	to be or not to be	Johnny the Homicidal Maniac came out every week when it was produced.	2
+1197	T1435	GW14	to be or not to be	Kapil Sharma was wed in the 21st century.	0
+1198	T1435	GW14	to be or not to be	Kapil Sharma met his wife in his hometown of Amritsar.	1
+1199	T1435	GW14	to be or not to be	Kapil Sharma is old enough to collect social security.	2
+1200	T1435	GW28	to be or not to be	Kapil Sharma is a 21st century entertainer.	0
+1201	T1435	GW28	to be or not to be	Kapil Sharma is an English-speaking entertainer from India.	1
+1202	T1435	GW28	to be or not to be	Kapil Sharma has been active since his teens.	2
+1203	T1435	GW84	to be or not to be	Kapil Sharma is a newlywed.	0
+1204	T1435	GW84	to be or not to be	Kapil Sharma has lived in India all their life.	1
+1205	T1435	GW84	to be or not to be	Kapil Sharma has been married for several years.	2
+1206	T1436	GW1	to be or not to be	Kate Micucci's Birthday falls on the last day of the month.	0
+1207	T1436	GW1	to be or not to be	Kate Micucci was a comedian before she was a singer-songwriter.	1
+1208	T1436	GW1	to be or not to be	Kate Micucci has had a career for more than two decades.	2
+1209	T1436	GW84	to be or not to be	Kate Micucci got married when she was in her 30s.	0
+1210	T1436	GW84	to be or not to be	Kate Micucci lived on the east coast all her life.	1
+1211	T1436	GW84	to be or not to be	Kate Micucci has been performing since she was in her teens.	2
+1212	T1436	GW4	to be or not to be	Kate Micucci got married when they were 38 years old.	0
+1213	T1436	GW4	to be or not to be	Kate Micucci began singing before they became a comedian.	1
+1214	T1436	GW4	to be or not to be	Kate Micucci went to college in the same state they were born in.	2
+1215	T1440	GW1	to be or not to be	Keeping Up with the Joneses lost money at the box office compared to it's budget.	0
+1216	T1440	GW1	to be or not to be	Keeping Up with the Joneses was filmed entirely in 2016.	1
+1217	T1440	GW1	to be or not to be	Keeping Up with the Joneses takes over two hours to watch.	2
+1218	T1440	GW84	to be or not to be	Keeping Up with the Joneses lasts less than two hours.	0
+1219	T1440	GW84	to be or not to be	Keeping Up with the Joneses was the first film by Greg Mottola.	1
+1220	T1440	GW84	to be or not to be	Keeping Up with the Joneses made twice as much money in the box office as it was budgeted.	2
+1221	T1440	GW28	to be or not to be	Keeping Up with the Joneses took in less money than it cost to produce.	0
+1222	T1440	GW28	to be or not to be	Keeping Up with the Joneses was well received by critics but not audiences.	1
+1223	T1440	GW28	to be or not to be	Keeping Up with the Joneses was a low-budget independent movie.	2
+1224	T1443	GW1	to be or not to be	Karachi has a half dozen districts.	0
+1225	T1443	GW1	to be or not to be	Karachi has always been located in what is called Pakistan.	1
+1226	T1443	GW1	to be or not to be	The second decade of the 21st century is when Karachi was made a Metropolitan Corporation.	2
+1227	T1443	GW28	to be or not to be	Karachi is a city comprised of multiple districts.	0
+1228	T1443	GW28	to be or not to be	Karachi is the capital as well as the largest city in Pakistan.	1
+1229	T1443	GW28	to be or not to be	Karachi is a small village governed by village elders.	2
+1230	T1443	GW85	to be or not to be	Karachi is in Pakistan.	0
+1231	T1443	GW85	to be or not to be	There are only six districts in Karachi.	1
+1232	T1443	GW85	to be or not to be	Karachi is not a metropolitan area.	2
+1233	T1444	GW84	to be or not to be	Kasabian has been performing for over twenty years.	0
+1234	T1444	GW84	to be or not to be	Kasabian was first signed to RCA.	1
+1235	T1444	GW84	to be or not to be	Kasabian is a band from the US.	2
+1236	T1444	GW28	to be or not to be	Kasabian is an English rock band.	0
+1237	T1444	GW28	to be or not to be	Kasabian has won numerous awards for their music.	1
+1238	T1444	GW28	to be or not to be	Kasabian has only worked with smaller independent labels.	2
+1239	T1444	GW4	to be or not to be	Kasabian has been performing for over 20 years.	0
+1240	T1444	GW4	to be or not to be	Kasabian has recorded an album with Oasis.	1
+1241	T1444	GW4	to be or not to be	Kasabian is known for playing jazz music.	2
+1242	T1446	GW28	to be or not to be	Jennifer Aniston went to school in New York.	0
+1243	T1446	GW28	to be or not to be	Jennifer Aniston owns multiple businesses.	1
+1244	T1446	GW28	to be or not to be	Jennifer Aniston has been active since her early twenties.	2
+1245	T1446	GW74	to be or not to be	Jennifer  Aniston was at least 17 when she began her professional career.	0
+1246	T1446	GW74	to be or not to be	Jennifer  Aniston married Brad Pitt after her 31st birthday.	1
+1247	T1446	GW74	to be or not to be	Jennifer Aniston resides in a different state from where she was born.	2
+1248	T1446	GW1	to be or not to be	Jennifer Aniston's career has spanned more than three decades thus far.	0
+1249	T1446	GW1	to be or not to be	Jennifer Aniston has always lived in California.	1
+1250	T1446	GW1	to be or not to be	The Fall of 1969 is when Jennifer Aniston was born.	2
+1251	T1449	GW84	to be or not to be	Kareem Abdul-Jabbar went to college in the 1960s.	0
+1252	T1449	GW84	to be or not to be	Kareem Abdul-Jabbar won awards his rookie year in the NBA.	1
+1253	T1449	GW84	to be or not to be	Kareem Abdul-Jabbar played basketball for over four decades.	2
+1254	T1449	GW4	to be or not to be	Kareem Abdul-Jabbar was a first round pick for basketball.	0
+1255	T1449	GW4	to be or not to be	Kareem Abdul-Jabbar won the majority of the games he was in.	1
+1256	T1449	GW4	to be or not to be	Kareem Abdul-Jabbar played basketball professionally in the same state he went to high school.	2
+1257	T1449	GW28	to be or not to be	Kareem Abdul-Jabbar played as a center for thirty years.	0
+1258	T1449	GW28	to be or not to be	Kareem Abdul-Jabbar won championships with the Los Angeles Lakers.	1
+1259	T1449	GW28	to be or not to be	Kareem Abdul-Jabbar was drafted in his freshman year of college.	2
+1260	T1456	GW4	to be or not to be	Jupiter takes over 10 years to orbit the sun.	0
+1261	T1456	GW4	to be or not to be	Jupiter is the largest planet in the solar system.	1
+1262	T1456	GW4	to be or not to be	Jupiter has a very high eccentricity.	2
+1263	T1456	GW84	to be or not to be	Jupiter has more than a dozen known satellites.	0
+1264	T1456	GW84	to be or not to be	Scientists are still studying to find satellites of Jupiter.	1
+1265	T1456	GW84	to be or not to be	The orbital speed of Jupiter is less than 5 km/s.	2
+1266	T1456	GW1	to be or not to be	The inclination of Jupiter to the Sun's equator is greater than half a dozen degrees.	0
+1267	T1456	GW1	to be or not to be	More satellites were found orbiting Jupiter since 2018.	1
+1268	T1456	GW1	to be or not to be	The orbital period of Jupiter is more than 12 times as long as Earth's.	2
+1269	T1457	GW0	to be or not to be	Jimmy fallon has been performing for over twenty years.	0
+1270	T1457	GW0	to be or not to be	Jimmy Falon wrote his first book in 1998.	1
+1271	T1457	GW0	to be or not to be	Jimmy fallon has nenver been married.	2
+1272	T1457	GW84	to be or not to be	Jimmy Fallon attended college.	0
+1273	T1457	GW84	to be or not to be	Jimmy Fallon attended college in the 90s.	1
+1274	T1457	GW84	to be or not to be	Jimmy Fallon has been married for over twenty years.	2
+1275	T1457	GW1	to be or not to be	Jimmy Fallon's career has been going on for more than two decades.	0
+1276	T1457	GW1	to be or not to be	The mother of Jimmy Fallon's two children is Nancy Juvonen.	1
+1277	T1457	GW1	to be or not to be	Jimmy Fallon was birthed in the Summer of 1974.	2
+1278	T1464	GW84	to be or not to be	John James Rickard Macleod was in his fifties when he died.	0
+1279	T1464	GW84	to be or not to be	John James Rickard Macleod was at the top of his class when he attended the University of Aberdeen.	1
+1280	T1464	GW84	to be or not to be	John James Rickard Macleod died in a country outside of where he was born.	2
+1281	T1464	GW1	to be or not to be	John James Rickard Macleod, FRS faced death in the Spring of 1935.	0
+1282	T1464	GW1	to be or not to be	John James Rickard Macleod, FRS shared the Nobel Prize in Physiology or Medicine with the other co-discoverer(s) of insulin.	1
+1283	T1464	GW1	to be or not to be	John James Rickard Macleod, FRS was born early in the 19th century.	2
+1284	T1464	GW28	to be or not to be	John James Rickard Macleod, FRS was a British Nobel Prize winner.	0
+1285	T1464	GW28	to be or not to be	John James Rickard Macleod, FRS discovered insulin while still in university.	1
+1286	T1464	GW28	to be or not to be	The Nobel Prize was awarded to John James Rickard Macleod, FRS while in his twenties.	2
+1287	T1473	GW28	to be or not to be	Jimson Weed is a work of art created by a woman.	0
+1288	T1473	GW28	to be or not to be	Jimson Weed was Georgia O'keeffe's most famous artwork.	1
+1289	T1473	GW28	to be or not to be	Jimson Weed is a 19th century work of art.	2
+1290	T1473	GW68	to be or not to be	Jimson Weed is by a female artist and currently in Indiana.	0
+1291	T1473	GW68	to be or not to be	Jimson Weed was sold to the Indianpolis Museum of Art for two million dollars.	1
+1292	T1473	GW68	to be or not to be	The art piece Jimson Weed was made two years after Georgia O'Keeffe's death.	2
+1293	T1473	GW0	to be or not to be	Jimson Weed is located in the capital of Indiana.	0
+1294	T1473	GW0	to be or not to be	Jimson Weed was Georgia O'Keefe's first sold painting.	1
+1295	T1473	GW0	to be or not to be	Jimson Weed is wider than it is tall.	2
+1296	T1477	GW1	to be or not to be	The Summer of 1977 is when Kanye West was born.	0
+1297	T1477	GW1	to be or not to be	All of Kanye West's children have been conceived with Kim Kardashian.	1
+1298	T1477	GW1	to be or not to be	Kanye West is worth more than a third of a billion dollars.	2
+1299	T1477	GW84	to be or not to be	Kanye West has won several awards.	0
+1300	T1477	GW84	to be or not to be	All of Kanye West's children are for his wife, Kim.	1
+1301	T1477	GW84	to be or not to be	Kanye West was born in the same state in which he now lives.	2
+1302	T1477	GW4	to be or not to be	Kanye West has been performing for 23 years.	0
+1303	T1477	GW4	to be or not to be	Kanye West had all 3 of his children with Kim Kardashian.	1
+1304	T1477	GW4	to be or not to be	Kanye West is from New York City.	2
+1305	T1491	GW1	to be or not to be	Judith and the Head of Holofernes is less than a foot and a half wide at it's narrower point.	0
+1306	T1491	GW1	to be or not to be	The …sterreichische Galerie has Judith and the Head of Holofernes because it is on loan.	1
+1307	T1491	GW1	to be or not to be	Judith and the Head of Holofernes was painted at the end of the 19th century.	2
+1308	T1491	GW84	to be or not to be	Judith and the Head of Holofernes was painted in the 1900s.	0
+1309	T1491	GW84	to be or not to be	The painter of Judith and the Head of Holofernes was from Vienna.	1
+1310	T1491	GW84	to be or not to be	Judith and the Head of Holofernes is done in charcoal.	2
+1311	T1491	GW28	to be or not to be	Judith and the Head of Holofernes is a 20th century work of art.	0
+1312	T1491	GW28	to be or not to be	Gustav Klimt's favorite painting was Judith and the Head of Holofernes.	1
+1313	T1491	GW28	to be or not to be	Judith and the Head of Holofernes was painted on a massive canvas.	2
+1314	T1500	GW1	to be or not to be	The birth of John Napier happened right at the mid point of the 16th century.	0
+1315	T1500	GW1	to be or not to be	John Napier lived in Scotland his whole life.	1
+1316	T1500	GW1	to be or not to be	The Summer of 1617 was when John Napier died.	2
+1317	T1500	GW84	to be or not to be	John Napier was born and died in the same country.	0
+1318	T1500	GW84	to be or not to be	John Napier met Henry Briggs.	1
+1319	T1500	GW84	to be or not to be	John Napier did not attend college.	2
+1320	T1500	GW4	to be or not to be	John Napier helped develop math concepts.	0
+1321	T1500	GW4	to be or not to be	John Napier lived their whole life in Scotland.	1
+1322	T1500	GW4	to be or not to be	John Napier passed away when they were in their 50s.	2
+1323	T1502	GW1	to be or not to be	The Summer months of 1850 are when Karl Ferdinand Braun was born.	0
+1324	T1502	GW1	to be or not to be	Karl Ferdinand Braun's Nobel Prize in Physics was due to his work related to the cathode ray tube.	1
+1325	T1502	GW1	to be or not to be	Karl Ferdinand Braun died in the same century that he was born in.	2
+1326	T1502	GW84	to be or not to be	Karl Ferdinand Braun attended more than one university.	0
+1327	T1502	GW84	to be or not to be	Karl Ferdinand Braun only won one award.	1
+1328	T1502	GW84	to be or not to be	Karl Ferdinand Braun was born and died in the same country.	2
+1329	T1502	GW4	to be or not to be	Karl Ferdinand Braun wound up winning an award for their inventions.	0
+1330	T1502	GW4	to be or not to be	Karl Ferdinand Braun never got to see a TV.	1
+1331	T1502	GW4	to be or not to be	Karl Ferdinand Braun loved their entire life in Germany.	2
+1332	T1503	GW4	to be or not to be	Jim Belushi has had three wives.	0
+1333	T1503	GW4	to be or not to be	Jim Belushi had all three children with Jennifer Sloan.	1
+1334	T1503	GW4	to be or not to be	Jim Belushi began acting when they were 10.	2
+1335	T1503	GW28	to be or not to be	Jim Belushi is an entertainer.	0
+1336	T1503	GW28	to be or not to be	Jim Belushi is a twice-divorced father of three girls.	1
+1337	T1503	GW28	to be or not to be	Jim Belushi started his career in his teens.	2
+1338	T1503	GW86	to be or not to be	Jim Belushi has worked as an entertainer.	0
+1339	T1503	GW86	to be or not to be	Jim Belushi has a son.	1
+1340	T1503	GW86	to be or not to be	Jim Belushi was active in his listed occupations in the early 1970's.	2
+1341	T1508	GW0	to be or not to be	Josta lasted less than five years before being discontinued.	0
+1342	T1508	GW0	to be or not to be	Josta was PepsiCo's least sold soft drink during the 1990's.	1
+1343	T1508	GW0	to be or not to be	PepsiCo has never tried to make an energy soft drink.	2
+1344	T1508	GW1	to be or not to be	Josta was first made in the last 10 years of the 20th century.	0
+1345	T1508	GW1	to be or not to be	Josta is more like Jolt than Surge.	1
+1346	T1508	GW1	to be or not to be	Josta was still being made in the 21st century.	2
+1347	T1508	GW84	to be or not to be	Josta is a drink that was popular in the 1990s.	0
+1348	T1508	GW84	to be or not to be	People began to ban Josta in 1998.	1
+1349	T1508	GW84	to be or not to be	No one has been able to drink Josta since 1997	2
+1350	T1512	GW4	to be or not to be	John McCain had his first political victory in the 90s.	0
+1351	T1512	GW4	to be or not to be	John McCain was in office a few separate times.	1
+1352	T1512	GW4	to be or not to be	John McCain never went back into office after 2005.	2
+1353	T1512	GW28	to be or not to be	John McCain did multiple stints in office.	0
+1354	T1512	GW28	to be or not to be	John McCain was an American politician.	1
+1355	T1512	GW28	to be or not to be	John McCain served multiple times in office during the 20th century.	2
+1356	T1512	GW40	to be or not to be	John McCain spent two full years in office.	0
+1357	T1512	GW40	to be or not to be	John McCain was both preceded and succeeded by the same person, Ben Nighthorse Campbell.	1
+1358	T1512	GW40	to be or not to be	John McCain spent consecutive years in office beginning in 1995 and ending in 2007.	2
+1359	T1516	GW84	to be or not to be	Justice League Dark runs for over an hour.	0
+1360	T1516	GW84	to be or not to be	Justice League Dark is the only production Jay Oliva directs.	1
+1361	T1516	GW84	to be or not to be	Justice League Dark was released in the 1990s.	2
+1362	T1516	GW1	to be or not to be	Justice League Dark has a run time that is under 1.5 hours long.	0
+1363	T1516	GW1	to be or not to be	Ernie Altbacker came up with the story for Justice League Dark before J. M. DeMatteis started helping him.	1
+1364	T1516	GW1	to be or not to be	Justice League Dark was first released in the Summer of 2017.	2
+1365	T1516	GW4	to be or not to be	Justice League Dark had a story and screenplay by the same person.	0
+1366	T1516	GW4	to be or not to be	Justice League Dark made a profit at the box office.	1
+1367	T1516	GW4	to be or not to be	Justice League Dark had a team that wrote the music.	2
+1368	T1518	GW1	to be or not to be	The Summer of 1993 is when Jurassic Park first made it's premiere.	0
+1369	T1518	GW1	to be or not to be	Sam Neill wasn't originally supposed to star in Jurassic Park.	1
+1370	T1518	GW1	to be or not to be	Jurassic Park's run time is less than two hours.	2
+1371	T1518	GW84	to be or not to be	Jurassic Park was based on a book.	0
+1372	T1518	GW84	to be or not to be	Jurassic Park was released in countries other than the US in the same year.	1
+1373	T1518	GW84	to be or not to be	Jurassic Park runs for less than two hours.	2
+1374	T1518	GW28	to be or not to be	Jurassic Park was a novel turned Hollywood film.	0
+1375	T1518	GW28	to be or not to be	Jurassic Park was the highest grossing film of 1993.	1
+1376	T1518	GW28	to be or not to be	Jurassic Park was not profitable for the film studio.	2
+1377	T1534	GW4	to be or not to be	Joe Rogan got married when he was in his 40s.	0
+1378	T1534	GW4	to be or not to be	Joe Rogan had both his children with Jessica Ditzel.	1
+1379	T1534	GW4	to be or not to be	Joe Rogan began doing stand up when he was 16.	2
+1380	T1534	GW0	to be or not to be	Joe Rogan has been performing comedy for over thirty years.	0
+1381	T1534	GW0	to be or not to be	Joe Rogan's two daughters are named after his wife.	1
+1382	T1534	GW0	to be or not to be	Joe Rogan went to college on the west coast.	2
+1383	T1534	GW1	to be or not to be	Joe Rogan's career has been going strong for more than 30 years.	0
+1384	T1534	GW1	to be or not to be	The mother of both of Joe Rogan's children is Jessica Ditzel.	1
+1385	T1534	GW1	to be or not to be	Joe Rogan has been married for close to 15 years.	2
+1386	T1544	GW4	to be or not to be	Johnny Cash had two wives.	0
+1387	T1544	GW4	to be or not to be	Johnny Cash had all his children with June Carter.	1
+1388	T1544	GW4	to be or not to be	Johnny Cash uses the same name that he was born with.	2
+1389	T1544	GW84	to be or not to be	Johnny Cash was in his seventies when he died.	0
+1390	T1544	GW84	to be or not to be	Johnny Cash was with Sun Records before he was with Mercury.	1
+1391	T1544	GW84	to be or not to be	Johnny Cash was an only child.	2
+1392	T1544	GW1	to be or not to be	Johnny Cash was alive during two different centuries.	0
+1393	T1544	GW1	to be or not to be	All of Johnny Cash's children had the same biological mother.	1
+1394	T1544	GW1	to be or not to be	Johnny Cash had a career that spanned across more than five decades.	2
+1395	T1545	GW28	to be or not to be	Jim Mattis served in the military for 44 years.	0
+1396	T1545	GW28	to be or not to be	Jim Mattis led multiple commands of American marines to victory in the middle east.	1
+1397	T1545	GW28	to be or not to be	Jim Mattis was the head of the Joint Chiefs of Staff.	2
+1398	T1545	GW84	to be or not to be	Jim Mattis was in the US military.	0
+1399	T1545	GW84	to be or not to be	"Jim Mattis was best known as ""Mad Dog."""	1
+1400	T1545	GW84	to be or not to be	Jim Mattis served over fifty years in the military.	2
+1401	T1545	GW0	to be or not to be	Jim Mattis served in the military for over forty years.	0
+1402	T1545	GW0	to be or not to be	Jim Mattis lead the 1st Marine Division during the Iraq War.	1
+1403	T1545	GW0	to be or not to be	Jim Mattis is still currently active in the Marine Corps.	2
+1404	T1550	GW4	to be or not to be	J?rgen Skafte Rasmussen had four children.	0
+1405	T1550	GW4	to be or not to be	J?rgen Skafte Rasmussen always lived in Denmark.	1
+1406	T1550	GW4	to be or not to be	J?rgen Skafte Rasmussen was known for their business skills.	2
+1407	T1550	GW84	to be or not to be	J?rgen Skafte Rasmussen was born and died in the same country.	0
+1408	T1550	GW84	to be or not to be	J?rgen Skafte Rasmussen's children were all for his wife Theresie.	1
+1409	T1550	GW84	to be or not to be	J?rgen Skafte Rasmussen only worked as an Engineer.	2
+1410	T1550	GW1	to be or not to be	J?rgen Skafte Rasmussen had the same nationality of where he was born.	0
+1411	T1550	GW1	to be or not to be	J?rgen Skafte Rasmussen always lived in Denmark.	1
+1412	T1550	GW1	to be or not to be	J?rgen Skafte Rasmussen was married to Theresie Liebe.	2
+1413	T1557	GW1	to be or not to be	The East-West Jerusalem division occurred in Jerusalem near the turn of the 20th century.	0
+1414	T1557	GW1	to be or not to be	More people speak Hebrew than Arabic in Jerusalem.	1
+1415	T1557	GW1	to be or not to be	The Gihon Spring settlement (Jerusalem) lasted for over 225 years.	2
+1416	T1557	GW4	to be or not to be	Jerusalem split in the 1900s.	0
+1417	T1557	GW4	to be or not to be	Jerusalem has been a city for more than 5000 years.	1
+1418	T1557	GW4	to be or not to be	Jerusalem has one major language.	2
+1419	T1557	GW14	to be or not to be	East and West Jerusalem came back together less than a quarter century after it split.	0
+1420	T1557	GW14	to be or not to be	Many ancestors of the Gihon Spring settlement migrated to the City of David.	1
+1421	T1557	GW14	to be or not to be	Jerusalem's Old City walls were built after its Reunification.	2
+1422	T1562	GW84	to be or not to be	Jun-ichi Nishizawa worked at various universities.	0
+1423	T1562	GW84	to be or not to be	Jun-ichi Nishizawa was at Tohoku University for longer than Sophia University.	1
+1424	T1562	GW84	to be or not to be	Jun-ichi Nishizawa received the Edison Medal posthumously after death.	2
+1425	T1562	GW28	to be or not to be	The  IEEE Edison Medal was awarded to Jun-ichi Nishizawa in his 70s.	0
+1426	T1562	GW28	to be or not to be	Jun-ichi Nishizawa was a Japanese male scientist.	1
+1427	T1562	GW28	to be or not to be	Jun-ichi Nishizawa graduated from multiple universities.	2
+1428	T1562	GW1	to be or not to be	Jun-ichi Nishizawa had a career at the same University he went to school at.	0
+1429	T1562	GW1	to be or not to be	Both of Jun-ichi Nishizawa's awards were given to him in the 21st century.	1
+1430	T1562	GW1	to be or not to be	The Summer of 2018 is when Jun-ichi Nishizawa died.	2
+1431	T1580	GW1	to be or not to be	The Spring of 1979 was when Kate Hudson was born.	0
+1432	T1580	GW1	to be or not to be	Kate Hudson had all three of her children with Chris Robinson.	1
+1433	T1580	GW1	to be or not to be	Kate Hudson's marriage lasted longer than a decade.	2
+1434	T1580	GW84	to be or not to be	Kate Hudson is in her thirties.	0
+1435	T1580	GW84	to be or not to be	Kate Hudson's only full brother is Oliver.	1
+1436	T1580	GW84	to be or not to be	Kate Hudson was most recently married to Matthew.	2
+1437	T1580	GW4	to be or not to be	Kate Hudson has been acting since she was 17	0
+1438	T1580	GW4	to be or not to be	Kate Hudson had 3 children all with Matthew Bellamy.	1
+1439	T1580	GW4	to be or not to be	Kate Hudson does not have any famous parents.	2
+1440	T1586	GW1	to be or not to be	The distance to Kappa Coronae Borealis b is over 100 light years.	0
+1441	T1586	GW1	to be or not to be	Kappa Coronae Borealis b has always been considered a part of the Corona Borealis constellation.	1
+1442	T1586	GW1	to be or not to be	Kappa Coronae Borealis b has an apparent magnitude over 5.	2
+1443	T1586	GW28	to be or not to be	Kappa Coronae Borealis b is a celestial object.	0
+1444	T1586	GW28	to be or not to be	Kappa Coronae Borealis b was discovered by a Greek astronomer.	1
+1445	T1586	GW28	to be or not to be	Kappa Coronae Borealis b is a few light years from Earth.	2
+1446	T1586	GW4	to be or not to be	Kappa Coronae Borealis b is over 100 light years away.	0
+1447	T1586	GW4	to be or not to be	Kappa Coronae Borealis b is larger than the sun.	1
+1448	T1586	GW4	to be or not to be	Kappa Coronae Borealis b is part of the Little Dipper constellation.	2
+1449	T1592	GW4	to be or not to be	Joy was able to net a profit at the box office.	0
+1450	T1592	GW4	to be or not to be	David O. Russell was involved in every aspect of the film Joy.	1
+1451	T1592	GW4	to be or not to be	The film Joy was released by Disney.	2
+1452	T1592	GW40	to be or not to be	Joy was produced by John Davis, Megan Ellison, Jonathan Gordon, Ken Mok, and David O. Russell.	0
+1453	T1592	GW40	to be or not to be	Joy's screenplay was written by David O. Russell, who is also a producer.	1
+1454	T1592	GW40	to be or not to be	Joy is a film that didn't include any kind of music in it.	2
+1455	T1592	GW28	to be or not to be	Joy is an American movie starring well-known American actors.	0
+1456	T1592	GW28	to be or not to be	Joy was released in December to be eligible for Oscar contention in 2015.	1
+1457	T1592	GW28	to be or not to be	The film was not profitable for 20th Century Fox	2
+1458	T1598	GW28	to be or not to be	Judy was a dog and mascot of the Royal Navy.	0
+1459	T1598	GW28	to be or not to be	Judy visited multiple countries while serving in the Royal Navy.	1
+1460	T1598	GW28	to be or not to be	Judy was a commissioned officer while in the Royal Navy.	2
+1461	T1598	GW1	to be or not to be	Judy was active as a ship's mascot for over a dozen years.	0
+1462	T1598	GW1	to be or not to be	Judy got the Dickin Medal near the dog's death.	1
+1463	T1598	GW1	to be or not to be	Judy died in the Fall of 1950.	2
+1464	T1598	GW40	to be or not to be	Judy was a Pointer dog that was also a mascot for the Royal Navy.	0
+1465	T1598	GW40	to be or not to be	Judy received an award for being a member of the Royal Navy.	1
+1466	T1598	GW40	to be or not to be	Judy was known as a Chinese Prisoner of war.	2
+1467	T1600	GW28	to be or not to be	K?roly Zipernowsky was born in 19th century Vienna.	0
+1468	T1600	GW28	to be or not to be	K?roly Zipernowsky studied electrical engineering at University.	1
+1469	T1600	GW28	to be or not to be	K?roly Zipernowsky died where he was born.	2
+1470	T1600	GW40	to be or not to be	K?roly Zipernowsky was born as Carl Zipernowsky in 1853.	0
+1471	T1600	GW40	to be or not to be	K?roly Zipernowsky's nationality is Hungarian and Austrian.	1
+1472	T1600	GW40	to be or not to be	K?roly Zipernowsky didn't go to school to become an engineer.	2
+1473	T1600	GW84	to be or not to be	K?roly Zipernowsky was known by another name.	0
+1474	T1600	GW84	to be or not to be	K?roly Zipernowsky was the top of his class at the Technical University of Budapest.	1
+1475	T1600	GW84	to be or not to be	K?roly Zipernowsky was over one hundred years old when he died.	2
+1476	T1601	GW4	to be or not to be	Jimmy Eat World is from the state of Arizona.	0
+1477	T1601	GW4	to be or not to be	The band Jimmy Eat World has continued touring to this day.	1
+1478	T1601	GW4	to be or not to be	The band Jimmy Eat World has only been on 2 labels over their music career.	2
+1479	T1601	GW28	to be or not to be	Emo pop group, Jimmy Eat World is from the southwest United States.	0
+1480	T1601	GW28	to be or not to be	They've won many awards throughout their long career.	1
+1481	T1601	GW28	to be or not to be	Jimmy Eat World have largely been loyal to their original label.	2
+1482	T1601	GW1	to be or not to be	Jimmy Eat World has been making music for more than 25 years.	0
+1483	T1601	GW1	to be or not to be	Jimmy Eat World made more music on the Capitol label than Dreamworks.	1
+1484	T1601	GW1	to be or not to be	Jimmy Eat World was started in the South Eastern part of the US.	2
+1485	T1612	GW1	to be or not to be	Johann Nikolaus von Dreyse was born in the last couple of decades of the 18th century.	0
+1486	T1612	GW1	to be or not to be	Johann Nikolaus von Dreyse was an entrepreneur prior to being an inventor.	1
+1487	T1612	GW1	to be or not to be	Johann Nikolaus von Dreyse died in the Summer of 1867.	2
+1488	T1612	GW14	to be or not to be	Johann Nikolaus von Dreyse died in his city of birth.	0
+1489	T1612	GW14	to be or not to be	Johann Nikolaus von Dreyse invented more than one object.	1
+1490	T1612	GW14	to be or not to be	Johann Nikolaus von Dreyse was never on the European continent.	2
+1491	T1612	GW84	to be or not to be	Johann Nikolaus von Dreyse was born and died in the same city.	0
+1492	T1612	GW84	to be or not to be	Johann Nikolaus von Dreyse's only invention was the needle gun.	1
+1493	T1612	GW84	to be or not to be	Johann Nikolaus von Dreyse was Prussian.	2
+1494	T1614	GW84	to be or not to be	John Paul Getty III was known for being taken away from his family.	0
+1495	T1614	GW84	to be or not to be	John Paul Getty III was kidnapped while playing in a park.	1
+1496	T1614	GW84	to be or not to be	John Paul Getty III was born in the early part of the 1900s.	2
+1497	T1614	GW28	to be or not to be	John Paul Getty III was kidnapped during his lifetime.	0
+1498	T1614	GW28	to be or not to be	He was named after his paternal grandfather.	1
+1499	T1614	GW28	to be or not to be	John Paul Getty III married in his twenties.	2
+1500	T1614	GW14	to be or not to be	There are 3 males with the same name in John Paul Getty's family.	0
+1501	T1614	GW14	to be or not to be	Balthazar Getty was born in the United Kingdom.	1
+1502	T1614	GW14	to be or not to be	John Paul Getty III died within 100 miles of his birthplace.	2
+1503	T1618	GW28	to be or not to be	Jupiter and Io is a 16th century work of art.	0
+1504	T1618	GW28	to be or not to be	Jupiter and Io was Antonio da Correggio's final work.	1
+1505	T1618	GW28	to be or not to be	Jupiter and Io is housed in a private collection.	2
+1506	T1618	GW79	to be or not to be	Jupiter and lo, an oil painting at the Kunsthistorisches Museum, is a work from the 16th century.	0
+1507	T1618	GW79	to be or not to be	The painting, Jupiter and lo, is on display at the Kunsthistorisches Museum.	1
+1508	T1618	GW79	to be or not to be	The painting, Jupiter and lo, is a fine example of watercolors.	2
+1509	T1618	GW1	to be or not to be	At it's widest point, Jupiter and Io was more than five feet long.	0
+1510	T1618	GW1	to be or not to be	Jupiter and Io is on loan to the Kunsthistorisches Museum.	1
+1511	T1618	GW1	to be or not to be	Jupiter and Io took half a decade to paint.	2
+1512	T1626	GW40	to be or not to be	Jim Croce, also known as James Joseph Croce, is a singer and songwriter.	0
+1513	T1626	GW40	to be or not to be	Jim Croce grew up in South Philadelphia, Pennsylvania, U.S.	1
+1514	T1626	GW40	to be or not to be	Jim Croce is still going strong in 2019 and hasn't given up his love of music.	2
+1515	T1626	GW85	to be or not to be	Jim Croce is a singer who lived a very short life.	0
+1516	T1626	GW85	to be or not to be	Jim Croce is from PA and was born and raised there.	1
+1517	T1626	GW85	to be or not to be	Jim Croce was 56 when he died.	2
+1518	T1626	GW1	to be or not to be	Jim Croce only lived for three decades.	0
+1519	T1626	GW1	to be or not to be	Jim Croce made more music on the ABC label than on Saja/ Atlantic.	1
+1520	T1626	GW1	to be or not to be	Jim Croce was born in the Summer of 1943.	2
+1521	T1635	GW1	to be or not to be	Kauto Star won over half the races it ran.	0
+1522	T1635	GW1	to be or not to be	Kauto Star only ever competed in races in France.	1
+1523	T1635	GW1	to be or not to be	The Spring of 2015 is when Kauto Star died.	2
+1524	T1635	GW4	to be or not to be	Kauto Star was able to win the majority of their races.	0
+1525	T1635	GW4	to be or not to be	Kauto Star was able to profit for their owners.	1
+1526	T1635	GW4	to be or not to be	Kauto Star passed away when they were ten years old.	2
+1527	T1635	GW28	to be or not to be	Kauto Star was a French male racehorse	0
+1528	T1635	GW28	to be or not to be	Kauto Star died due to old age.	1
+1529	T1635	GW28	to be or not to be	Kauto Star sired man offspring after his retirement.	2
+1530	T1656	GW84	to be or not to be	Karen Gillan has been in the business for over ten years.	0
+1531	T1656	GW84	to be or not to be	Karen Gillan graduated with honors from Italia Conti Academy of Theatre Arts.	1
+1532	T1656	GW84	to be or not to be	Karen Gillan is a performer in her late 30s.	2
+1533	T1656	GW28	to be or not to be	Karen Gillan is a female UK actress.	0
+1534	T1656	GW28	to be or not to be	Karen Gillan speaks English and Italian.	1
+1535	T1656	GW28	to be or not to be	Karen Gillan has been active since her twenties.	2
+1536	T1656	GW31	to be or not to be	Karen Gillan studied acting at the Italia Conti Academy of Theatre Arts and has been acting since 2006.	0
+1537	T1656	GW31	to be or not to be	Karen Gillan directed and wrote many of the films she appeared in since 2006.	1
+1538	T1656	GW31	to be or not to be	Karen Gillan has now been acting for fifty years and writing plays for twenty years.	2
+1539	T1659	GW1	to be or not to be	The Australian release of Jungle was late in 2017.	0
+1540	T1659	GW1	to be or not to be	Jungle made more money in Colombia than Australia.	1
+1541	T1659	GW1	to be or not to be	The movie Jungle has a run time over two hours long.	2
+1542	T1659	GW4	to be or not to be	The movie Jungle had music written by one person.	0
+1543	T1659	GW4	to be or not to be	The film Jungle made a profit at the box office.	1
+1544	T1659	GW4	to be or not to be	The movie Jungle had the same screenwriter and director.	2
+1545	T1659	GW14	to be or not to be	Jungle was filmed on two continents.	0
+1546	T1659	GW14	to be or not to be	Jungle was watched by more Australians than Colombians.	1
+1547	T1659	GW14	to be or not to be	Jungle had two premieres in different locations during the same week.	2
+1548	T1664	GW84	to be or not to be	Jessie J has been performing for over ten years.	0
+1549	T1664	GW84	to be or not to be	Jessie J was signed by Island before signing with Gut.	1
+1550	T1664	GW84	to be or not to be	Jessie J only performs pop music.	2
+1551	T1664	GW1	to be or not to be	Jessie J has had an active career for over a decade.	0
+1552	T1664	GW1	to be or not to be	Jessie J was a songwriter before being a professional singer.	1
+1553	T1664	GW1	to be or not to be	Jessie J was born in the Summer of 1988.	2
+1554	T1664	GW28	to be or not to be	Jessie J is an English singer.	0
+1555	T1664	GW28	to be or not to be	Jessie J has won many awards for her music.	1
+1556	T1664	GW28	to be or not to be	Jessie J started her career in her twenties.	2
+1557	T1665	GW1	to be or not to be	Julian Assange was married for over a decade in his first marriage.	0
+1558	T1665	GW1	to be or not to be	All of Julian Assange's children have the same woman as their biological mother.	1
+1559	T1665	GW1	to be or not to be	The career of Julian Assange has been going for more than three decades.	2
+1560	T1665	GW0	to be or not to be	Julian Assange attended three universities in his home country.	0
+1561	T1665	GW0	to be or not to be	Julian Assange has four children with his ex-wife, Teresa Doe.	1
+1562	T1665	GW0	to be or not to be	Julian Assange resides in a country in which he is a citizen of.	2
+1563	T1665	GW84	to be or not to be	Julian Assange won more awards in 2015 than he did in 2008.	0
+1564	T1665	GW84	to be or not to be	Julian Assange has lived in Australia all his life.	1
+1565	T1665	GW84	to be or not to be	Julian Assange became active after he got married.	2
+1566	T1668	GW1	to be or not to be	Jerusalem is close to two thirds Jewish in population.	0
+1567	T1668	GW1	to be or not to be	Jerusalem has observed daylight savings time since it originally became a thing.	1
+1568	T1668	GW1	to be or not to be	Population wise, is made up of about half Arab people.	2
+1569	T1668	GW28	to be or not to be	Jerusalem is comprised of mainly Jewish people.	0
+1570	T1668	GW28	to be or not to be	Jerusalem is a multi-ethnic, multi-faith country.	1
+1571	T1668	GW28	to be or not to be	Christians comprise a big part of the population of Jerusalem.	2
+1572	T1668	GW86	to be or not to be	The majority of the population of Jerusalem consists of Jews.	0
+1573	T1668	GW86	to be or not to be	The most commonly spoken language in Jerusalem is Hebrew.	1
+1574	T1668	GW86	to be or not to be	Half of the population of Jerusalem is Arab.	2
+1575	T1677	GW4	to be or not to be	Johannes Gutenberg made it easier for people to print things.	0
+1576	T1677	GW4	to be or not to be	Johannes Gutenberg lived their whole life in the Holy Roman Empire.	1
+1577	T1677	GW4	to be or not to be	Johannes Gutenberg was punished for the work they did.	2
+1578	T1677	GW28	to be or not to be	Johannes Gutenberg lived during the rule of the Holy Roman Empire.	0
+1579	T1677	GW28	to be or not to be	Johannes Gutenberg became rich from his inventions.	1
+1580	T1677	GW28	to be or not to be	Johannes Gutenberg lived in the 14th century.	2
+1581	T1677	GW1	to be or not to be	Johannes Gutenberg was born about the turn of the 15th century.	0
+1582	T1677	GW1	to be or not to be	Johannes Gutenberg was a printer before he was an inventor.	1
+1583	T1677	GW1	to be or not to be	Johannes Gutenberg died in the Fall of 1468.	2
+1584	T1688	GW4	to be or not to be	John Cyril Porte served more than once in the military.	0
+1585	T1688	GW4	to be or not to be	John Cyril Porte was able to fly across the Atlantic ocean more than once.	1
+1586	T1688	GW4	to be or not to be	John Cyril Porte lived their entire life in Ireland.	2
+1587	T1688	GW6	to be or not to be	John Cyril Porte died in a different country than where he was born.	0
+1588	T1688	GW6	to be or not to be	John Cyril Porte died while still being active in the military.	1
+1589	T1688	GW6	to be or not to be	John Cyril Porte served in two World Wars.	2
+1590	T1688	GW1	to be or not to be	John Cyril Porte lived in two different centuries.	0
+1591	T1688	GW1	to be or not to be	John Cyril Porte was given the Order of St Michael and St George Navy Distinguished Service Medal posthumously.	1
+1592	T1688	GW1	to be or not to be	John Cyril Porte served over two decades in the military.	2
+1593	T1690	GW0	to be or not to be	Jinder Mahal has been professionally wrestling for over fifteen years.	0
+1594	T1690	GW0	to be or not to be	Jinder Mahal changed his ring name from Tiger Raj Singh early on in his career.	1
+1595	T1690	GW0	to be or not to be	Jinder Mahal weighs more in kilos than his total height in centimeters.	2
+1596	T1690	GW28	to be or not to be	Jinder Mahal is above average in height and in weight for most human beings.	0
+1597	T1690	GW28	to be or not to be	Jinder Mahal is an Indian professional fighter.	1
+1598	T1690	GW28	to be or not to be	Jinder Mahal is a neophyte in the ring.	2
+1599	T1690	GW86	to be or not to be	Jinder Mahal has been known by multiple ring names.	0
+1600	T1690	GW86	to be or not to be	Jinder Mahal lives in Punjab, India.	1
+1601	T1690	GW86	to be or not to be	Jinder Mahal made his debut in the 1990s.	2
+1602	T1692	GW4	to be or not to be	John Wayne Gacy was killed by the state.	0
+1603	T1692	GW4	to be or not to be	John Wayne Gacy had children with his first wife.	1
+1604	T1692	GW4	to be or not to be	John Wayne Gacy died when they were 40.	2
+1605	T1692	GW68	to be or not to be	John Wayne Gacy was not married when he was 29 years old.	0
+1606	T1692	GW68	to be or not to be	John Wayne Gacy had two children with Marlynn Myers.	1
+1607	T1692	GW68	to be or not to be	He got a divorce after he was convicted.	2
+1608	T1692	GW84	to be or not to be	John Wayne Gacy died more than ten years after being convicted.	0
+1609	T1692	GW84	to be or not to be	John Wayne Gacy tried to appeal his convictions.	1
+1610	T1692	GW84	to be or not to be	John Wayne Gacy died from natural causes.	2
+1611	T1696	GW0	to be or not to be	Jethro Tull took a five year hiatus during the 2010's.	0
+1612	T1696	GW0	to be or not to be	Jethro Tull played many tour concerts with Wild Turkey in the 1970's.	1
+1613	T1696	GW0	to be or not to be	Jethro Tull were founded in North America twenty years ago.	2
+1614	T1696	GW1	to be or not to be	Jethro Tull is a British band.	0
+1615	T1696	GW1	to be or not to be	Jethro Tull made music on the Eagle label before ever making music with EMI.	1
+1616	T1696	GW1	to be or not to be	Jethro Tull has made music in six different decades.	2
+1617	T1696	GW4	to be or not to be	Jethro Tull took a break in their career.	0
+1618	T1696	GW4	to be or not to be	Jethro Tull played hard rock before they got into folk rock.	1
+1619	T1696	GW4	to be or not to be	Jethro Tull has only been on one label.	2
+1620	T1702	GW4	to be or not to be	Kas was originally made in Europe.	0
+1621	T1702	GW4	to be or not to be	Kas comes in many classic soda flavors.	1
+1622	T1702	GW4	to be or not to be	Kas came out over 60 years ago.	2
+1623	T1702	GW1	to be or not to be	Kas was introduced within 10 years of the turn of the 20th century.	0
+1624	T1702	GW1	to be or not to be	Kas was only sold in Spain.	1
+1625	T1702	GW1	to be or not to be	Kas came in over 10 flavours.	2
+1626	T1702	GW28	to be or not to be	Kas is a Spanish soft drink.	0
+1627	T1702	GW28	to be or not to be	Kas is PepsiCo's biggest seller in Spain.	1
+1628	T1702	GW28	to be or not to be	PepsiCo has stuck to its original formula for Kas with no changes.	2
+1629	T1706	GW1	to be or not to be	Jeff Lynne has been active as a musician in more than one century.	0
+1630	T1706	GW1	to be or not to be	Jeff Lynne was producing records before he was actually a musician himself.	1
+1631	T1706	GW1	to be or not to be	The Birthday of Jeff Lynne falls in the Summer.	2
+1632	T1706	GW4	to be or not to be	Jeff Lynne has had more than one stage name.	0
+1633	T1706	GW4	to be or not to be	Jeff Lynne has recorded on an album with The Beatles.	1
+1634	T1706	GW4	to be or not to be	Jeff Lynne has stayed with Sony BMG their whole career.	2
+1635	T1706	GW84	to be or not to be	Jeff Lynne went by several different names.	0
+1636	T1706	GW84	to be or not to be	Jeff Lynne was with Harvest records before he was with Epic.	1
+1637	T1706	GW84	to be or not to be	Jeff Lynne is a musician in his eighties.	2
+1638	T1713	GW1	to be or not to be	John Cho was born in the Summer of 1972.	0
+1639	T1713	GW1	to be or not to be	The mother of both of John Cho's kids is Kerri Higuchi.	1
+1640	T1713	GW1	to be or not to be	John Cho has been acting for more than two and a half decades.	2
+1641	T1713	GW28	to be or not to be	John Cho was born in the 20th century.	0
+1642	T1713	GW28	to be or not to be	John Cho is married with two daughters.	1
+1643	T1713	GW28	to be or not to be	John Cho has been active since his teens.	2
+1644	T1713	GW84	to be or not to be	John Cho has been married for over ten years.	0
+1645	T1713	GW84	to be or not to be	John Cho graduated from UC Berkley in the 1990s.	1
+1646	T1713	GW84	to be or not to be	John Cho began his career right out of high school, skipping college.	2
+1647	T1728	GW28	to be or not to be	Kaput and Zšsky: The Ultimate Obliterators is an entertainment production.	0
+1648	T1728	GW28	to be or not to be	Kaput and Zšsky: The Ultimate Obliterators is a cartoon for kids.	1
+1649	T1728	GW28	to be or not to be	Kaput and Zšsky: The Ultimate Obliterators is produced and distributed by the same company.	2
+1650	T1728	GW1	to be or not to be	Kaput and Zšsky: The Ultimate Obliterators takes about a half an hour to watch.	0
+1651	T1728	GW1	to be or not to be	Paul Cabieux did more production work on Kaput and Zšsky: The Ultimate Obliterators than Philippe Delarue.	1
+1652	T1728	GW1	to be or not to be	Kaput and Zšsky: The Ultimate Obliterators had a handful of distributors.	2
+1653	T1728	GW4	to be or not to be	Kaput and Zšsky: The Ultimate Obliterators was produced by two people.	0
+1654	T1728	GW4	to be or not to be	Kaput and Zšsky: The Ultimate Obliterators ran on basic cable.	1
+1655	T1728	GW4	to be or not to be	Kaput and Zšsky: The Ultimate Obliterators had only one production company.	2
+1656	T1730	GW0	to be or not to be	Jon Hamm graduated from the University of his home state.	0
+1657	T1730	GW0	to be or not to be	Jon Hamm graduated with a bachelor's degree in business.	1
+1658	T1730	GW0	to be or not to be	Jon Hamm and Jennifer Westfeldt married before Hamm began acting.	2
+1659	T1730	GW1	to be or not to be	Jon Hamm graduated from college.	0
+1660	T1730	GW1	to be or not to be	Jon Hamm was a producer before he was an actor.	1
+1661	T1730	GW1	to be or not to be	Jon Hamm has been active for more than 25 years.	2
+1662	T1730	GW28	to be or not to be	Jon Hamm is a middle-aged actor.	0
+1663	T1730	GW28	to be or not to be	Jon Hamm has won awards for his acting roles.	1
+1664	T1730	GW28	to be or not to be	Jon Hamm has been active since his teens.	2
+1665	T1768	GW86	to be or not to be	Iced Earth's style has been characterized as more than one genre.	0
+1666	T1768	GW86	to be or not to be	Iced Earth is currently based in Tampa, Florida.	1
+1667	T1768	GW86	to be or not to be	Iced Earth has been signed with their current label for over a decade.	2
+1668	T1768	GW84	to be or not to be	Iced Earth also had two other names.	0
+1669	T1768	GW84	to be or not to be	Iced Earth was more popular in the 1980s.	1
+1670	T1768	GW84	to be or not to be	Iced Earth stopped performing in the 1990s.	2
+1671	T1768	GW85	to be or not to be	Iced Earth is a power metal band.	0
+1672	T1768	GW85	to be or not to be	Iced Earth is been around since the 80's	1
+1673	T1768	GW85	to be or not to be	Iced Earth is not played now	2
+1674	T1784	GW84	to be or not to be	Interior is currently in an American museum.	0
+1675	T1784	GW84	to be or not to be	Interior has been in Philadelphia for over twenty years.	1
+1676	T1784	GW84	to be or not to be	Interior was painted in the last fifty years.	2
+1677	T1784	GW28	to be or not to be	Interior is a 19th century work of art.	0
+1678	T1784	GW28	to be or not to be	Interior was Edgar Degas' final work.	1
+1679	T1784	GW28	to be or not to be	Interior is a painted mural.	2
+1680	T1784	GW86	to be or not to be	Interior was completed in the 18th century.	0
+1681	T1784	GW86	to be or not to be	Interior took Degas 12 months to complete.	1
+1682	T1784	GW86	to be or not to be	Interior is a watercolor painting.	2
+1683	T1788	GW28	to be or not to be	Issa Album was a collaborative effort between multiple hip-hop producers.	0
+1684	T1788	GW28	to be or not to be	Issa Album won many awards for its music.	1
+1685	T1788	GW28	to be or not to be	Issa Album was produced solely by Wheezy.	2
+1686	T1788	GW84	to be or not to be	Issa Album was released less than three years ago.	0
+1687	T1788	GW84	to be or not to be	Issa Album was first signed to Epic.	1
+1688	T1788	GW84	to be or not to be	Issa Album runs for over an hour.	2
+1689	T1788	GW86	to be or not to be	Issa Album was released in the summer of 2017.	0
+1690	T1788	GW86	to be or not to be	Issa Album features songs by multiple musical artists.	1
+1691	T1788	GW86	to be or not to be	Issa Album is over an hour long.	2
+1692	T1791	GW4	to be or not to be	Huddersfield Ben was alive for six years.	0
+1693	T1791	GW4	to be or not to be	Huddersfield Ben was bred by their owner.	1
+1694	T1791	GW4	to be or not to be	Huddersfield Ben was a labrador retriever.	2
+1695	T1791	GW93	to be or not to be	Huddersfield Ben was a Yorkshire Terrier.	0
+1696	T1791	GW93	to be or not to be	Huddersfield Ben won the most awards for a Yorkshire Terrier.	1
+1697	T1791	GW93	to be or not to be	Huddersfield Ben was born in the 18th century.	2
+1698	T1791	GW85	to be or not to be	Huddersfield Ben is a type of terrier.	0
+1699	T1791	GW85	to be or not to be	Huddersfield Ben is a very popular show breed	1
+1700	T1791	GW85	to be or not to be	Huddersfield Ben is a name for a mut.	2
+1701	T1819	GW28	to be or not to be	Hugo is a multi-national film starring well-known Hollywood actors.	0
+1702	T1819	GW28	to be or not to be	Hugo is won praise from critics and fans alike.	1
+1703	T1819	GW28	to be or not to be	Hugo stars a largely unknown cast.	2
+1704	T1819	GW85	to be or not to be	Hugo is based on The Invention of Hugo Cabret	0
+1705	T1819	GW85	to be or not to be	Hugo is an english movie.	1
+1706	T1819	GW85	to be or not to be	Hugo was a big flop	2
+1707	T1819	GW93	to be or not to be	Hugo has a running time of 126 minutes.	0
+1708	T1819	GW93	to be or not to be	Hugo was the largest box office grossing film in November 2011.	1
+1709	T1819	GW93	to be or not to be	Hugo was originally in French.	2
+1710	T1847	GW28	to be or not to be	Jack Antonoff has been active since his teens.	0
+1711	T1847	GW28	to be or not to be	Jack Antonoff is a self-taught guitar and piano player.	1
+1712	T1847	GW28	to be or not to be	Jack Antonoff has performed with smaller acts.	2
+1713	T1847	GW84	to be or not to be	Jack Antonoff was born in the spring.	0
+1714	T1847	GW84	to be or not to be	Jack Antonoff learned to play the guitar before the drums.	1
+1715	T1847	GW84	to be or not to be	Jack Antonoff has been performing for over twenty years.	2
+1716	T1847	GW85	to be or not to be	Jack Antonoff was born in NJ	0
+1717	T1847	GW85	to be or not to be	Jack Antonoff is involved in music.	1
+1718	T1847	GW85	to be or not to be	Jack Antonoff is not anyone special.	2
+1719	T1861	GW84	to be or not to be	Iceland was settled over a thousand years ago.	0
+1720	T1861	GW84	to be or not to be	The constitution for Iceland was written over a hundred years ago.	1
+1721	T1861	GW84	to be or not to be	Iceland became a republic over a hundred years ago.	2
+1722	T1861	GW93	to be or not to be	Iceland got sovereignty in 1904.	0
+1723	T1861	GW93	to be or not to be	Iceland is more densely populated than Greenland.	1
+1724	T1861	GW93	to be or not to be	Iceland became a republic in 1954.	2
+1725	T1861	GW28	to be or not to be	Iceland has been inhabited for over a millenia.	0
+1726	T1861	GW28	to be or not to be	Iceland has not ben involved in conflict.	1
+1727	T1861	GW28	to be or not to be	Iceland is a constitutional monarchy.	2
+1728	T1875	GW4	to be or not to be	Identity Crisis was only ran in one year.	0
+1729	T1875	GW4	to be or not to be	Identity Crisis was a series that won awards.	1
+1730	T1875	GW4	to be or not to be	Identity Crisis was released by Marvel comics.	2
+1731	T1875	GW28	to be or not to be	Identity Crisis was a monthly publication from DC Comics.	0
+1732	T1875	GW28	to be or not to be	Identity Crisis became a collector's item.	1
+1733	T1875	GW28	to be or not to be	Identity Crisis is a monthly series with an indefinite run.	2
+1734	T1875	GW93	to be or not to be	Identity Crisis was published by DC Comics.	0
+1735	T1875	GW93	to be or not to be	Green Arrow appeared more than Batman in Identity Crisis.	1
+1736	T1875	GW93	to be or not to be	There was only one issue of Identity Crisis.	2
+1737	T1882	GW28	to be or not to be	Jack of Fables was a monthly comic book series.	0
+1738	T1882	GW28	to be or not to be	Jack of Fables became a collector's item.	1
+1739	T1882	GW28	to be or not to be	Jack of Fables published weekly for six years.	2
+1740	T1882	GW85	to be or not to be	Jack of Fables is a comic series	0
+1741	T1882	GW85	to be or not to be	It has 50 issues	1
+1742	T1882	GW85	to be or not to be	it is still being produced today	2
+1743	T1882	GW93	to be or not to be	Jack of Fables is published on a monthly schedule.	0
+1744	T1882	GW93	to be or not to be	Jack of Fables gained popularity with its 10th issue.	1
+1745	T1882	GW93	to be or not to be	Jack of Fables is a limited series.	2
+1746	T1888	GW93	to be or not to be	Robin Estanislau is the city clerk in Huntington Beach, California.	0
+1747	T1888	GW93	to be or not to be	Patrick Brenden is the second in command in Huntington Beach, California.	1
+1748	T1888	GW93	to be or not to be	Huntington Beach, California has no city manager.	2
+1749	T1888	GW85	to be or not to be	Huntington Beach, California's city clerk is Robin Estanislau	0
+1750	T1888	GW85	to be or not to be	Huntington Beach, California has its own council.	1
+1751	T1888	GW85	to be or not to be	Huntington Beach, California is not big enough for a city attorny	2
+1752	T1888	GW69	to be or not to be	Huntinyon Beach council has seven members.	0
+1753	T1888	GW69	to be or not to be	City attorney of Huntington Beach is an elected position while City treasurer of Huntington Beach is an appointed position.	1
+1754	T1888	GW69	to be or not to be	City council of Huntington Beach, California includes City attorney and City treasurer.	2
+1755	T1917	GW85	to be or not to be	Republic of Iraq is in Federal parliamentary republic	0
+1756	T1917	GW85	to be or not to be	Mohamed al-Halbousi is the Speakers of the Council of Representatives for Republic of Iraq	1
+1757	T1917	GW85	to be or not to be	Republic of Iraq is USA territory	2
+1758	T1917	GW84	to be or not to be	People speak two main languages in Republic of Iraq.	0
+1759	T1917	GW84	to be or not to be	Republic of Iraq's president has been in office for five years.	1
+1760	T1917	GW84	to be or not to be	The speaker and chief justice of Republic of Iraq are the same person.	2
+1761	T1917	GW28	to be or not to be	Baghdad is located in the Republic of Iraq.	0
+1762	T1917	GW28	to be or not to be	Republic of Iraq has a Christian minority population.	1
+1763	T1917	GW28	to be or not to be	The President and Prime Minister of the Republic of Iraq are the same person.	2
+1764	T1918	GW84	to be or not to be	Hypatia died in the spring time.	0
+1765	T1918	GW84	to be or not to be	Hypatia was known more for math than astronomy.	1
+1766	T1918	GW84	to be or not to be	Hypatia made no impact on other people.	2
+1767	T1918	GW85	to be or not to be	Hypatia is in Eygpt.	0
+1768	T1918	GW85	to be or not to be	Hypatia is influenced by space.	1
+1769	T1918	GW85	to be or not to be	Hypatia is new.	2
+1770	T1918	GW28	to be or not to be	Hypatia studied the teachings of well-known philosophers.	0
+1771	T1918	GW28	to be or not to be	Hypatia was a multi-lingual philosopher.	1
+1772	T1918	GW28	to be or not to be	Hypatia was born and died in Europe.	2
+1773	T1942	GW28	to be or not to be	Jacques Charles was a European man of science.	0
+1774	T1942	GW28	to be or not to be	Jacques Charles died of natural causes.	1
+1775	T1942	GW28	to be or not to be	Jacques Charles was an ignorant peasant.	2
+1776	T1942	GW84	to be or not to be	Jacques Charles was known for his work in science.	0
+1777	T1942	GW84	to be or not to be	Jacques Charles was known for more physics than math.	1
+1778	T1942	GW84	to be or not to be	Jacques Charles was born and died in different countries.	2
+1779	T1942	GW77	to be or not to be	Jacques Charles was a physicist known primarily for his groundbreaking Charles's law	0
+1780	T1942	GW77	to be or not to be	Charles did all of his teaching and research in France at the Academie des sciences.	1
+1781	T1942	GW77	to be or not to be	Jacques Charles was a leading pilot of blimps and flew them frequently in England.	2
+1782	T2028	GW28	to be or not to be	Hot Fuzz was a multi-national film production	0
+1783	T2028	GW28	to be or not to be	Hot Fuzz was an action-comedy film	1
+1784	T2028	GW28	to be or not to be	Simon Pegg wrote, directed and starred in Hot Fuzz.	2
+1785	T2028	GW84	to be or not to be	Hot Fuzz was released in three different countries in the same year.	0
+1786	T2028	GW84	to be or not to be	Hot Fuzz made most of its money in the US.	1
+1787	T2028	GW84	to be or not to be	Hot Fuzz runs for under two years.	2
+1788	T2028	GW94	to be or not to be	Working Title Films was released in the United Kingdom before anywhere else.	0
+1789	T2028	GW94	to be or not to be	The producer in charge of Hot Fuzz was Working Title Films.	1
+1790	T2028	GW94	to be or not to be	Working Title Films was made in German.	2
+1791	T2032	GW28	to be or not to be	Republic of Indonesia is a multi-ethnic and multi-lingual country.	0
+1792	T2032	GW28	to be or not to be	Joko Widodo is the Republic of Indonesia's 20th President.	1
+1793	T2032	GW28	to be or not to be	Republic of Indonesia is a constitutional monarchy.	2
+1794	T2032	GW93	to be or not to be	Joko Widodo is the president of Republic of Indonesia.	0
+1795	T2032	GW93	to be or not to be	Jakarta is the fifth largest capital in the world.	1
+1796	T2032	GW93	to be or not to be	There are ten languages spoken in Republic of Indonesia.	2
+1797	T2032	GW84	to be or not to be	Jakarta is the where the government in Republic of Indonesia is.	0
+1798	T2032	GW84	to be or not to be	Jakarta is the biggest city in the Republic of Indonesia.	1
+1799	T2032	GW84	to be or not to be	The upper and lower house of the Republic of Indonesia belong to the same party.	2
