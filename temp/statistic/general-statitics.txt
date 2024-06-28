@@ -1,0 +1,233 @@
+================== Annotators in each splits statistics ===================
+
+Distinct annotators in train: 121
+Annotators with #example they annotate for train: {'GW0': 593, 'GW1': 1234, 'GW2': 421, 'GW3': 162, 'GW5': 51, 'GW4': 1186, 'GW6': 412, 'GW7': 42, 'GW8': 3, 'GW9': 72, 'GW10': 3, 'GW11': 243, 'GW12': 514, 'GW13': 87, 'GW14': 391, 'GW15': 3, 'GW16': 3, 'GW17': 174, 'GW18': 3, 'GW19': 84, 'GW20': 3, 'GW21': 72, 'GW23': 3, 'GW24': 6, 'GW25': 33, 'GW26': 9, 'GW27': 581, 'GW28': 1340, 'GW29': 3, 'GW30': 72, 'GW31': 132, 'GW32': 48, 'GW34': 15, 'GW33': 286, 'GW35': 222, 'GW36': 21, 'GW37': 9, 'GW38': 6, 'GW39': 3, 'GW40': 208, 'GW41': 3, 'GW42': 13, 'GW43': 3, 'GW44': 6, 'GW46': 3, 'GW47': 6, 'GW50': 3, 'GW51': 946, 'GW45': 18, 'GW52': 114, 'GW53': 30, 'GW54': 54, 'GW55': 3, 'GW56': 3, 'GW57': 6, 'GW58': 6, 'GW59': 186, 'GW60': 57, 'GW61': 15, 'GW62': 3, 'GW63': 6, 'GW66': 123, 'GW67': 24, 'GW68': 243, 'GW69': 18, 'GW70': 12, 'GW71': 3, 'GW72': 316, 'GW22': 433, 'GW73': 3, 'GW74': 151, 'GW75': 3, 'GW76': 36, 'GW77': 51, 'GW78': 3, 'GW79': 3, 'GW80': 18, 'GW81': 3, 'GW82': 3, 'GW83': 9, 'GW84': 565, 'GW85': 273, 'GW86': 433, 'GW87': 12, 'GW88': 3, 'GW89': 135, 'GW90': 3, 'GW91': 3, 'GW92': 3, 'GW93': 563, 'GW94': 157, 'GW95': 60, 'GW96': 13, 'GW97': 3, 'GW98': 3, 'GW99': 6, 'GW100': 3, 'GW101': 6, 'GW102': 13, 'GW104': 3, 'GW112': 108, 'GW113': 90, 'GW114': 81, 'GW115': 114, 'GW116': 567, 'GW110': 102, 'GW117': 126, 'GW118': 84, 'GW119': 153, 'GW120': 135, 'GW121': 105, 'GW111': 159, 'GW122': 144, 'GW107': 270, 'GW123': 75, 'GW124': 33, 'GW125': 3, 'GW126': 78, 'GW127': 3, 'GW128': 75, 'GW129': 81}
+------------------------------------------
+Distinct annotators in dev: 35
+Annotators with #example they annotate for dev: {'GW0': 117, 'GW1': 234, 'GW4': 273, 'GW2': 48, 'GW9': 3, 'GW14': 93, 'GW30': 12, 'GW25': 3, 'GW28': 378, 'GW27': 69, 'GW32': 6, 'GW33': 15, 'GW48': 3, 'GW11': 3, 'GW42': 3, 'GW51': 153, 'GW12': 33, 'GW53': 3, 'GW6': 27, 'GW59': 3, 'GW22': 30, 'GW40': 15, 'GW72': 9, 'GW76': 3, 'GW17': 3, 'GW84': 138, 'GW85': 24, 'GW60': 12, 'GW74': 12, 'GW68': 6, 'GW86': 9, 'GW31': 6, 'GW93': 48, 'GW94': 3, 'GW103': 3}
+------------------------------------------
+Distinct annotators in test_alpha1: 37
+Annotators with #example they annotate for test_alpha1: {'GW0': 174, 'GW1': 183, 'GW4': 300, 'GW2': 27, 'GW12': 30, 'GW28': 390, 'GW27': 96, 'GW21': 9, 'GW30': 6, 'GW14': 57, 'GW35': 9, 'GW45': 6, 'GW32': 3, 'GW34': 3, 'GW33': 9, 'GW51': 168, 'GW54': 3, 'GW6': 48, 'GW61': 6, 'GW11': 3, 'GW19': 3, 'GW66': 3, 'GW17': 9, 'GW22': 18, 'GW68': 9, 'GW72': 3, 'GW84': 123, 'GW85': 30, 'GW74': 3, 'GW86': 18, 'GW40': 15, 'GW79': 3, 'GW31': 3, 'GW93': 21, 'GW69': 3, 'GW77': 3, 'GW94': 3}
+------------------------------------------
+Distinct annotators in test_alpha2: 31
+Annotators with #example they annotate for test_alpha2: {'GW1': 273, 'GW2': 27, 'GW4': 333, 'GW6': 24, 'GW0': 162, 'GW22': 9, 'GW14': 84, 'GW28': 390, 'GW21': 6, 'GW33': 12, 'GW27': 57, 'GW32': 3, 'GW35': 3, 'GW51': 102, 'GW12': 18, 'GW59': 6, 'GW61': 3, 'GW64': 3, 'GW60': 3, 'GW52': 3, 'GW17': 3, 'GW75': 3, 'GW84': 183, 'GW85': 24, 'GW40': 3, 'GW74': 6, 'GW68': 3, 'GW80': 3, 'GW93': 45, 'GW86': 3, 'GW94': 3}
+------------------------------------------
+Distinct annotators in test_alpha3: 23
+Annotators with #example they annotate for test_alpha3: {'GW74': 162, 'GW52': 390, 'GW95': 33, 'GW86': 162, 'GW12': 120, 'GW28': 294, 'GW63': 36, 'GW1': 102, 'GW105': 45, 'GW4': 156, 'GW106': 102, 'GW19': 66, 'GW84': 6, 'GW60': 57, 'GW107': 9, 'GW89': 21, 'GW2': 3, 'GW25': 21, 'GW83': 3, 'GW38': 3, 'GW108': 3, 'GW3': 3, 'GW109': 3}
+------------------------------------------
+
+================= Annoatotors intersection in each splits statistics  ====================
+
+Number of annotator intersection between train and dev: 33
+Annotator intersection between train and dev: {'GW11', 'GW14', 'GW22', 'GW4', 'GW25', 'GW2', 'GW72', 'GW74', 'GW51', 'GW6', 'GW31', 'GW53', 'GW9', 'GW68', 'GW33', 'GW27', 'GW0', 'GW85', 'GW94', 'GW60', 'GW93', 'GW12', 'GW1', 'GW42', 'GW86', 'GW84', 'GW40', 'GW32', 'GW17', 'GW59', 'GW30', 'GW28', 'GW76'}
+Instances annotated by worker who also annotated train for dev: 1794
+------------------------------------------
+Number of annotator intersection between train and test_alpha1: 37
+Annotator intersection between train and test_alpha1: {'GW11', 'GW14', 'GW22', 'GW4', 'GW2', 'GW35', 'GW77', 'GW34', 'GW72', 'GW74', 'GW51', 'GW6', 'GW19', 'GW66', 'GW31', 'GW68', 'GW33', 'GW61', 'GW27', 'GW0', 'GW85', 'GW79', 'GW94', 'GW69', 'GW54', 'GW93', 'GW1', 'GW12', 'GW21', 'GW86', 'GW84', 'GW40', 'GW32', 'GW17', 'GW30', 'GW45', 'GW28'}
+Instances annotated by worker who also annotated train for test_alpha1: 1800
+------------------------------------------
+Number of annotator intersection between train and test_alpha2: 30
+Annotator intersection between train and test_alpha2: {'GW14', 'GW22', 'GW4', 'GW2', 'GW35', 'GW52', 'GW80', 'GW74', 'GW51', 'GW6', 'GW68', 'GW33', 'GW61', 'GW27', 'GW0', 'GW85', 'GW94', 'GW75', 'GW60', 'GW93', 'GW12', 'GW1', 'GW21', 'GW86', 'GW84', 'GW40', 'GW32', 'GW17', 'GW59', 'GW28'}
+Instances annotated by worker who also annotated train for test_alpha2: 1797
+------------------------------------------
+Number of annotator intersection between train and test_alpha3: 19
+Annotator intersection between train and test_alpha3: {'GW4', 'GW25', 'GW2', 'GW52', 'GW74', 'GW19', 'GW38', 'GW83', 'GW107', 'GW95', 'GW63', 'GW89', 'GW60', 'GW1', 'GW12', 'GW86', 'GW84', 'GW3', 'GW28'}
+Instances annotated by worker who also annotated train for test_alpha3: 1647
+------------------------------------------
+
+=============================================================
+
+
+
+================== Average number of keys in tables per splits statistics ===================
+
+Average number of keys per table in train: 8.82183908045977
+Average number of keys per table in dev: 8.735
+Average number of keys per table in test_alpha1: 8.795
+Average number of keys per table in test_alpha2: 8.755
+Average number of keys per table in test_alpha3: 13.1
+
+=============================================================
+
+
+
+================= Mean Words in hypothesis statitsics  ====================
+
+
+train
+
+Mean number of words for entailment: 9.80181983621474
+Std. dev for entailment: 3.527228850952977
+------------------------------------------
+Mean number of words for neutral: 9.841278439869988
+Std. dev for neutral: 3.35622736761509
+------------------------------------------
+Mean number of words for contradiction: 9.375476839237058
+Std. dev for contradiction: 3.2626165194248866
+------------------------------------------
+
+dev
+
+Mean number of words for entailment: 9.718333333333334
+Std. dev for entailment: 2.9578703863121216
+------------------------------------------
+Mean number of words for neutral: 9.896666666666667
+Std. dev for neutral: 3.0955864639120576
+------------------------------------------
+Mean number of words for contradiction: 9.728333333333333
+Std. dev for contradiction: 2.9168242814555847
+------------------------------------------
+
+test_alpha1
+
+Mean number of words for entailment: 9.901666666666667
+Std. dev for entailment: 2.8656582528665595
+------------------------------------------
+Mean number of words for neutral: 10.05
+Std. dev for neutral: 3.069337604978203
+------------------------------------------
+Mean number of words for contradiction: 9.845
+Std. dev for contradiction: 2.956513994555074
+------------------------------------------
+
+test_alpha2
+
+Mean number of words for entailment: 9.333333333333334
+Std. dev for entailment: 2.8235123910162363
+------------------------------------------
+Mean number of words for neutral: 9.596666666666666
+Std. dev for neutral: 2.954768274426195
+------------------------------------------
+Mean number of words for contradiction: 9.401666666666667
+Std. dev for contradiction: 2.788726810252704
+------------------------------------------
+
+test_alpha3
+
+Mean number of words for entailment: 10.48
+Std. dev for entailment: 3.472213511100184
+------------------------------------------
+Mean number of words for neutral: 9.841666666666667
+Std. dev for neutral: 3.392137559448647
+------------------------------------------
+Mean number of words for contradiction: 9.863333333333333
+Std. dev for contradiction: 3.305750881250565
+------------------------------------------
+
+=============================================================
+
+
+
+================= Total Table Keys in each split statitsics  ====================
+
+Keys in train: 1558
+Keys in dev: 411
+Keys in test_alpha1: 466
+Keys in test_alpha2: 332
+Keys in test_alpha3: 409
+
+================= Table Unique Keys statitsics  ====================
+
+Total unique keys: 2133
+
+=============================================================
+
+
+
+================= Table keys intersection in tables with train for each splits statistics  ====================
+
+Intersection between Train and dev: 334
+Intersection between Train and test_alpha1: 312
+Intersection between Train and test_alpha2: 273
+Intersection between Train and test_alpha3: 94
+
+=============================================================
+
+
+
+================= Table category count for each splits  ====================
+
+------------------for split : train------------------------
+
+format 'category': (#examples, percent of #examples)
+train {'Album': (158, 9.0805), 'Movie': (176, 10.1149), 'Food&Drink': (57, 3.2759), 'Person': (412, 23.6782), 'Musician': (255, 14.6552), 'Country': (65, 3.7356), 'Painting': (104, 5.977), 'Planet': (5, 0.2874), 'Book': (38, 2.1839), 'Animal': (62, 3.5632), 'Event': (13, 0.7471), 'City': (140, 8.046), 'WineYard': (3, 0.1724), 'Game': (8, 0.4598), 'Food&Drinks': (9, 0.5172), 'Sports': (32, 1.8391), 'Sports Event': (36, 2.069), 'Organization': (72, 4.1379), 'Wineyard': (2, 0.1149), 'Product': (10, 0.5747), 'Food': (5, 0.2874), 'Sport': (12, 0.6897), 'Awards': (4, 0.2299), 'Architecture': (6, 0.3448), 'University': (32, 1.8391), 'Aircraft': (11, 0.6322), 'Bridge': (2, 0.1149), 'Airport': (2, 0.1149), 'Universtiy': (2, 0.1149), 'Award': (2, 0.1149), 'Element': (1, 0.0575), 'TV Show': (1, 0.0575), nan: (1, 0.0575), 'Language': (1, 0.0575), 'Car': (1, 0.0575)}
+------------------for split : dev------------------------
+
+format 'category': (#examples, percent of #examples)
+dev {'Person': (54, 27.0), 'Food&Drink': (7, 3.5), 'Animal': (9, 4.5), 'Musician': (38, 19.0), 'Album': (14, 7.0), 'Country': (12, 6.0), 'Movie': (20, 10.0), 'Painting': (9, 4.5), 'Sports': (6, 3.0), 'City': (17, 8.5), 'Food&Drinks': (1, 0.5), 'Organization': (4, 2.0), 'Award': (1, 0.5), 'University': (2, 1.0), 'Awards': (1, 0.5), 'Architecture': (1, 0.5), 'Aircraft': (1, 0.5), 'Sport': (1, 0.5), 'Event': (1, 0.5), 'Book': (1, 0.5)}
+------------------for split : test_alpha1------------------------
+
+format 'category': (#examples, percent of #examples)
+test_alpha1 {'Country': (18, 9.0), 'Album': (7, 3.5), 'Movie': (18, 9.0), 'Person': (57, 28.5), 'Musician': (37, 18.5), 'Painting': (8, 4.0), 'Food&Drink': (8, 4.0), 'City': (16, 8.0), 'Games': (2, 1.0), 'Book': (6, 3.0), 'Sports': (2, 1.0), 'Animal': (8, 4.0), 'Sports Event': (3, 1.5), 'Event': (2, 1.0), 'University': (3, 1.5), 'Airport': (1, 0.5), 'Organization': (2, 1.0), 'Planet': (2, 1.0)}
+------------------for split : test_alpha2------------------------
+
+format 'category': (#examples, percent of #examples)
+test_alpha2 {'Person': (71, 35.5), 'Movie': (23, 11.5), 'Musician': (45, 22.5), 'Painting': (7, 3.5), 'Country': (7, 3.5), 'City': (14, 7.0), 'Event': (1, 0.5), 'Album': (9, 4.5), 'Food&Drink': (5, 2.5), 'Organization': (1, 0.5), 'Animal': (8, 4.0), 'Book': (5, 2.5), 'Awards': (1, 0.5), 'Aircraft': (1, 0.5), 'Architecture': (1, 0.5), 'Food': (1, 0.5)}
+------------------for split : test_alpha3------------------------
+
+format 'category': (#examples, percent of #examples)
+test_alpha3 {'Air crash': (8, 4.0), 'Earthquakes': (7, 3.5), 'Computer': (6, 3.0), 'Bus/Train Lines': (29, 14.5), 'Diseases': (41, 20.5), 'Engines': (4, 2.0), 'Cloud': (2, 1.0), 'Festival': (35, 17.5), 'Coffe House': (1, 0.5), 'Element': (10, 5.0), 'Bridge': (8, 4.0), 'Cars': (1, 0.5), 'Exams': (17, 8.5), 'Occupation': (6, 3.0), 'OS': (3, 1.5), 'Equilibrium': (4, 2.0), 'Bus/Train Station': (2, 1.0), 'Restaurant': (5, 2.5), 'Smartphone': (7, 3.5), 'Bus/Train Provider': (1, 0.5), 'Hotel': (1, 0.5), 'Math': (1, 0.5), 'Flight': (1, 0.5)}
+
+=============================================================
+
+
+
+================= Average premise hypothesis overlap for each splits  ====================
+
+------------------for split : train with following format: (label, mean, variance) ------------------------
+
+entailment 0.5199082845162379 0.20880947762367494
+neutral 0.46151915593757464 0.20326910340658397
+contradiction 0.4640268797707489 0.19726489556774865
+
+------------------------------------------
+
+------------------for split : dev with following format: (label, mean, variance) ------------------------
+
+entailment 0.4679065101565102 0.17693295524751984
+neutral 0.44337564287564285 0.17831278190407815
+contradiction 0.4395778712028711 0.1772174169167432
+
+------------------------------------------
+
+------------------for split : test_alpha1 with following format: (label, mean, variance) ------------------------
+
+entailment 0.4733039599289599 0.1845246403184325
+neutral 0.4379691234691235 0.1893065464695427
+contradiction 0.43057022607022605 0.18446043995887682
+
+------------------------------------------
+
+------------------for split : test_alpha2 with following format: (label, mean, variance) ------------------------
+
+entailment 0.453885131072631 0.17418364562192287
+neutral 0.4400497835497835 0.16571699809040724
+contradiction 0.45413875013875016 0.1700442246837087
+
+------------------------------------------
+
+------------------for split : test_alpha3 with following format: (label, mean, variance) ------------------------
+
+entailment 0.4850423766048766 0.20916909336249379
+neutral 0.45994270081770083 0.213429490511824
+contradiction 0.4453162346912347 0.2024022754195137
+
+------------------------------------------
+
+
+=============================================================
+
+
+
+================= Table Count Statistics  ====================
+
+train 1740
+dev 200
+test_alpha1 200
+test_alpha2 200
+test_alpha3 200
+
+=============================================================
+
+
+

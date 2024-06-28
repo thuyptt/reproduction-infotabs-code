@@ -1,0 +1,88 @@
+--------------------------------------------------------------------
+result of validation for dev set
+--------------------------------------------------------------------
+exactly 'x' agreement 	 exactly 'x' agreement and equals gold label
+--------------------------------------------------------------------
+3 : 469 	 3_gold : 350
+4 : 598 	 4_gold : 526
+5 : 607 	 5_gold : 552
+no_agreement : 117
+--------------------------------------------------------------------
+final statistics in terms of percentage or standard evaluation metric
+--------------------------------------------------------------------
+individual agreement with gold : 0.7112377122430742
+individual agreement with majority : 0.8167802079598422
+fleiss kappa : 0.4604839159663889
+cohen kappa : 0.7791786469219905
+majority agreement at least : {'3': 93.46733668341709, '4': 67.28084868788386, '5': 33.89168062534897}
+majority and gold agreement at least : {'3': 79.7319932998325, '4': 60.189838079285316, '5': 30.82077051926298}
+--------------------------------------------------------------------
+
+
+
+--------------------------------------------------------------------
+result of validation for test_alpha1 set
+--------------------------------------------------------------------
+exactly 'x' agreement 	 exactly 'x' agreement and equals gold label
+--------------------------------------------------------------------
+3 : 294 	 3_gold : 185
+4 : 529 	 4_gold : 456
+5 : 925 	 5_gold : 865
+no_agreement : 44
+--------------------------------------------------------------------
+final statistics in terms of percentage or standard evaluation metric
+--------------------------------------------------------------------
+individual agreement with gold : 0.7851959361393324
+individual agreement with majority : 0.8724962801877074
+fleiss kappa : 0.6384550438655325
+cohen kappa : 0.7922482554179164
+majority agreement at least : {'3': 97.54464285714286, '4': 81.13839285714286, '5': 51.61830357142857}
+majority and gold agreement at least : {'3': 84.04017857142857, '4': 73.71651785714286, '5': 48.270089285714285}
+--------------------------------------------------------------------
+
+
+
+--------------------------------------------------------------------
+result of validation for test_alpha2 set
+--------------------------------------------------------------------
+exactly 'x' agreement 	 exactly 'x' agreement and equals gold label
+--------------------------------------------------------------------
+3 : 348 	 3_gold : 245
+4 : 537 	 4_gold : 453
+5 : 857 	 5_gold : 812
+no_agreement : 58
+--------------------------------------------------------------------
+final statistics in terms of percentage or standard evaluation metric
+--------------------------------------------------------------------
+individual agreement with gold : 0.7773677736777368
+individual agreement with majority : 0.863195566843685
+fleiss kappa : 0.5962267367392741
+cohen kappa : 0.8000702473001786
+majority agreement at least : {'3': 96.77777777777777, '4': 77.44444444444444, '5': 47.61111111111111}
+majority and gold agreement at least : {'3': 83.88888888888889, '4': 70.27777777777777, '5': 45.111111111111114}
+--------------------------------------------------------------------
+
+
+
+--------------------------------------------------------------------
+result of validation for test_alpha3 set
+--------------------------------------------------------------------
+exactly 'x' agreement 	 exactly 'x' agreement and equals gold label
+--------------------------------------------------------------------
+3 : 422 	 3_gold : 273
+4 : 524 	 4_gold : 441
+5 : 765 	 5_gold : 706
+no_agreement : 79
+--------------------------------------------------------------------
+final statistics in terms of percentage or standard evaluation metric
+--------------------------------------------------------------------
+individual agreement with gold : 0.7322905027932961
+individual agreement with majority : 0.840093512565751
+fleiss kappa : 0.5420130409273657
+cohen kappa : 0.7443961312976786
+majority agreement at least : {'3': 95.58659217877094, '4': 72.01117318435755, '5': 42.737430167597765}
+majority and gold agreement at least : {'3': 79.3296089385475, '4': 64.07821229050279, '5': 39.4413407821229}
+--------------------------------------------------------------------
+
+
+

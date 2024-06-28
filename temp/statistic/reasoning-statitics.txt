@@ -1,0 +1,27 @@
+========== reasoning for dev set ==============
+		E	N	C
+negation	0	0	6	
+lexicalreasoning	5	3	4	
+temporal	19	11	25	
+multirowreasoning	20	16	17	
+simplelookup	3	0	1	
+numerical	11	3	7	
+coref	8	22	13	
+subjectiveoot	6	41	6	
+quantification	4	13	6	
+KCS	31	21	24	
+entitytype	6	8	6	
+namedentity	2	2	1	
+================================
+
+
+========== #reasoning/per_example for dev set  =========
+	1	2	3	4	5	
+E	13	21	16	3	0	
+N	8	21	13	9	3	
+C	14	20	14	5	0	
+==================================
+================================
+
+
+========== reasoning with #prediction/#gold for dev set  =========
