@@ -101,9 +101,7 @@ Preprocessing is separated into the following steps.
 First extract something out of the json files. Assume the data is downloaded and unpacked into ```data/maindata/```
 ```
 cd scripts/preprocess/
-mkdir ./../../temp
-mkdir ./../../temp/data/
-mkdir ./../../temp/data/parapremise
+mkdir -p ./../../temp/data/parapremise
 python3 json_to_para.py --json_dir ./../../data/tables/json/ --data_dir ./../../data/maindata/ --save_dir ./../../temp/data/parapremise/
 
 ```
@@ -124,9 +122,8 @@ temp/data/
 Then batch examples and vectorize them:
 ```
 cd ../svm
-mkdir ./../../temp/svmformat
-mkdir ./../../temp/svmformat/hypo
-mkdir ./../../temp/svmformat/union 						
+mkdir -p ./../../temp/svmformat/hypo
+mkdir -p ./../../temp/svmformat/union 						
 python hypo.py 					#only hypothesis unigram-bigram tokens as features
 python union.py 				#union of premise and hypothesis unigram-bigram tokens as features
 
@@ -147,12 +144,19 @@ temp/svmformat/union
 For training and prediction on the SVM baseline download and install the [liblinear library](https://github.com/cjlin1/liblinear) in ```scripts/svm```. Use the appropiate directiory in ```./../../temp/svmformat/``` from either union or hypo for training and prediction. For example,
 ```
 cd liblinear
-./train -C ./../../temp/svmformat/union/train.txt
-./train -c <best_c_value> ../svmformat/format/union/train.txt 	# <best_c_value> is the number obtained from last the iteration
-./predict ../svmformat/union/test_dev.txt train.txt.model output_dev.txt
-./predict ../svmformat/union/test_alpha1.txt train.txt.model output_test_alpha1.txt
-./predict ../svmformat/union/test_alpha2.txt train.txt.model output_test_alpha2.txt
-./predict ../svmformat/union/test_alpha3.txt train.txt.model output_test_alpha3.txt
+windows/train -C ../../../temp/svmformat/union/train.txt
+windows/train -c <best_c_value> ../../../temp/svmformat/union/train.txt 	# <best_c_value> (here: 0.0625) is the number obtained from last the iteration
+windows/predict ../../../temp/svmformat/union/dev.txt train.txt.model output_dev.txt
+windows/predict ../../../temp/svmformat/union/test_alpha1.txt train.txt.model output_test_alpha1.txt
+windows/predict ../../../temp/svmformat/union/test_alpha2.txt train.txt.model output_test_alpha2.txt
+windows/predict ../../../temp/svmformat/union/test_alpha3.txt train.txt.model output_test_alpha3.txt
+
+windows/train -C ../../../temp/svmformat/hypo/train.txt
+windows/train -c <best_c_value> ../../../temp/svmformat/hypo/train.txt 	# <best_c_value> (here: 0.0078125) is the number obtained from last the iteration
+windows/predict ../../../temp/svmformat/hypo/dev.txt train.txt.model output_dev.txt
+windows/predict ../../../temp/svmformat/hypo/test_alpha1.txt train.txt.model output_test_alpha1.txt
+windows/predict ../../../temp/svmformat/hypo/test_alpha2.txt train.txt.model output_test_alpha2.txt
+windows/predict ../../../temp/svmformat/hypo/test_alpha3.txt train.txt.model output_test_alpha3.txt
 
 ```
 ```train.txt.model``` is the train model. ``` output_<split_name>.txt``` is the prediction for the mentioned split.
@@ -165,10 +169,9 @@ Preprocessing is separated into the following steps.
 
 First extract something out of the json files. Assume the data is downloaded and unpacked into ```data/maindata/```
 ```
-cd scripts/preprocess/
-mkdir ./../../temp
-mkdir ./../../temp/data/
-bash json_to_all.sh 						# comment premise types as needed
+cd ../../preprocess
+mkdir -p ./../../temp/data
+. json_to_all.sh 						# comment premise types as needed
 
 ```
 This might take a few minutes. You would see a ```temp/data/``` folder. ```temp/data/``` will contain sub-folders for several premise types. For example, 
@@ -189,7 +192,7 @@ Then batch examples and vectorize them:
 ```
 cd ../roberta
 mkdir ./../../temp/processed 						
-bash preprocess_roberta.sh 					# comment premise types as needed
+. preprocess_roberta.sh 					# comment premise types as needed
 
 ```
 You would see a ```temp/processed/``` folder. ```temp/processed/``` will contain sub-folders for several premise types. For example, 
@@ -237,13 +240,20 @@ important argument details which could be reset as needed for training and predi
 -- model_name: model finename usually is in format 'model_<batch_number>_<dev_accuracy>' (only used while prediction, i.e., model is "test")
 -- save_folder: name the primary models directory appropriately as ./../.../temp/models/ (only used while training i.e., model is "train")
 -- save_dir: name the primary models directory appropriately, usually same as the in_dir final directory (only used while training, i.e., model is "train")
--- nooflabels: set as 3 as three labels entailment, neutral and contradiction)
+-- nooflabels: set as 3 as three labels entailment, neutral and contradiction
 -- save_enable: set as 1 to save prediction files as predict_<datsetname>.json in model_dir. json contains accuracy, predicted label and gold label (in the same sequence order as the dataset set tsv in temp/data/)  (only used while prediction, i.e., model is "test")
 -- eval-splits: ' '  separated datasplits names [dev, test_alpha1, test_alpha2, test_alpha3] (only used while prediction, i.e., model is "test")
 -- seed: set a particular seed
 -- parallel:  for a single GPU, 1 for multiple GPUs (used when training large data, use the same flag at both predictions and train time)
 
 ```
+Run following command:
+
+mkdir -p ./../../temp/models
+. classifier.sh                # to train the model
+. verifier.sh                  # to test the model
+
+'''
 After training you would see a ```temp/models/``` folder. ```temp/models/``` will contain sub-folders for several premise types. Furthermore, prediction would create ```predict_<split>.json``` files. For example, 
 ```
 
@@ -273,6 +283,7 @@ For evaluation on metrics other than accuracy, such as F1-score, use the scikit-
 mkdir ./../../temp/validation/
 mkdir ./../../temp/validation/plots
 bash validation.sh
+. validation.sh
 ```
 You would see a ```temp/validation/``` folder created with the following structure 
 ```

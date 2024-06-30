@@ -155,6 +155,7 @@ safetensors==0.4.3
     # via transformers
 scipy==1.14.0
     # via
+    #   -r requirements.ini
     #   gensim
     #   liblinear
 shellingham==1.5.4
