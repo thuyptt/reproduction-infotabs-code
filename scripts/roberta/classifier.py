@@ -72,7 +72,7 @@ def test(model, classifier, data):
     predictions_inds = []
 
     for batch_ndx,(enc, mask, seg, gold, ids) in enumerate(loader):
-	# Forward-pass w/o calculating gradients
+    # Forward-pass w/o calculating gradients
         with torch.no_grad():
             outputs = model(enc,attention_mask = mask, token_type_ids=seg)
             predictions = classifier(outputs[1])
@@ -214,7 +214,7 @@ def test_data(args):
             # Load data
             data_file = open(args['in_dir']+split+".pkl",'rb')
             data = pickle.load(data_file)
-	    
+        
             # Compute Accuracy
             acc,gold,pred = test(model,classifier,data)
             print("{} accuracy: {}".format(split, acc))
@@ -226,6 +226,7 @@ def test_data(args):
                 if not os.path.isdir(result_dir):
                     os.mkdir(result_dir)
                 with open(result_dir+"/predict_"+split+".json", 'w') as fp:
+                #with open(result_dir+"/predict_"+split+"_"+args["model_name"]+".json", 'w') as fp:
                     json.dump(results, fp)
         
         except FileNotFoundError:
@@ -244,8 +245,6 @@ if __name__ == "__main__":
     torch.manual_seed(current_seed)
 
     if args['mode']=="train":
-    	train(args)
+        train(args)
     elif args['mode'] == "test":
-    	test_data(args)
-
-	
+        test_data(args)

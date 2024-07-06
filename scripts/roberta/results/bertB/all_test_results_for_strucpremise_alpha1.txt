@@ -1,0 +1,45 @@
+model_1_0.625
+C:\Users\tuanp\workspace\reproduction-infotabs-code\.conda\Lib\site-packages\transformers\models\bert\modeling_bert.py:439: UserWarning: 1Torch was not compiled with flash attention. (Triggered internally at ..\aten\src\ATen\native\transformers\cuda\sdp_utils.cpp:455.)
+  attn_output = torch.nn.functional.scaled_dot_product_attention(
+dev accuracy: 0.625
+test_alpha1 accuracy: 0.6138888888888889
+model_2_0.6472222222222223
+C:\Users\tuanp\workspace\reproduction-infotabs-code\.conda\Lib\site-packages\transformers\models\bert\modeling_bert.py:439: UserWarning: 1Torch was not compiled with flash attention. (Triggered internally at ..\aten\src\ATen\native\transformers\cuda\sdp_utils.cpp:455.)
+  attn_output = torch.nn.functional.scaled_dot_product_attention(
+Traceback (most recent call last):
+  File "C:\Users\tuanp\workspace\reproduction-infotabs-code\scripts\roberta\classifier.py", line 250, in <module>
+    test_data(args)
+  File "C:\Users\tuanp\workspace\reproduction-infotabs-code\scripts\roberta\classifier.py", line 219, in test_data
+    acc,gold,pred = test(model,classifier,data)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\tuanp\workspace\reproduction-infotabs-code\scripts\roberta\classifier.py", line 77, in test
+    outputs = model(enc,attention_mask = mask, token_type_ids=seg)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\tuanp\workspace\reproduction-infotabs-code\.conda\Lib\site-packages\torch\nn\modules\module.py", line 1532, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\tuanp\workspace\reproduction-infotabs-code\.conda\Lib\site-packages\torch\nn\modules\module.py", line 1541, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\tuanp\workspace\reproduction-infotabs-code\.conda\Lib\site-packages\transformers\models\bert\modeling_bert.py", line 1154, in forward
+    pooled_output = self.pooler(sequence_output) if self.pooler is not None else None
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\tuanp\workspace\reproduction-infotabs-code\.conda\Lib\site-packages\torch\nn\modules\module.py", line 1532, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\tuanp\workspace\reproduction-infotabs-code\.conda\Lib\site-packages\torch\nn\modules\module.py", line 1541, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\tuanp\workspace\reproduction-infotabs-code\.conda\Lib\site-packages\transformers\models\bert\modeling_bert.py", line 747, in forward
+    pooled_output = self.activation(pooled_output)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\tuanp\workspace\reproduction-infotabs-code\.conda\Lib\site-packages\torch\nn\modules\module.py", line 1532, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\tuanp\workspace\reproduction-infotabs-code\.conda\Lib\site-packages\torch\nn\modules\module.py", line 1541, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\tuanp\workspace\reproduction-infotabs-code\.conda\Lib\site-packages\torch\nn\modules\activation.py", line 357, in forward
+    return torch.tanh(input)
+           ^^^^^^^^^^^^^^^^^
+KeyboardInterrupt

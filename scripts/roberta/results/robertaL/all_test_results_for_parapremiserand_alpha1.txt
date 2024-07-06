@@ -1,0 +1,50 @@
+model_1_0.4477777777777778
+Some weights of RobertaModel were not initialized from the model checkpoint at roberta-large and are newly initialized: ['roberta.pooler.dense.bias', 'roberta.pooler.dense.weight']
+You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+dev accuracy: 0.4477777777777778
+test_alpha1 accuracy: 0.43222222222222223
+model_2_0.6216666666666667
+Some weights of RobertaModel were not initialized from the model checkpoint at roberta-large and are newly initialized: ['roberta.pooler.dense.bias', 'roberta.pooler.dense.weight']
+You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+dev accuracy: 0.6216666666666667
+test_alpha1 accuracy: 0.6066666666666667
+model_3_0.6355555555555555
+Some weights of RobertaModel were not initialized from the model checkpoint at roberta-large and are newly initialized: ['roberta.pooler.dense.bias', 'roberta.pooler.dense.weight']
+You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+dev accuracy: 0.6355555555555555
+test_alpha1 accuracy: 0.6388888888888888
+model_4_0.6422222222222222
+Some weights of RobertaModel were not initialized from the model checkpoint at roberta-large and are newly initialized: ['roberta.pooler.dense.bias', 'roberta.pooler.dense.weight']
+You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+dev accuracy: 0.6422222222222222
+test_alpha1 accuracy: 0.6483333333333333
+model_5_0.6433333333333333
+Some weights of RobertaModel were not initialized from the model checkpoint at roberta-large and are newly initialized: ['roberta.pooler.dense.bias', 'roberta.pooler.dense.weight']
+You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+dev accuracy: 0.6433333333333333
+test_alpha1 accuracy: 0.6527777777777778
+model_6_0.6466666666666666
+Some weights of RobertaModel were not initialized from the model checkpoint at roberta-large and are newly initialized: ['roberta.pooler.dense.bias', 'roberta.pooler.dense.weight']
+You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+dev accuracy: 0.6466666666666666
+test_alpha1 accuracy: 0.6544444444444445
+model_7_0.6622222222222223
+Some weights of RobertaModel were not initialized from the model checkpoint at roberta-large and are newly initialized: ['roberta.pooler.dense.bias', 'roberta.pooler.dense.weight']
+You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+dev accuracy: 0.6622222222222223
+test_alpha1 accuracy: 0.6588888888888889
+model_8_0.6522222222222223
+Some weights of RobertaModel were not initialized from the model checkpoint at roberta-large and are newly initialized: ['roberta.pooler.dense.bias', 'roberta.pooler.dense.weight']
+You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+dev accuracy: 0.6522222222222223
+test_alpha1 accuracy: 0.6533333333333333
+model_9_0.6477777777777778
+Some weights of RobertaModel were not initialized from the model checkpoint at roberta-large and are newly initialized: ['roberta.pooler.dense.bias', 'roberta.pooler.dense.weight']
+You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+dev accuracy: 0.6477777777777778
+test_alpha1 accuracy: 0.6555555555555556
+model_10_0.6505555555555556
+Some weights of RobertaModel were not initialized from the model checkpoint at roberta-large and are newly initialized: ['roberta.pooler.dense.bias', 'roberta.pooler.dense.weight']
+You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+dev accuracy: 0.6505555555555556
+test_alpha1 accuracy: 0.6488888888888888

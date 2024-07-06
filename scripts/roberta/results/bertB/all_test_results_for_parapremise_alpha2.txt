@@ -1,0 +1,50 @@
+model_1_0.6216666666666667
+C:\Users\tuanp\workspace\reproduction-infotabs-code\.conda\Lib\site-packages\transformers\models\bert\modeling_bert.py:439: UserWarning: 1Torch was not compiled with flash attention. (Triggered internally at ..\aten\src\ATen\native\transformers\cuda\sdp_utils.cpp:455.)
+  attn_output = torch.nn.functional.scaled_dot_product_attention(
+dev accuracy: 0.6216666666666667
+test_alpha2 accuracy: 0.5166666666666667
+model_2_0.6522222222222223
+C:\Users\tuanp\workspace\reproduction-infotabs-code\.conda\Lib\site-packages\transformers\models\bert\modeling_bert.py:439: UserWarning: 1Torch was not compiled with flash attention. (Triggered internally at ..\aten\src\ATen\native\transformers\cuda\sdp_utils.cpp:455.)
+  attn_output = torch.nn.functional.scaled_dot_product_attention(
+dev accuracy: 0.6522222222222223
+test_alpha2 accuracy: 0.5527777777777778
+model_3_0.655
+C:\Users\tuanp\workspace\reproduction-infotabs-code\.conda\Lib\site-packages\transformers\models\bert\modeling_bert.py:439: UserWarning: 1Torch was not compiled with flash attention. (Triggered internally at ..\aten\src\ATen\native\transformers\cuda\sdp_utils.cpp:455.)
+  attn_output = torch.nn.functional.scaled_dot_product_attention(
+dev accuracy: 0.655
+test_alpha2 accuracy: 0.5583333333333333
+model_4_0.6605555555555556
+C:\Users\tuanp\workspace\reproduction-infotabs-code\.conda\Lib\site-packages\transformers\models\bert\modeling_bert.py:439: UserWarning: 1Torch was not compiled with flash attention. (Triggered internally at ..\aten\src\ATen\native\transformers\cuda\sdp_utils.cpp:455.)
+  attn_output = torch.nn.functional.scaled_dot_product_attention(
+dev accuracy: 0.6605555555555556
+test_alpha2 accuracy: 0.555
+model_5_0.6655555555555556
+C:\Users\tuanp\workspace\reproduction-infotabs-code\.conda\Lib\site-packages\transformers\models\bert\modeling_bert.py:439: UserWarning: 1Torch was not compiled with flash attention. (Triggered internally at ..\aten\src\ATen\native\transformers\cuda\sdp_utils.cpp:455.)
+  attn_output = torch.nn.functional.scaled_dot_product_attention(
+dev accuracy: 0.6655555555555556
+test_alpha2 accuracy: 0.5522222222222222
+model_6_0.6688888888888889
+C:\Users\tuanp\workspace\reproduction-infotabs-code\.conda\Lib\site-packages\transformers\models\bert\modeling_bert.py:439: UserWarning: 1Torch was not compiled with flash attention. (Triggered internally at ..\aten\src\ATen\native\transformers\cuda\sdp_utils.cpp:455.)
+  attn_output = torch.nn.functional.scaled_dot_product_attention(
+dev accuracy: 0.6688888888888889
+test_alpha2 accuracy: 0.5494444444444444
+model_7_0.6716666666666666
+C:\Users\tuanp\workspace\reproduction-infotabs-code\.conda\Lib\site-packages\transformers\models\bert\modeling_bert.py:439: UserWarning: 1Torch was not compiled with flash attention. (Triggered internally at ..\aten\src\ATen\native\transformers\cuda\sdp_utils.cpp:455.)
+  attn_output = torch.nn.functional.scaled_dot_product_attention(
+dev accuracy: 0.6716666666666666
+test_alpha2 accuracy: 0.5583333333333333
+model_8_0.675
+C:\Users\tuanp\workspace\reproduction-infotabs-code\.conda\Lib\site-packages\transformers\models\bert\modeling_bert.py:439: UserWarning: 1Torch was not compiled with flash attention. (Triggered internally at ..\aten\src\ATen\native\transformers\cuda\sdp_utils.cpp:455.)
+  attn_output = torch.nn.functional.scaled_dot_product_attention(
+dev accuracy: 0.675
+test_alpha2 accuracy: 0.5583333333333333
+model_9_0.6777777777777778
+C:\Users\tuanp\workspace\reproduction-infotabs-code\.conda\Lib\site-packages\transformers\models\bert\modeling_bert.py:439: UserWarning: 1Torch was not compiled with flash attention. (Triggered internally at ..\aten\src\ATen\native\transformers\cuda\sdp_utils.cpp:455.)
+  attn_output = torch.nn.functional.scaled_dot_product_attention(
+dev accuracy: 0.6777777777777778
+test_alpha2 accuracy: 0.5594444444444444
+model_10_0.6744444444444444
+C:\Users\tuanp\workspace\reproduction-infotabs-code\.conda\Lib\site-packages\transformers\models\bert\modeling_bert.py:439: UserWarning: 1Torch was not compiled with flash attention. (Triggered internally at ..\aten\src\ATen\native\transformers\cuda\sdp_utils.cpp:455.)
+  attn_output = torch.nn.functional.scaled_dot_product_attention(
+dev accuracy: 0.6744444444444444
+test_alpha2 accuracy: 0.5644444444444444
