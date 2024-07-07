@@ -1,0 +1,12 @@
+*
+optimization finished, #iter = 6
+Objective value = -86.453034
+nSV = 15949
+*
+optimization finished, #iter = 6
+Objective value = -78.953945
+nSV = 15693
+*
+optimization finished, #iter = 6
+Objective value = -92.591330
+nSV = 16353

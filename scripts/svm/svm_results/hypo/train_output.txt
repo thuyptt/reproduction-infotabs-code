@@ -1,0 +1,35 @@
+Doing parameter search with 5-fold cross validation.
+log2c= -22.00	rate=42.1683
+log2c= -21.00	rate=42.2167
+log2c= -20.00	rate=42.253
+log2c= -19.00	rate=42.4285
+log2c= -18.00	rate=42.7189
+log2c= -17.00	rate=43.1182
+log2c= -16.00	rate=43.8744
+log2c= -15.00	rate=44.9392
+log2c= -14.00	rate=46.488
+log2c= -13.00	rate=48.1638
+log2c= -12.00	rate=49.7792
+log2c= -11.00	rate=51.5155
+log2c= -10.00	rate=52.6771
+log2c=  -9.00	rate=53.6512
+log2c=  -8.00	rate=54.4377
+log2c=  -7.00	rate=54.6676
+log2c=  -6.00	rate=54.1049
+log2c=  -5.00	rate=53.0159
+log2c=  -4.00	rate=51.812
+log2c=  -3.00	rate=50.602
+log2c=  -2.00	rate=49.5916
+log2c=  -1.00	rate=48.8717
+log2c=   0.00	rate=48.2485
+log2c=   1.00	rate=47.9763
+log2c=   2.00	rate=47.6677
+log2c=   3.00	rate=47.698
+log2c=   4.00	rate=47.5346
+log2c=   5.00	rate=47.5346
+log2c=   6.00	rate=47.5346
+log2c=   7.00	rate=47.5346
+log2c=   8.00	rate=47.5346
+log2c=   9.00	rate=47.5346
+log2c=  10.00	rate=47.5346
+Best C = 0.0078125  CV accuracy = 54.6676%

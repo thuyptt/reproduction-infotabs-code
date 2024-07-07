@@ -1,0 +1,20 @@
+# redirect svm results to files
+
+mkdir -p  svm_results/union
+mkdir -p  svm_results/hypo
+
+cd liblinear
+
+windows/train -C ../../../temp/svmformat/union/train.txt > ./../svm_results/union/train_output.txt
+windows/train -c 0.0625 ../../../temp/svmformat/union/train.txt > ./../svm_results/union/train_with_best_c_output.txt
+windows/predict ../../../temp/svmformat/union/dev.txt train.txt.model output_dev.txt > ./../svm_results/union/predict_dev_output.txt
+windows/predict ../../../temp/svmformat/union/test_alpha1.txt train.txt.model output_test_alpha1_output.txt > ./../svm_results/union/predict_test_alpha1_output.txt
+windows/predict ../../../temp/svmformat/union/test_alpha2.txt train.txt.model output_test_alpha2_output.txt > ./../svm_results/union/predict_test_alpha2_output.txt
+windows/predict ../../../temp/svmformat/union/test_alpha3.txt train.txt.model output_test_alpha3_output.txt > ./../svm_results/union/predict_test_alpha3_output.txt
+
+windows/train -C ../../../temp/svmformat/hypo/train.txt > ./../svm_results/hypo/train_output.txt
+windows/train -c 0.0078125 ../../../temp/svmformat/hypo/train.txt > ./../svm_results/hypo/train_with_best_c_output.txt
+windows/predict ../../../temp/svmformat/hypo/dev.txt train.txt.model output_dev.txt > ./../svm_results/hypo/predict_dev_output.txt
+windows/predict ../../../temp/svmformat/hypo/test_alpha1.txt train.txt.model output_test_alpha1_output.txt > ./../svm_results/hypo/predict_test_alpha1_output.txt
+windows/predict ../../../temp/svmformat/hypo/test_alpha2.txt train.txt.model output_test_alpha2_output.txt > ./../svm_results/hypo/predict_test_alpha2_output.txt
+windows/predict ../../../temp/svmformat/hypo/test_alpha3.txt train.txt.model output_test_alpha3_output.txt > ./../svm_results/hypo/predict_test_alpha3_output.txt
